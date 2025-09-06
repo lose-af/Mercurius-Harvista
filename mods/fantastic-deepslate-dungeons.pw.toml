@@ -3,8 +3,8 @@ filename = "deepdungeon-1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a24e953a2f8dcf82748a0b50836f8aea46e626c1"
+hash-format = "sha512"
+hash = "4ff82183a3728628d7c3dbcd09cf80c55bcc641e5d59968acc4d009a10d1d79a7d4864e2615915034aa2b77f27b677197c48abb0b57fa0a60f60ca2b7713bf45"
 mode = "metadata:curseforge"
 
 [update]

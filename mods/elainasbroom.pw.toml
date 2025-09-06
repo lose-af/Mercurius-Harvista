@@ -3,8 +3,8 @@ filename = "elainabroom_neoforge_1.21.1-1.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0582a43d42257e96ea4161d18f2cef37e18dc545"
+hash-format = "sha512"
+hash = "60c6c82dcc4cf99329556cbdcc75494988b285be081c0a497e8e140878fd4743fb95cc911c63558c87092a30d30b7ab3e65a68906851295293a6393de79fc8a5"
 mode = "metadata:curseforge"
 
 [update]

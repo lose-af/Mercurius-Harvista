@@ -3,8 +3,8 @@ filename = "ApothicAttributes-1.21.1-2.9.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "eed5808509eb279fd342cafebadd5b95accb4ef8"
+hash-format = "sha512"
+hash = "b92200b41c8b7785b8437d4e991815ed6534972d21649af61d992db42fdf47ea27e7e01ab58157ef5d73c80d89e045569e4ae283a6ae5a01c6db993ae74df878"
 mode = "metadata:curseforge"
 
 [update]

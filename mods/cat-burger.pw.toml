@@ -3,8 +3,8 @@ filename = "catburger_neoforge1.21.1-1.0.3_fix.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1597585b1452524a7f980e1e3601511c76a8c648"
+hash-format = "sha512"
+hash = "07e5c1409f914468711b2c7f27bd6d89ba73d29fe18d6b05be32b6207eeaeb4a312c3b465c280a877e5e29d3a31687d396aa9a684d136c990c68bae86734799e"
 mode = "metadata:curseforge"
 
 [update]

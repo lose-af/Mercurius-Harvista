@@ -3,8 +3,8 @@ filename = "ftb-chunks-neoforge-2101.1.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b6d3cc2446e44237abdb858541d053a65f846e1b"
+hash-format = "sha512"
+hash = "fee60650153e59148ac9c561b46d66e4a7112b990c95634914686dd6b2ecffff1b4cbaf522dbed037eb97ed04cf9fec2fbae6f7e31f8985ff6525ff349ff8154"
 mode = "metadata:curseforge"
 
 [update]

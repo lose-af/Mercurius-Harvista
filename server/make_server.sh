@@ -31,7 +31,7 @@ download() {
 if [ ! -f forge-$FORGE_VERSION-installer.jar ]; then
 
     download "https://maven.neoforged.net/releases/net/neoforged/neoforge/$FORGE_VERSION/neoforge-$FORGE_VERSION-installer.jar"
-    java -jar forge-$FORGE_VERSION-installer.jar --installServer
+    java -jar neoforge-$FORGE_VERSION-installer.jar --installServer
     rm run.sh run.bat
 fi
 

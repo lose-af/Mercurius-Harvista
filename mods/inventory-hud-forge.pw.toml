@@ -3,8 +3,8 @@ filename = "inventoryhud.neoforged.1.21.1-3.4.28.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1bfd8bbb862a8cf55fd83947ded2b0eeda8c6bc8"
+hash-format = "sha512"
+hash = "a316cfb654199f51f242e6fe95fb29d129166231d14993d3a3b82f4c0461497e2e709bd5acb69701d982d63b207e65bdf0c620acab308af35aa06e8e9b2ba203"
 mode = "metadata:curseforge"
 
 [update]
