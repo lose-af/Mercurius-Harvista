@@ -341,10 +341,6 @@ file = "config/ftbchunks-world.snbt"
 hash = "df97d93407a6babe2efd80d6d5a912b0bc5dbbf8de9ccb08be2880f731c30ec1"
 
 [[files]]
-file = "config/ftbessentials.snbt"
-hash = "eb014f760dc4180eedffe7e3327290b808b9f85c312eddd67d79cdbe0695ef00"
-
-[[files]]
 file = "config/ftblibrary-client.snbt"
 hash = "3f915d8f5b69b0afc1767ac7ffb11ea4689fa16457e09fecf10386cfc4c67a26"
 
@@ -1841,6 +1837,14 @@ file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
+file = "defaultconfigs/ftbessentials-server.snbt"
+hash = "be1b284a92e706d4d0f7ccca94c7614b0281956427a934c470dec5084c0554bb"
+
+[[files]]
+file = "defaultconfigs/ftbranks/ranks.snbt"
+hash = "42441e10ef8d84904ad7e6f7bd3c635065a4f9354f7952033d753f2dc29357fe"
+
+[[files]]
 file = "icon.png"
 hash = "3939f0e8036f8129f88cab01fde7d0e0ab772d2109b99533e18340b1016fa829"
 
@@ -2299,6 +2303,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
 hash = "c68589f3d83bf3acfa51a207ea281710a746921c8b45e863068415f2df7bf6a7"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ranks-forge.pw.toml"
+hash = "726b14494232ae10c257d3d96ff56e7f1814063b499057e7051d57055a2f4e9f"
 metafile = true
 
 [[files]]
