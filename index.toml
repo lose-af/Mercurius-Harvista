@@ -2058,7 +2058,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "0c8e84efffde0a6f647e6895173fe11163e34773f7458b7eecaeaa66be329399"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
@@ -2092,8 +2092,8 @@ hash = "3b25384acb368599971dd72d3fa48f5449552e6f732d5c25caee154926a447b1"
 metafile = true
 
 [[files]]
-file = "mods/better-village-forge.pw.toml"
-hash = "54f17c922b9d109b594f25e4f192f8c79a7ca4fa7b19acd7068de25c4fe28830"
+file = "mods/better-village.pw.toml"
+hash = "e86098eaa2e7d9ae6602787711615a5c6ec7ecddd3dc36acbd36c2532ee95757"
 metafile = true
 
 [[files]]
@@ -2103,7 +2103,7 @@ metafile = true
 
 [[files]]
 file = "mods/calypsos-candy-workshop.pw.toml"
-hash = "84fdb873e4480d2dba181441e2daf232bf05973dafbba3fd68a2999182c7bae4"
+hash = "3e40a988fa285672707c409ae6868445a69cd75133cf9d77fee7e33f3f7b19ed"
 metafile = true
 
 [[files]]
@@ -2133,7 +2133,7 @@ metafile = true
 
 [[files]]
 file = "mods/commandstructures.pw.toml"
-hash = "f516f067b761ed75b0d6346975dc6d03723cf588a64132f0e38ab1e98937b0a9"
+hash = "58c9aab93f2256229b132626889fb85ad9663fcf8ce0683ca27dfbc70dcb570d"
 metafile = true
 
 [[files]]
@@ -2163,7 +2163,7 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "1b391fef75582ef9d935c095646a28db239ba4792a4ce0e8778b5e1650b20d5f"
+hash = "1f5047efcbdbcfe334a9841a69b7a51b188cdfe1fc00b9e4ed277c4cfec161a8"
 metafile = true
 
 [[files]]
@@ -2179,11 +2179,6 @@ metafile = true
 [[files]]
 file = "mods/displaycase.pw.toml"
 hash = "f466176613569fa62d77533c3bdf7d522a04fcf77375a38c9277403c2d3f15c6"
-metafile = true
-
-[[files]]
-file = "mods/domum-ornamentum.pw.toml"
-hash = "92f2fcc8ec27f87aaf75f3f2ac03d9afd7643f68bdb592a0227699d1385afdf7"
 metafile = true
 
 [[files]]
@@ -2238,7 +2233,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "4f0a337c47e8f805704990a3af3840faff47ebcf5fdfb11067e9599ad7295745"
+hash = "6235e7170c7322559d2b0e76a97c891dbab60e79c15a9d4cb3a4805b5d23fbda"
 metafile = true
 
 [[files]]
@@ -2442,8 +2437,8 @@ hash = "802a03c3c1119f899119e2a3c77697007a435bead3b77ba6fe0efc846fcd6ba3"
 metafile = true
 
 [[files]]
-file = "mods/library-ferret-forge.pw.toml"
-hash = "520bb0680d4e5f1e9015ce88089257d3a4c7c9144d707f341216383f2d916ddf"
+file = "mods/library-ferret.pw.toml"
+hash = "599c8c37e60b9f1fbfb29d10eb9ede3d174b72287b9fbe407e90b6417a27a441"
 metafile = true
 
 [[files]]
@@ -2463,7 +2458,7 @@ metafile = true
 
 [[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
-hash = "9d6563ede5f11c5b2e48f728f16665cfb21d307e6cccebedb7f65a5e1fdce071"
+hash = "8f5f308ef5f265fac7efc01fd9413ed94733788cb6b141f4da7948c5b3dcc2f8"
 metafile = true
 
 [[files]]
@@ -2473,12 +2468,12 @@ metafile = true
 
 [[files]]
 file = "mods/mmv-moogs-missing-villages.pw.toml"
-hash = "b037e8b9e5e29a340daad9164e72f1da31afdf8fddb8e3bf1db8725f3f9013ce"
+hash = "d87ecbd12ed7c0931503098601fbdb4212e89bd55b1affe6720fb65de3629cd8"
 metafile = true
 
 [[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
-hash = "9ce4109028c2a3b711d9c5ba56ba4fdf33ad10fe153fb5f1f3f66fcdc445042e"
+hash = "53d38e297781a67b9cad992e3961a76b100fc1889659db310feb2726ba2dfe84"
 metafile = true
 
 [[files]]
@@ -2488,7 +2483,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
-hash = "8860fcec1f5f58e201c5a2454a404fa0d8231dc417c5b174f0f3df17aeacadb6"
+hash = "244da279b83fe723e8f0951cee870945019fdb11ed3db35e62dcecacd6c3b6a2"
 metafile = true
 
 [[files]]
@@ -2503,7 +2498,7 @@ metafile = true
 
 [[files]]
 file = "mods/mss-moogs-soaring-structures.pw.toml"
-hash = "d914387ae7d1a7e6c1e06aa3ba0ebf6fef7add8f336065ed9394fa50cc72596a"
+hash = "145f5803430a5751da8fbe09a79ae58a8ca1d9117289444494dd47a9c4c271cb"
 metafile = true
 
 [[files]]
@@ -2592,6 +2587,11 @@ hash = "d9b38ba42434eb436d036b1c8add839bee003240dc85cc54ec626aac58c59070"
 metafile = true
 
 [[files]]
+file = "mods/probejs.pw.toml"
+hash = "2a8dd9366ed60e7040e90c1b87722b14729ffe080e693ef43151dea10d25ed38"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "989b2aeb18f4004fb9b7932951de4b38ffa0fc6bf5360ac32ffe9af08391d04d"
 metafile = true
@@ -2638,7 +2638,7 @@ metafile = true
 
 [[files]]
 file = "mods/sky-villages.pw.toml"
-hash = "65ae5274b963d5b15e22cd3680b2ac6851f3fa5669b3914c496b45148a18a5a7"
+hash = "3c88d13ec3f4c2904befee38aa1a4fc27ffb0c322fb4186d82a53179125e43d1"
 metafile = true
 
 [[files]]
@@ -2718,7 +2718,7 @@ metafile = true
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
-hash = "7b9d8b2cd26fa320b7d40b0c68b85f3ae0c1516f896239bf5d9ede1f90761be1"
+hash = "7379e80a7595fbc1bbae69ce7fa89e9cdceb6d84d618a1c94fa590cb37bba02a"
 metafile = true
 
 [[files]]
@@ -2748,7 +2748,7 @@ metafile = true
 
 [[files]]
 file = "mods/wits.pw.toml"
-hash = "a9c466cd6b58f1b584239cdce99f9a153507c4a51ceb7060399eb068600e1c3e"
+hash = "8fc2058373fea6aa1800d38bd51c1e73b85aa62194b76cb159c37914ee922877"
 metafile = true
 
 [[files]]
@@ -2775,6 +2775,10 @@ metafile = true
 file = "mods/yungs-api.pw.toml"
 hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "3888639b0f49c508347d40ae3c158fcda642ee5f0c06b31b4955aff01decc5af"
 
 [[files]]
 file = "resourcepacks/HarvistaCompat/assets/stellaris/sky_aesthetics/deimos.json"
