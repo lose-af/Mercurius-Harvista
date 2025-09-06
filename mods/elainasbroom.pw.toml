@@ -1,0 +1,13 @@
+name = "Elaina'sBroom"
+filename = "elainabroom_neoforge_1.21.1-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0582a43d42257e96ea4161d18f2cef37e18dc545"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6658750
+project-id = 1152294

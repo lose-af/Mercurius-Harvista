@@ -1,0 +1,13 @@
+name = "Command Structures"
+filename = "command_structures-4.4.2+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/WEfvvlnl/versions/rTiLoxgs/command_structures-4.4.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "558ab643254a59a7b2837cf47212947dd9f31d7aac00350f476d1c0f2110b150000be4afa15f4f7d4bcbf9469f045eadac568397b4a83f87af2a0d11d91784b9"
+
+[update]
+[update.modrinth]
+mod-id = "WEfvvlnl"
+version = "rTiLoxgs"

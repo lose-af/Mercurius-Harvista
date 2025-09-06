@@ -1,0 +1,4 @@
+Harvista-*
+server/*
+!server/make_server.sh
+!server/manual_mods.list

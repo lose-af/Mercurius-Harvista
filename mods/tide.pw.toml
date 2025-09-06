@@ -1,0 +1,13 @@
+name = "Tide"
+filename = "tide-neoforge-1.21-1.6.3-hotfix.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/die1AF7i/versions/9eCVOz1y/tide-neoforge-1.21-1.6.3-hotfix.jar"
+hash-format = "sha512"
+hash = "bdbc2d2504f9163154f3b26ab08a19a8d28ad2d0708adf524ebd19cba7526537c2b3a2f391d9cd96eff7e6519d078324466da66e22d437471bbf36cb1f718eac"
+
+[update]
+[update.modrinth]
+mod-id = "die1AF7i"
+version = "9eCVOz1y"

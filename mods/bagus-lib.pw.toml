@@ -1,0 +1,13 @@
+name = "Bagus Lib"
+filename = "bagus_lib-1.21.1-13.18.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/95nSN4Rd/versions/japsBCPm/bagus_lib-1.21.1-13.18.1.jar"
+hash-format = "sha512"
+hash = "a7b05a9d90f8418e65320f065fede5f274fddbb83194daf886c7cdad4a7ac4d4de244761e4c0a108c5796afe4f4b153098afa4b8ea8a6a5a41f488e4d39b3b6a"
+
+[update]
+[update.modrinth]
+mod-id = "95nSN4Rd"
+version = "japsBCPm"

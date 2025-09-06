@@ -1,0 +1,13 @@
+name = "Display Case"
+filename = "display_case-neoforge-1.21.1-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cSIsh4gX/versions/RvZYsas0/display_case-neoforge-1.21.1-1.2.jar"
+hash-format = "sha512"
+hash = "d089b578c0450d08a3dea47b9a1a6d3df1ad4013291816eb564ca949ddfbec2200fbdcec87a6d30ebdfc33c5b9adedab342c6fa29682ba2ce272f29507dc6b7e"
+
+[update]
+[update.modrinth]
+mod-id = "cSIsh4gX"
+version = "RvZYsas0"

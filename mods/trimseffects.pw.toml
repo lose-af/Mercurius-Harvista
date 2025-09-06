@@ -1,0 +1,13 @@
+name = "TrimsEffects"
+filename = "trimeffects-neoforge-mc1.21-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BL7ADJ7w/versions/bEjVixg6/trimeffects-neoforge-mc1.21-2.1.1.jar"
+hash-format = "sha512"
+hash = "83cfddbee082288bf008e71daeca2846d1d806d16101e0229476096fa4105d84493dd885036b0faeaee49b08fcb0e4eeecf048dacb7fe51a2d503eadb8e707bc"
+
+[update]
+[update.modrinth]
+mod-id = "BL7ADJ7w"
+version = "bEjVixg6"

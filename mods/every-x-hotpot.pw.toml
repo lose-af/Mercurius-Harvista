@@ -1,0 +1,13 @@
+name = "EveryXHotpot"
+filename = "everyxhotpot-2.0.5-1.21Neo-TeaCon2024.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/346Wf89R/versions/8eumYfVX/everyxhotpot-2.0.5-1.21Neo-TeaCon2024.jar"
+hash-format = "sha512"
+hash = "9b7924321b4801508beb7fbdef5ac5dc560c54ef9c391b699a6c055d5ec7c1702ba97b129edbe729a8d254e31a35a616e06e19981bc3be153170bb122f90a9b4"
+
+[update]
+[update.modrinth]
+mod-id = "346Wf89R"
+version = "8eumYfVX"

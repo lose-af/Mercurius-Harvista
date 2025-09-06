@@ -1,0 +1,13 @@
+name = "Calypso's Candy Workshop"
+filename = "ccw-v1.2.0-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zCKDP104/versions/OK9kaluC/ccw-v1.2.0-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "91f1775baf4f9b49bf01bc99c6fedbd05f227d5593da840d9b58bbd2d9329e44671869b51b5e8bd175b7b5546dfd01294954d1044ce3fe78e16eaee3cf53eaf3"
+
+[update]
+[update.modrinth]
+mod-id = "zCKDP104"
+version = "OK9kaluC"

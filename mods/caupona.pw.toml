@@ -1,0 +1,13 @@
+name = "Caupona"
+filename = "Caupona-1.21.1-0.5.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EFoYZIZL/versions/LKgJmyWY/Caupona-1.21.1-0.5.3.jar"
+hash-format = "sha512"
+hash = "0632c4eec4fef6bc0aaeccd8d56ff607c9732f632f0a662706e19eebe883ee092d1d0303a2b693e15a426d050894a925a24d91b4a4ddc89db33fb1b073e0c0b8"
+
+[update]
+[update.modrinth]
+mod-id = "EFoYZIZL"
+version = "LKgJmyWY"
