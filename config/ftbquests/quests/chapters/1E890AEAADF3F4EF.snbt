@@ -1,0 +1,1025 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "1E890AEAADF3F4EF"
+	group: "6BB200F5268CA08D"
+	icon: {
+		id: "stellaris:rocket_station"
+	}
+	id: "1E890AEAADF3F4EF"
+	images: [{
+		height: 1.0d
+		image: "stellaris:textures/effects/radiation.png"
+		rotation: 0.0d
+		width: 1.0d
+		x: 6.0d
+		y: -1.5d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"7993AE3838EA6C36"
+				"73D2A8D2BC2899E1"
+				"17C6C1EA50995749"
+				"32B725CB6CE98829"
+			]
+			id: "4CF9175C9393FB5A"
+			rewards: [{
+				id: "15E3270A429EC403"
+				item: {
+					count: 1
+					id: "oritech:small_tank_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "51193CA03384160C"
+				item: { count: 1, id: "oritech:augment_application_block" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -9.0d
+		}
+		{
+			id: "2A8FFB844C7C3A85"
+			rewards: [{
+				count: 8
+				id: "61CB147BA4ACD095"
+				item: {
+					count: 1
+					id: "oritech:fluxite"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "719B9A2E24F33938"
+				item: { count: 1, id: "oritech:atomic_forge_block" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2A8FFB844C7C3A85"]
+			hide_dependency_lines: true
+			icon: {
+				id: "oritech:reactor_controller"
+			}
+			id: "502B1F78E6C0FCBC"
+			optional: true
+			rewards: [{
+				id: "031D6F3F65AE05A5"
+				item: {
+					count: 1
+					id: "oritech:reactor_controller"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3CECC6E179F5FBCB"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: -1.5d
+		}
+		{
+			icon: {
+				id: "stellaris:moon_globe"
+			}
+			id: "110E842F1CDE5A0D"
+			rewards: [{
+				id: "63138374451C2256"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "octagon"
+			size: 1.0d
+			tasks: [{
+				dimension: "stellaris:moon"
+				id: "5B614F6184D32ACD"
+				type: "dimension"
+			}]
+			x: -4.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["110E842F1CDE5A0D"]
+			id: "5C6E94B517BAE068"
+			rewards: [{
+				count: 4
+				id: "2C51863527A6BA99"
+				item: {
+					count: 1
+					id: "stellaris:desh_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "595159E37CDC1160"
+				item: { count: 1, id: "stellaris:desh_ingot" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["5C6E94B517BAE068"]
+			icon: {
+				components: {
+					"stellaris:fluid": {
+						amounts: [L;
+							0L
+							0L
+						]
+						fluids: [
+							"minecraft:empty"
+							"minecraft:empty"
+						]
+					}
+				}
+				id: "stellaris:jet_suit_chestplate"
+			}
+			id: "6ACECCF0B0EAF9B5"
+			rewards: [{
+				id: "6392F16FE937498B"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [
+				{
+					id: "6415D0BA5A86B352"
+					item: { components: { "stellaris:fluid": { amounts: [L; 0L, 0L ], fluids: [ "minecraft:empty", "minecraft:empty" ] } }, count: 1, id: "stellaris:jet_suit_chestplate" }
+					type: "item"
+				}
+				{
+					id: "49B530FC8444B086"
+					item: { count: 1, id: "stellaris:jet_suit_helmet" }
+					type: "item"
+				}
+				{
+					id: "2657301D939AB736"
+					item: { count: 1, id: "stellaris:jet_suit_leggings" }
+					type: "item"
+				}
+				{
+					id: "49F82405B404C645"
+					item: { count: 1, id: "stellaris:jet_suit_boots" }
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["5C6E94B517BAE068"]
+			id: "776D533E3711E0A1"
+			rewards: [{
+				id: "0BE5BDC671848E10"
+				item: {
+					count: 1
+					id: "ccw:dolphin_cookie"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7026044EF998C9DD"
+				item: { count: 1, id: "stellaris:rocket" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"776D533E3711E0A1"
+				"5896461918D2C642"
+			]
+			dependency_requirement: "one_completed"
+			id: "4260A048CF120127"
+			rewards: [{
+				id: "13187558E81019D6"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "12E61B8F5BCD50E7"
+				item: { count: 1, id: "stellaris:big_fuel_tank_upgrade" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"776D533E3711E0A1"
+				"5896461918D2C642"
+			]
+			dependency_requirement: "one_completed"
+			id: "23EF1A9F0D14C212"
+			rewards: [{
+				id: "7DCCAEFD3BE4EF60"
+				item: {
+					count: 1
+					id: "stellaris:hydrogen_bucket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0622CC5E46A64979"
+				item: { count: 1, id: "stellaris:hydrogen_motor" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["23EF1A9F0D14C212"]
+			id: "1CD01FDBB02C3172"
+			rewards: [{
+				id: "0A6C39DF5BE219EC"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "248FCB04AA187E2D"
+				item: { count: 1, id: "stellaris:radioactive_motor" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["1CD01FDBB02C3172"]
+			id: "3BD6E70466C7A228"
+			rewards: [{
+				id: "0483B652F9B880CE"
+				item: {
+					count: 1
+					id: "stellaris:uranium_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "73ED4B4D02828AD0"
+				item: { count: 1, id: "stellaris:uranium_ingot" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["776D533E3711E0A1"]
+			icon: {
+				id: "stellaris:small_rocket_upgrade"
+			}
+			id: "306A31ABDFD7598F"
+			rewards: [{
+				id: "7EB7B82BC418BB23"
+				item: {
+					count: 1
+					id: "stellaris:normal_rocket_upgrade"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "77AEA5C2D16EB2A6"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["306A31ABDFD7598F"]
+			icon: {
+				id: "stellaris:skin_frozy"
+			}
+			id: "67EDD50F45546B52"
+			rewards: [{
+				id: "32602B8F6E636457"
+				item: {
+					count: 1
+					id: "stellaris:skin_frozy"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0F2A4B812713E20F"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["5C6E94B517BAE068"]
+			id: "5896461918D2C642"
+			rewards: [{
+				id: "1229D55A2716001E"
+				item: {
+					count: 1
+					id: "stellaris:diesel_bucket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "195B1A6C5096AF99"
+				item: { count: 1, id: "stellaris:rover" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["6ACECCF0B0EAF9B5"]
+			id: "0859A9C65CBC9FDC"
+			rewards: [{
+				count: 4
+				id: "0C1AB05AC2D4EA71"
+				item: {
+					count: 1
+					id: "stellaris:small_purple_can"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "41E61DC1A088F1DC"
+				item: { count: 1, id: "stellaris:vacuumator" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["110E842F1CDE5A0D"]
+			hide_dependency_lines: true
+			icon: {
+				id: "stellaris:mars_globe"
+			}
+			id: "7FE09494F225A36B"
+			rewards: [{
+				id: "114433B47B782E72"
+				item: {
+					count: 1
+					id: "stellaris:mars_globe"
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			size: 1.2d
+			tasks: [{
+				dimension: "stellaris:mars"
+				id: "5656A839A6E5E46D"
+				type: "dimension"
+			}]
+			x: 6.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["110E842F1CDE5A0D"]
+			hide_dependency_lines: true
+			icon: {
+				id: "stellaris:mercury_globe"
+			}
+			id: "0794C6685B5A97ED"
+			rewards: [{
+				id: "7F8D158603846260"
+				item: {
+					count: 1
+					id: "stellaris:mercury_globe"
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			size: 1.2d
+			tasks: [{
+				dimension: "stellaris:mercury"
+				id: "7E890905789E2F71"
+				type: "dimension"
+			}]
+			x: 6.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["110E842F1CDE5A0D"]
+			hide_dependency_lines: true
+			icon: {
+				id: "stellaris:venus_globe"
+			}
+			id: "0D99DDFACA68C469"
+			rewards: [{
+				id: "28733FA8E1D73AEC"
+				item: {
+					count: 1
+					id: "stellaris:venus_globe"
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			size: 1.2d
+			tasks: [{
+				dimension: "stellaris:venus"
+				id: "49A165020BB80430"
+				type: "dimension"
+			}]
+			x: 6.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["7FE09494F225A36B"]
+			id: "6FC75A3D10663C9D"
+			rewards: [{
+				count: 8
+				id: "20F1C5CDBE6EE310"
+				item: {
+					count: 1
+					id: "stellaris:tharsite_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0D16DA37DD27B5A1"
+				item: { count: 1, id: "stellaris:tharsite_ingot" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["0794C6685B5A97ED"]
+			id: "36FE6CB5054A9977"
+			rewards: [{
+				count: 4
+				id: "58BFA60F55B73502"
+				item: {
+					count: 1
+					id: "stellaris:solerium"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6D26773E1031B67B"
+				item: { count: 1, id: "stellaris:solerium" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["0D99DDFACA68C469"]
+			id: "2425240831A9CC8F"
+			rewards: [{
+				count: 4
+				id: "7E2F3C615F3CF655"
+				item: {
+					count: 1
+					id: "stellaris:corronium_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0327F13089249785"
+				item: { count: 1, id: "stellaris:corronium_ingot" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 9.5d
+		}
+		{
+			icon: {
+				id: "stellaris:earth_globe"
+			}
+			id: "7C5DB5F787BA5E87"
+			rewards: [{
+				id: "4F29FF52CFBD70C8"
+				item: {
+					count: 1
+					id: "stellaris:earth_globe"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "26387C7D890A2738"
+				type: "checkmark"
+			}]
+			x: 10.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["5896461918D2C642"]
+			id: "681CA957FA7C3874"
+			rewards: [{
+				id: "44BAF36B65972D5C"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "7C44507A5F9C8D4C"
+				item: { count: 1, id: "stellaris:speed_upgrade" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["4CF9175C9393FB5A"]
+			id: "65ACA55219DEFAC7"
+			rewards: [{
+				id: "25F10AF3480223E4"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "10D66B3B597E442D"
+				item: { count: 1, id: "oritech:simple_augment_station" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -10.5d
+		}
+		{
+			dependencies: ["4CF9175C9393FB5A"]
+			id: "33C5BB672376650C"
+			rewards: [{
+				id: "693BFC766C42A8B4"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1CB9041AF9E2DAAD"
+				item: { count: 1, id: "oritech:advanced_augment_station" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["4CF9175C9393FB5A"]
+			id: "40B2DAEFC91CE896"
+			rewards: [{
+				id: "40D11E8E8C9784C9"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3C17CD791BE41F37"
+				item: { count: 1, id: "oritech:arcane_augment_station" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -7.5d
+		}
+		{
+			icon: {
+				id: "handcrafted:stackable_book"
+			}
+			id: "43AF72C76F88755A"
+			rewards: [{
+				id: "014CBFBD3631FA3D"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "1DABEBCBEF012E40"
+				type: "checkmark"
+			}]
+			x: -5.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["0AC69939F62919F9"]
+			hide_dependency_lines: true
+			icon: {
+				id: "oritech:resource_node_diamond"
+			}
+			id: "7C0460326D0FCE79"
+			rewards: [{
+				id: "1DDFD0E5C6346F08"
+				item: {
+					count: 1
+					id: "oritech:laser_arm_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:oritech/resource_node"
+				criterion: ""
+				id: "561194B1D202EE86"
+				type: "advancement"
+			}]
+			x: 7.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["7C0460326D0FCE79"]
+			id: "6BF68A0CBFD27E33"
+			rewards: [{
+				id: "61EF7F852EE6ABBE"
+				item: {
+					count: 1
+					id: "oritech:laser_arm_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5C5EFEDF629346D3"
+				item: { count: 1, id: "oritech:deep_drill_block" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["76916499D4633076"]
+			hide_dependent_lines: true
+			id: "17C6C1EA50995749"
+			rewards: [{
+				count: 8
+				id: "2AA7355DB9F5DBF4"
+				item: {
+					count: 1
+					id: "oritech:accelerator_ring"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5356AC68C3F5973A"
+				item: { count: 1, id: "oritech:accelerator_ring" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["76916499D4633076"]
+			hide_dependency_lines: false
+			hide_dependent_lines: true
+			id: "73D2A8D2BC2899E1"
+			rewards: [{
+				id: "151413846A984797"
+				item: {
+					count: 1
+					id: "oritech:accelerator_sensor"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5D5062F552B11681"
+				item: { count: 1, id: "oritech:accelerator_sensor" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["76916499D4633076"]
+			hide_dependent_lines: true
+			id: "7993AE3838EA6C36"
+			rewards: [{
+				id: "3663FFD69A4E558A"
+				item: {
+					count: 1
+					id: "oritech:accelerator_motor"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1D55493C22389EE1"
+				item: { count: 1, id: "oritech:accelerator_motor" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -10.0d
+		}
+		{
+			dependencies: ["76916499D4633076"]
+			hide_dependent_lines: true
+			id: "32B725CB6CE98829"
+			rewards: [{
+				id: "3760E4770563AD7B"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "242B3B3FB97FC676"
+				item: { count: 1, id: "oritech:accelerator_controller" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -12.0d
+		}
+		{
+			id: "76916499D4633076"
+			rewards: [{
+				id: "68FEFD440FB15DC2"
+				item: {
+					count: 1
+					id: "oritech:overcharged_crystal"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5610EAE3AD2BE2CB"
+				item: { count: 1, id: "oritech:overcharged_crystal" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["76916499D4633076"]
+			id: "628C27C4308A73C4"
+			rewards: [{
+				id: "6BC6BDE9A70E3CC6"
+				item: {
+					count: 1
+					id: "oritech:prometheum_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4BFFDD2618E7EFB2"
+				item: { count: 1, id: "oritech:prometheum_ingot" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["628C27C4308A73C4"]
+			id: "03C487E6D3CBE9D5"
+			rewards: [{
+				id: "1D143D64A06155F5"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "7DB5E2E4FD437EFA"
+				item: { count: 1, id: "oritech:promethium_pickaxe" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: -10.5d
+		}
+		{
+			dependencies: ["628C27C4308A73C4"]
+			id: "65650EED020C647C"
+			rewards: [{
+				id: "3B6511306DE6B611"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "35AEA900D7898B81"
+				item: { count: 1, id: "oritech:promethium_axe" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["628C27C4308A73C4"]
+			id: "42C9A28A55E5FE05"
+			rewards: [{
+				count: 4
+				id: "0DDBF48A9BE57018"
+				item: {
+					count: 1
+					id: "oritech:machine_core_7"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5EFE6BB9563FA608"
+				item: { count: 1, id: "oritech:machine_core_7" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: -7.5d
+		}
+		{
+			icon: {
+				id: "handcrafted:stackable_book"
+			}
+			id: "0A517CAC47C5FCFE"
+			rewards: [{
+				id: "58AB19EDDAA61241"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "1AAD063647276A2C"
+				type: "checkmark"
+			}]
+			x: 3.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["2A8FFB844C7C3A85"]
+			id: "0AC69939F62919F9"
+			rewards: [{
+				count: 4
+				id: "49FC8747051B5F3E"
+				item: {
+					count: 1
+					id: "oritech:super_ai_chip"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6AC62790E14287D8"
+				item: { count: 1, id: "oritech:super_ai_chip" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["0AC69939F62919F9"]
+			id: "5396CB34B1010DF1"
+			rewards: [{
+				id: "2523BB26D9326068"
+				item: {
+					count: 1
+					id: "oritech:drone_port_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "144FAEDF7265655D"
+				item: { count: 1, id: "oritech:drone_port_block" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["0AC69939F62919F9"]
+			id: "499FC09493A903A5"
+			rewards: [{
+				id: "58FAF8AF3C81AF82"
+				item: {
+					count: 1
+					id: "minecraft:dragon_egg"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2A427ADAA814D382"
+				item: { count: 1, id: "oritech:unstable_container" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["6EDA60616760B910"]
+			id: "0A2BAA619B7EF93C"
+			rewards: [{
+				id: "69EA6A9EE64AF857"
+				item: {
+					count: 1
+					id: "oritech:enchantment_catalyst_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4D83E9425BB4998E"
+				item: { count: 1, id: "oritech:enchantment_catalyst_block" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0A2BAA619B7EF93C"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: {
+				id: "oritech:laser_arm_block"
+			}
+			id: "3E59057E1DB3C52B"
+			rewards: [{
+				id: "72096F5B00252ADF"
+				item: {
+					count: 1
+					id: "oritech:laser_arm_block"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "071FAB271A3F57C7"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			icon: {
+				id: "minecraft:soul_campfire"
+			}
+			id: "6EDA60616760B910"
+			rewards: [{
+				count: 4
+				id: "68513B9D06CF9FB7"
+				item: {
+					count: 1
+					id: "tide:tuna_spawn_egg"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2D0BC872E133BDAC"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0A2BAA619B7EF93C"]
+			id: "23D6D5F179E2963F"
+			rewards: [{
+				id: "4DF0B9D746443735"
+				item: {
+					count: 1
+					id: "oritech:enchantment_catalyst_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0585AF54A5F1DD48"
+				item: { count: 1, id: "oritech:enchanter_block" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6EDA60616760B910"]
+			id: "09EDBC4A4D853E06"
+			rewards: [{
+				count: 4
+				id: "7BCFC0E2C821CA48"
+				item: {
+					count: 1
+					id: "minecraft:chicken_spawn_egg"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3EEF63ABA3EDFDDF"
+				item: { count: 1, id: "oritech:spawner_controller_block" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["09EDBC4A4D853E06"]
+			id: "15B09E757FF52191"
+			rewards: [{
+				count: 8
+				id: "5B49F53E9E6C7C12"
+				item: {
+					count: 1
+					id: "oritech:spawner_cage_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "40C8C3555C0215B2"
+				item: { count: 1, id: "oritech:spawner_cage_block" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["499FC09493A903A5"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: {
+				id: "oritech:laser_arm_block"
+			}
+			id: "7C0612BE1771DF19"
+			rewards: [{
+				id: "5392BEB658E8A7AB"
+				item: {
+					count: 1
+					id: "oritech:laser_arm_block"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "61C27C9B25955DB5"
+				type: "checkmark"
+			}]
+			x: 3.5d
+			y: -3.0d
+		}
+	]
+}

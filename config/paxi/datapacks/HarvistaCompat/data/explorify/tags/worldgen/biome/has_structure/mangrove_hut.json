@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:mangrove_swamp",
+		"natures_spirit:marsh"
+	]
+}

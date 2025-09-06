@@ -1,0 +1,460 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "4B21C5AB464BACA7"
+	group: "5A5E37E7F2EBCC02"
+	icon: {
+		id: "kubejs:harvista"
+	}
+	id: "4B21C5AB464BACA7"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "kubejs:harvista"
+			}
+			id: "2FD24E4404B7CFB0"
+			rewards: [{
+				id: "0C397A9B68D7FA14"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				id: "5C7D4D136135BC06"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "smallships:oak_brigg"
+			}
+			id: "03E14437C2FEB2D2"
+			rewards: [{
+				id: "461F6CAE9E98C567"
+				item: {
+					count: 1
+					id: "smallships:oak_cog"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "77B74D4986A289D9"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			icon: {
+				id: "immersive_aircraft:biplane"
+			}
+			id: "50CD39C44CB5CD9B"
+			rewards: [{
+				id: "01B43F3CD9DD33F7"
+				item: {
+					count: 1
+					id: "immersive_aircraft:biplane"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "64B9D1C521B681CD"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			icon: {
+				id: "sophisticatedbackpacks:backpack"
+			}
+			id: "49CDCB0C8457E80E"
+			rewards: [{
+				id: "5C288DEFA543632B"
+				item: {
+					count: 1
+					id: "sophisticatedbackpacks:backpack"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3A7B7C6B2DA5CF97"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "elainabroom:elaina_broom"
+			}
+			id: "30E1950D2238D9FB"
+			rewards: [{
+				id: "60652C251E76544D"
+				item: {
+					count: 1
+					id: "vanillacookbook:pudding"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "10A15CC3B38447F6"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			icon: {
+				components: {
+					"sophisticatedstorage:wood_type": "spruce"
+				}
+				id: "sophisticatedstorage:iron_barrel"
+			}
+			id: "7E95A77C6AE7EBE2"
+			rewards: [{
+				id: "552FAEE928D998B6"
+				item: {
+					components: {
+						"sophisticatedstorage:wood_type": "spruce"
+					}
+					count: 1
+					id: "sophisticatedstorage:iron_barrel"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1CDDE656552E2518"
+				type: "checkmark"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				components: {
+					"minecraft:block_entity_data": {
+						id: "refinedstorage:controller"
+						stored: 1000L
+					}
+				}
+				id: "refinedstorage:controller"
+			}
+			id: "18B22102B5FD3D65"
+			rewards: [{
+				id: "0523720193FF0764"
+				item: {
+					count: 1
+					id: "vanillacookbook:melon_juice"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "56373A0F5F46D3AE"
+				type: "checkmark"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "waystones:waystone"
+			}
+			id: "2F7B600764546440"
+			rewards: [{
+				id: "5A37DF5686DD7CB5"
+				item: {
+					count: 1
+					id: "waystones:waystone"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "706C26BDA9F1817E"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "handcrafted:mangrove_couch"
+			}
+			id: "7A02C582434FEFA8"
+			rewards: [{
+				id: "59D6A63A883AF38E"
+				item: {
+					count: 1
+					id: "handcrafted:acacia_couch"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "421BC1B0A2CFC5FC"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "oritech:basic_generator_block"
+			}
+			id: "209107C60B95DA5A"
+			rewards: [{
+				id: "051080573B7CA874"
+				item: {
+					count: 1
+					id: "vanillacookbook:kelp_salad"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "580B5EB906B4D79F"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			icon: {
+				id: "stellaris:big_rocket_upgrade"
+			}
+			id: "2078BB62B9C13A86"
+			rewards: [{
+				id: "18C65B3574C3BA11"
+				item: {
+					count: 1
+					id: "vanillacookbook:fruit_salad"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "681FA69F301DEA36"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			icon: {
+				id: "natures_spirit:redwood_sapling"
+			}
+			id: "780A88C1854ABC8A"
+			rewards: [{
+				id: "77226E755CC08740"
+				item: {
+					count: 1
+					id: "vanillacookbook:kelp_salad"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "14172BF69B29FE54"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "catburger:cat_burger"
+			}
+			id: "159B57B6E12E0816"
+			rewards: [{
+				id: "544DFF9D5748DB5D"
+				item: {
+					count: 1
+					id: "vanillacookbook:golden_fruit_salad"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "313FDB212D614529"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			icon: {
+				id: "exposure:camera"
+			}
+			id: "038CB06D280092AD"
+			rewards: [{
+				id: "043BC1F2723FA291"
+				item: {
+					count: 1
+					id: "exposure:camera"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "57080F50CF3546BD"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "golemoverhaul:clay_golem_statue"
+			}
+			id: "0AA813D1ACF6673B"
+			rewards: [{
+				id: "7A35AEFA364FA8C0"
+				item: {
+					count: 1
+					id: "vanillacookbook:chocolate_pudding"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "53E0BABDBF9B7C6E"
+				type: "checkmark"
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "illagerinvasion:horn_of_sight"
+			}
+			id: "46BF9BC7AEC698A6"
+			rewards: [{
+				id: "6A545B9697CCDA1F"
+				item: {
+					count: 1
+					id: "vanillacookbook:mashed_potatoes"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4DD41D9864F7D933"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "naturescompass:naturescompass"
+			}
+			id: "67D8D230D8F4A560"
+			rewards: [
+				{
+					id: "43D2FD82FA010B24"
+					item: {
+						count: 1
+						id: "naturescompass:naturescompass"
+					}
+					type: "item"
+				}
+				{
+					id: "6D4DD87DD22023FA"
+					item: {
+						count: 1
+						id: "explorerscompass:explorerscompass"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1D94A81600DF570B"
+				type: "checkmark"
+			}]
+			x: -7.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "irons_jewelry:jewelcrafting_station"
+			}
+			id: "3FDBDE4D8DFFA05B"
+			rewards: [{
+				id: "7AAD489EB10A9437"
+				item: {
+					count: 1
+					id: "irons_jewelry:ruby"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "413C7EEF4AA53C6E"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "musketmod:musket"
+			}
+			id: "0AEE41DFDB955293"
+			rewards: [{
+				id: "7A9A7DD496F29898"
+				item: {
+					count: 1
+					id: "musketmod:musket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "188648189E62BF91"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "ftblibrary:icon_item"
+			}
+			id: "5FD37B72A25BD2DC"
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			icon: {
+				id: "ftblibrary:icon_item"
+			}
+			id: "723D7E9521A1BCBE"
+			rewards: [{
+				id: "19BE12331E52A0FF"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "048BAF4655528CB0"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			icon: {
+				id: "ftblibrary:icon_item"
+			}
+			id: "70F985134C923B43"
+			rewards: [{
+				id: "303812EA8D00E0DB"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "40395DB49A83860D"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: -4.0d
+		}
+	]
+}

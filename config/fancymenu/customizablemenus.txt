@@ -1,0 +1,14 @@
+type = customizablemenus
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+net.p3pp3rf1y.sophisticatedstorage.client.gui.StorageScreen {
+}
+
+net.minecraft.client.gui.screens.TitleScreen {
+}
+
+net.minecraft.client.gui.screens.AccessibilityOnboardingScreen {
+}
+

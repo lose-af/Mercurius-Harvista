@@ -1,0 +1,704 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "7AD258123C618D21"
+	group: "40E8C816D595BB20"
+	icon: {
+		id: "caupona:stew_pot"
+	}
+	id: "7AD258123C618D21"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				components: {
+					"patchouli:book": "caupona:book"
+				}
+				id: "patchouli:guide_book"
+			}
+			id: "297C38D2CF6083A3"
+			rewards: [{
+				id: "7249F13E4E4BD9B2"
+				item: {
+					components: {
+						"patchouli:book": "caupona:book"
+					}
+					count: 1
+					id: "patchouli:guide_book"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "2C35800AB5FE27BA"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "0A71C0AC9735BD88"
+			rewards: [{
+				count: 5
+				id: "7D87AAAD5B7BF208"
+				item: {
+					count: 1
+					id: "minecraft:coal"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4F002B42B499EEA1"
+				item: { count: 1, id: "caupona:mud_kitchen_stove" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0A71C0AC9735BD88"]
+			id: "6C7D4DBBF04E011A"
+			rewards: [{
+				count: 3
+				id: "434A42D0214F1DDD"
+				item: {
+					count: 1
+					id: "minecraft:glass_bottle"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1152FD16E5A2E2C8"
+				item: { count: 1, id: "caupona:copper_frying_pan" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0A71C0AC9735BD88"]
+			id: "3DAC2FEA9045640D"
+			rewards: [{
+				count: 2
+				id: "320A8CDE920D950E"
+				item: {
+					count: 1
+					id: "minecraft:water_bucket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "78BD937A7958948F"
+				item: { count: 1, id: "caupona:stew_pot" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			id: "73FBCE97983306AA"
+			rewards: [{
+				count: 4
+				id: "55394697BA00B638"
+				item: {
+					count: 1
+					id: "caupona:mud_counter"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "09C0DE57B449BA1D"
+				item: { count: 1, id: "caupona:mud_counter_with_dolium" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"6C7D4DBBF04E011A"
+				"73FBCE97983306AA"
+			]
+			id: "74418EE8C609A60D"
+			rewards: [{
+				count: 3
+				id: "3BC5CAF2EE38DAB3"
+				item: {
+					count: 1
+					id: "caupona:walnut"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2E011B224D9E0E61"
+				item: { count: 1, id: "caupona:walnut" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["74418EE8C609A60D"]
+			id: "404B83A0CC43950F"
+			rewards: [{
+				id: "6931AA4C079256E1"
+				item: {
+					count: 1
+					id: "caupona:walnut_boat"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0DBE69D4B8D4924B"
+				item: { count: 1, id: "caupona:gravy_boat" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5F490383EFFFF953"]
+			id: "5303C881979A2DFE"
+			rewards: [{
+				id: "1F36F1A04AAEC460"
+				item: {
+					count: 1
+					id: "caupona:asafoetida_spice_jar"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "11E45A3FA86DE059"
+				item: { count: 1, id: "caupona:asafoetida_spice_jar" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["5F490383EFFFF953"]
+			id: "208DA13B473A944B"
+			rewards: [{
+				id: "7190FD611C98C565"
+				item: {
+					count: 1
+					id: "caupona:chives_spice_jar"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "40D908976C758FA9"
+				item: { count: 1, id: "caupona:chives_spice_jar" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["5F490383EFFFF953"]
+			id: "02D42211D889AB7B"
+			rewards: [{
+				id: "61E583C2E28E1C50"
+				item: {
+					count: 1
+					id: "caupona:garum_spice_jar"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "0E5A7F1B2DDC52E1"
+				item: { count: 1, id: "caupona:garum_spice_jar" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["5F490383EFFFF953"]
+			id: "23E50C165C725520"
+			rewards: [{
+				id: "1232DC22942E9D27"
+				item: {
+					count: 1
+					id: "caupona:sugar_spice_jar"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "760E0BCBD1306BDC"
+				item: { count: 1, id: "caupona:sugar_spice_jar" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5F490383EFFFF953"]
+			id: "07FA2ACF8AC60312"
+			rewards: [{
+				id: "59335C8F76A2F612"
+				item: {
+					count: 1
+					id: "caupona:vinegar_spice_jar"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "697DB1D30B491E3B"
+				item: { count: 1, id: "caupona:vinegar_spice_jar" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6C7D4DBBF04E011A"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "2EE293E9EDFE1E9E"
+			rewards: [{
+				id: "7B796110D0EB7AAB"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "66AE7389D791704E"
+				item: { components: { "patchouli:book": "caupona:book" }, count: 1, id: "patchouli:guide_book" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "37961149006DDE8D"
+			rewards: [{
+				count: 4
+				id: "5496E9F05626FD7C"
+				item: {
+					count: 1
+					id: "caupona:leaden_walnut"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "73997917DA5CD2F1"
+				item: { count: 1, id: "caupona:leaden_walnut" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["37961149006DDE8D"]
+			id: "61D463E638A10BEF"
+			rewards: [{
+				id: "621CE210804A554C"
+				item: {
+					count: 1
+					id: "caupona:lead_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0522EA6A29692F5A"
+				item: { count: 1, id: "caupona:lead_ingot" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["61D463E638A10BEF"]
+			id: "48425A4E796AA0C3"
+			rewards: [{
+				id: "1D330ED8AE382CD6"
+				item: {
+					count: 1
+					id: "caupona:vinegar_spice_jar"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "38B98ACE0C23A6A0"
+				item: { count: 1, id: "caupona:lead_frying_pan" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["61D463E638A10BEF"]
+			id: "2131DE3F8D6424B8"
+			rewards: [{
+				id: "229DFF0D61887DD7"
+				item: {
+					count: 1
+					id: "caupona:vinegar_spice_jar"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "497418EE73374F17"
+				item: { count: 1, id: "caupona:lead_stew_pot" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0A71C0AC9735BD88"]
+			id: "12251533ADDAFAAF"
+			rewards: [{
+				count: 4
+				id: "76E9759E9BF62748"
+				item: {
+					count: 1
+					id: "caupona:brick_counter"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "57137F17C433AAA1"
+				item: { count: 1, id: "caupona:brick_kitchen_stove" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3DAC2FEA9045640D"]
+			id: "78F70760CC236CEF"
+			rewards: [{
+				id: "3DE63E259BFCD5F4"
+				item: {
+					components: {
+						"caupona:stew_info": {
+							base: "caupona:nail_soup"
+							effects: [ ]
+							feffects: [ ]
+							hasSpice: 0b
+							heal: 3
+							items: [
+								{
+									count: 0.6666667f
+									item: {
+										count: 1
+										id: "minecraft:bone"
+									}
+								}
+								{
+									count: 0.33333334f
+									item: {
+										count: 1
+										id: "minecraft:chicken"
+									}
+								}
+							]
+							sat: 0.7f
+						}
+					}
+					count: 1
+					id: "caupona:stock_aspic"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0525434818D63475"
+				item: { count: 1, id: "caupona:situla" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3DAC2FEA9045640D"]
+			id: "4458DB8B5AB6535E"
+			rewards: [{
+				id: "7CF1679B2A51BD28"
+				item: {
+					count: 1
+					id: "ccw:dolphin_cookie"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3F8F0B1C428B04E8"
+				item: { count: 1, id: "caupona:bamboo_skimmer" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["4458DB8B5AB6535E"]
+			id: "6E38656ED08C2227"
+			rewards: [{
+				count: 8
+				id: "5CCAF45A3CA2DAB7"
+				item: {
+					count: 1
+					id: "caupona:scraps"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "143AD70C09E715FC"
+				item: { count: 1, id: "caupona:iron_skimmer" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -0.5d
+		}
+		{
+			id: "5358948DA35DF2A5"
+			rewards: [{
+				id: "37B51760C7F19091"
+				item: {
+					count: 1
+					id: "caupona:snail_bait"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4830113B952C8703"
+				item: { count: 1, id: "caupona:snail_bait" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["5358948DA35DF2A5"]
+			id: "500ED4A1E47085A6"
+			rewards: [{
+				count: 2
+				id: "7C35233E6BB50271"
+				item: {
+					count: 1
+					id: "caupona:snail_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "767C1BA3C515E50D"
+				item: { count: 1, id: "caupona:snail" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["500ED4A1E47085A6"]
+			id: "497DA780F6BC390F"
+			rewards: [{
+				id: "0A49EE300D31E093"
+				item: {
+					count: 1
+					id: "caupona:plump_snail"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3B79DC909264EF65"
+				item: { count: 1, id: "caupona:plump_snail" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"404B83A0CC43950F"
+				"6E38656ED08C2227"
+			]
+			hide_details_until_startable: false
+			icon: {
+				id: "caupona:opus_incertum_counter_with_dolium"
+			}
+			id: "45B5A79F02DE8510"
+			rewards: [
+				{
+					id: "30385EF4465C178F"
+					item: {
+						count: 1
+						id: "caupona:opus_incertum_counter_with_dolium"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "4DDE7B269DD06842"
+					item: {
+						count: 1
+						id: "caupona:opus_incertum_counter"
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				id: "1D333D6F05EE2B1C"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["73FBCE97983306AA"]
+			id: "737CE9B1BE160B8C"
+			rewards: [{
+				id: "116AA98611479055"
+				item: {
+					components: {
+						"caupona:stew_info": {
+							base: "caupona:nail_soup"
+							effects: [ ]
+							feffects: [ ]
+							hasSpice: 0b
+							heal: 3
+							items: [
+								{
+									count: 0.75f
+									item: {
+										count: 1
+										id: "minecraft:bone"
+									}
+								}
+								{
+									count: 0.25f
+									item: {
+										count: 1
+										id: "minecraft:chicken"
+									}
+								}
+							]
+							sat: 0.7f
+						}
+					}
+					count: 1
+					id: "caupona:stock_aspic"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1B4DDE3ED7A65011"
+				item: { components: { "caupona:stew_info": { base: "caupona:nail_soup", effects: [ ], feffects: [ ], hasSpice: 0b, heal: 3, items: [ { count: 0.75f, item: { count: 1, id: "minecraft:bone" } }, { count: 0.25f, item: { count: 1, id: "minecraft:chicken" } } ], sat: 0.7f } }, count: 2, id: "caupona:stock_aspic" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["3DAC2FEA9045640D"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "14EA59ACD9CFAB20"
+			rewards: [{
+				id: "5123FAD37C81E14E"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "5CA6419E1AD87E43"
+				item: { components: { "patchouli:book": "caupona:book" }, count: 1, id: "patchouli:guide_book" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["3DAC2FEA9045640D"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "5F490383EFFFF953"
+			rewards: [{
+				id: "4AF25CAE4737DDA5"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "1ADE6FB1E3594DD4"
+				item: { components: { "patchouli:book": "caupona:book" }, count: 1, id: "patchouli:guide_book" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["737CE9B1BE160B8C"]
+			id: "600DDFC1BA9C3B68"
+			rewards: [{
+				count: 2
+				id: "7F02B46FB8FB03A4"
+				item: {
+					components: {
+						"caupona:stew_info": {
+							base: "caupona:nail_soup"
+							effects: [ ]
+							feffects: [ ]
+							hasSpice: 0b
+							heal: 3
+							items: [
+								{
+									count: 0.6666667f
+									item: {
+										count: 1
+										id: "minecraft:bone"
+									}
+								}
+								{
+									count: 0.33333334f
+									item: {
+										count: 1
+										id: "minecraft:chicken"
+									}
+								}
+							]
+							sat: 0.7f
+						}
+					}
+					count: 1
+					id: "caupona:stock_aspic"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7041B5A31554E1E3"
+				item: { count: 1, id: "caupona:portable_brazier" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["12251533ADDAFAAF"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "2E852E523822469E"
+			rewards: [{
+				id: "4CDE55232540FF52"
+				item: {
+					count: 1
+					id: "ccw:dolphin_cookie"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "340DD215AF5D20D5"
+				item: { count: 1, id: "caupona:wolf_statue" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.0d
+		}
+	]
+}

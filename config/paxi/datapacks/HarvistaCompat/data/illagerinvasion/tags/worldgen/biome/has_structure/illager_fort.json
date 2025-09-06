@@ -1,0 +1,11 @@
+{
+  "values": [
+    "#minecraft:is_taiga",
+    "minecraft:snowy_plains",
+    "natures_spirit:boreal_taiga",
+		"natures_spirit:fir_forest",
+		"natures_spirit:snowy_fir_forest",
+		"natures_spirit:snowy_redwood_forest",
+		"natures_spirit:redwood_forest"
+  ]
+}

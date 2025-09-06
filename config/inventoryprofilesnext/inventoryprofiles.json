@@ -1,0 +1,36 @@
+{
+    "ModSettings": {
+        "highlight_foused_items": {
+            "value": false
+        },
+        "highlight_foused_items_foreground": false,
+        "enable_auto_refill": {
+            "value": false
+        },
+        "villager_trading_enable": {
+            "value": false
+        },
+        "enable_updates_check": false,
+        "first_run": false
+    },
+    "GuiSettings": {
+        "inventory_overlay_buttons_visible": {
+            "value": false
+        },
+        "enable_inventory_editor_button": {
+            "value": false
+        },
+        "enable_inventory_settings_button": {
+            "value": false
+        },
+        "show_buttons_both_sides": true,
+        "continuous_crafting_saved_value": false
+    },
+    "Hotkeys": {
+        "open_config_menu": {
+            "main": {
+                "keys": "A,C"
+            }
+        }
+    }
+}

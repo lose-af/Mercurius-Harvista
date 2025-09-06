@@ -1,0 +1,39 @@
+#config
+[Config]
+	#friction
+	# Default: 0.93
+	# Range: 0.01 ~ 0.99
+	friction = 0.93
+	#player can recall broom distance
+	# Default: 10
+	# Range: 5 ~ 20
+	recall_distance = 10
+	#player must be at least this level to ride.
+	# Default: 10
+	# Range: > 0
+	need_level = 10
+	#player level correlates with speed
+	#higher level, higher speed.
+	# Default: 30
+	# Range: > 0
+	max_level = 30
+	#speed
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
+	Speed = 1.0
+	#forwardSpeed
+	# Default: 2.0
+	# Range: 0.1 ~ 5.0
+	forwardSpeed = 2.0
+	#backSpeed
+	# Default: 1.0
+	# Range: 0.1 ~ 5.0
+	backSpeed = 1.0
+	#lateralSpeed
+	# Default: 1.0
+	# Range: 0.1 ~ 5.0
+	lateralSpeed = 1.0
+	#verticalSpeed
+	# Default: 1.2
+	# Range: 0.1 ~ 5.0
+	verticalSpeed = 1.2

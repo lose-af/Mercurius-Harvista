@@ -1,0 +1,67 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "5183E4CF1095AACC"
+	group: "5A5E37E7F2EBCC02"
+	icon: {
+		id: "libraryferret:emerald_coins_jtl"
+	}
+	id: "5183E4CF1095AACC"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0FE33F289A362A28"
+			tasks: [{
+				id: "7F31E96C461037A6"
+				item: { count: 1, id: "natures_spirit:light_gray_paper_lantern" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "714E5988961EE588"
+			tasks: [{
+				id: "0BBCF0F6D5DE833D"
+				item: { count: 1, id: "natures_spirit:white_paper_lantern" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "natures_spirit:paper_lantern"
+			}
+			id: "06B4681F0F21BAAC"
+			tasks: [{
+				id: "597B3AE1A85A6874"
+				item: { count: 1, id: "natures_spirit:paper_lantern" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			id: "5A49EA43373ED2DB"
+			tasks: [{
+				id: "1A06AFFB5AE58565"
+				item: { count: 1, id: "natures_spirit:gray_paper_lantern" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			id: "032F1131E8EB323E"
+			tasks: [{
+				id: "3905C41BBCF0D5A8"
+				item: { count: 1, id: "natures_spirit:brown_paper_lantern" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+	]
+}

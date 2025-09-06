@@ -1,0 +1,33 @@
+{
+  "replace": false,
+
+  "_comment": " This biome tag can specify the biome directly. Or specify another biome tag by starting with # ",
+  "values": [
+    "minecraft:desert",
+    "natures_spirit:scorched_dunes",
+    "natures_spirit:stratified_desert",
+    "natures_spirit:lively_dunes",
+    "natures_spirit:blooming_dunes",
+    "natures_spirit:drylands",
+    {
+      "id": "#c:is_desert",
+      "required": false
+    },
+    {
+      "id": "byg:mojave_desert",
+      "required": false
+    },
+    {
+      "id": "byg:atacama_desert",
+      "required": false
+    },
+    {
+      "id": "byg:red_rock_valley",
+      "required": false
+    },
+    {
+      "id": "byg:windswept_desert",
+      "required": false
+    }
+  ]
+}

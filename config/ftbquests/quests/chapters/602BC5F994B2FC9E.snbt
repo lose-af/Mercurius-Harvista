@@ -1,0 +1,319 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "602BC5F994B2FC9E"
+	group: "40E8C816D595BB20"
+	icon: {
+		id: "ccw:drawer_table"
+	}
+	id: "602BC5F994B2FC9E"
+	images: [{
+		height: 3.0d
+		image: "ccw:item/refreshing_gummy"
+		rotation: 0.0d
+		width: 3.0d
+		x: 8.0d
+		y: 2.5d
+	}]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "246446717B528E41"
+			rewards: [
+				{
+					id: "4ACA476AA7F6F40B"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 8
+					id: "75C39149B18667C8"
+					item: {
+						count: 1
+						id: "minecraft:sugar"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "54615A36E01BD950"
+				item: { count: 1, id: "ccw:sugar_refinery" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["246446717B528E41"]
+			id: "0113AA0ADDC20384"
+			rewards: [{
+				id: "1C93F30068936E81"
+				item: {
+					count: 1
+					id: "ccw:dolphin_cookie"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "ccw:my_first_candy"
+				criterion: ""
+				id: "75CBEF0648AC31C9"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1F1B082D65608CAF"]
+			id: "11A0391CC25AE283"
+			rewards: [{
+				id: "77D493C07EF90EAE"
+				item: {
+					count: 1
+					id: "ccw:dolphin_cookie"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4AB561432C831BDA"
+				item: { count: 1, id: "ccw:drawer_table" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["246446717B528E41"]
+			id: "1F1B082D65608CAF"
+			rewards: [{
+				id: "2F692AED3151CDA2"
+				item: {
+					count: 1
+					id: "ccw:dolphin_cookie"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "629270FF70D44BF2"
+				item: { count: 1, id: "ccw:plain_drawer_table" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"11A0391CC25AE283"
+				"1F1B082D65608CAF"
+			]
+			id: "626D4FEB1CE99327"
+			rewards: [{
+				id: "2CB25352A42CBECF"
+				item: {
+					count: 1
+					id: "ccw:blessed_steak"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "ccw:the_real_candy_workshop"
+				criterion: ""
+				id: "5285C5491717865C"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["14D88D6348D2D585"]
+			hide_dependency_lines: false
+			id: "1841D706DE59E5E4"
+			rewards: [{
+				count: 8
+				id: "7C25747EC9691411"
+				item: {
+					count: 1
+					id: "ccw:ender_sugar"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "06E0656DA1A89E58"
+				item: { count: 1, id: "ccw:ender_sugar" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0113AA0ADDC20384"]
+			id: "14D88D6348D2D585"
+			rewards: [{
+				count: 8
+				id: "54E7258E6B9EDBFA"
+				item: {
+					count: 1
+					id: "ccw:nether_sugar"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0E93DE8D43D1B7F3"
+				item: { count: 1, id: "ccw:nether_sugar" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["246446717B528E41"]
+			id: "31F4BFAF99CDC143"
+			rewards: [{
+				id: "20162BE215E6BD78"
+				item: {
+					count: 1
+					id: "natures_spirit:paper_lantern"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "49A2BAD3196EB33E"
+				item: { count: 1, id: "ccw:milk_packaging" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["31F4BFAF99CDC143"]
+			id: "5F21C62C60E10CEE"
+			rewards: [{
+				count: 4
+				id: "7847C6FE975D1136"
+				item: {
+					count: 1
+					id: "ccw:carton_milk"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "307C91711A364039"
+				item: { count: 1, id: "ccw:milk_extractor" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1841D706DE59E5E4"]
+			id: "3F158E1101F82962"
+			rewards: [{
+				id: "212D786064F59419"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "octagon"
+			size: 2.0d
+			tasks: [{
+				advancement: "ccw:rainbow_collector"
+				criterion: ""
+				id: "4ED0E6ACA7517CA7"
+				type: "advancement"
+			}]
+			x: 9.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0113AA0ADDC20384"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: {
+				id: "ccw:blessed_steak"
+			}
+			id: "3C3060BCA4261BF0"
+			rewards: [{
+				id: "6534EB1D1C14DB18"
+				item: {
+					count: 1
+					id: "ccw:iron_clad_apple"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "636E8CA33724D07D"
+				type: "checkmark"
+			}]
+			x: 5.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["14D88D6348D2D585"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "38C070BDB84C7D2B"
+			rewards: [{
+				id: "30B9A91BFD76D0E5"
+				item: {
+					count: 1
+					id: "ccw:dolphin_cookie"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "22464EE8CE4D22B8"
+				item: { count: 1, id: "ccw:milk_gelatin" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["14D88D6348D2D585"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "56FDB8BEF82E7CAF"
+			rewards: [{
+				id: "763882D65BD308D9"
+				item: {
+					count: 1
+					id: "ccw:dolphin_cookie"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "2AC040700FB93200"
+				item: { count: 1, id: "minecraft:cocoa_beans" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["14D88D6348D2D585"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "3BF007335F0DBAE6"
+			rewards: [{
+				id: "1EF56A54A9146895"
+				item: {
+					count: 1
+					id: "ccw:dolphin_cookie"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "6AE034CCB7E8D032"
+				item: { count: 1, id: "minecraft:honey_bottle" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.5d
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"replace": false,
+	"values": [
+		"#minecraft:has_structure/village_taiga",
+		"minecraft:old_growth_spruce_taiga",
+		"minecraft:old_growth_pine_taiga",
+		"minecraft:snowy_taiga",
+		"natures_spirit:boreal_taiga",
+		"natures_spirit:fir_forest",
+		"natures_spirit:snowy_fir_forest",
+		"natures_spirit:snowy_redwood_forest",
+		"natures_spirit:redwood_forest"
+		
+	]
+}

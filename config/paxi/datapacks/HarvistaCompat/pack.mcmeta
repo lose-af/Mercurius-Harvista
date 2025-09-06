@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "pack_format": 48,
+        "description": "拾穗专用数据包",
+        "supported_formats": [26, 100]
+    }
+}

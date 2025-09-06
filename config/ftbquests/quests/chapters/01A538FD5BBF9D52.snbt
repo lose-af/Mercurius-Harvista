@@ -1,0 +1,805 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "01A538FD5BBF9D52"
+	group: "40E8C816D595BB20"
+	icon: {
+		id: "sushigocrafting:crab_maki"
+	}
+	id: "01A538FD5BBF9D52"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				components: {
+					"patchouli:book": "sushigocrafting:sushigocrafting"
+				}
+				id: "patchouli:guide_book"
+			}
+			id: "7BBB7A3192549B4D"
+			rewards: [{
+				id: "4EEC2DEB7221C0D6"
+				item: {
+					components: {
+						"patchouli:book": "sushigocrafting:sushigocrafting"
+					}
+					count: 1
+					id: "patchouli:guide_book"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "08D262E976CCA81D"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["26244390BA99F1D7"]
+			id: "165E82698E5BF0B3"
+			rewards: [{
+				count: 3
+				id: "6304FF8615C541B4"
+				item: {
+					count: 1
+					id: "sushigocrafting:avocado"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "286E456CE99D13EB"
+				item: { count: 1, id: "sushigocrafting:avocado" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["26244390BA99F1D7"]
+			id: "451C8E0215FE1C28"
+			rewards: [
+				{
+					id: "38E84E32B941B982"
+					item: {
+						count: 1
+						id: "sushigocrafting:soy_seeds"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "05E7A92D3ACA68CA"
+					item: {
+						count: 1
+						id: "sushigocrafting:soy_bean"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4605E2212201F3D0"
+				item: { count: 1, id: "sushigocrafting:soy_bean" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["26244390BA99F1D7"]
+			id: "715A3BF1FC6E6A62"
+			rewards: [
+				{
+					id: "09E861030BA6EAD4"
+					item: {
+						count: 1
+						id: "sushigocrafting:wasabi_seeds"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "71F43E0D883F2232"
+					item: {
+						count: 1
+						id: "sushigocrafting:wasabi_root"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7C4EF4415EA330F9"
+				item: { count: 1, id: "sushigocrafting:wasabi_root" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["26244390BA99F1D7"]
+			id: "17262C2E00154383"
+			rewards: [{
+				id: "7F16B13F101D26F1"
+				item: {
+					components: {
+						"sushigocrafting:amount": 25
+					}
+					count: 1
+					id: "sushigocrafting:shrimp"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "17F10C2BE1C00E72"
+				item: { components: { "sushigocrafting:amount": 25 }, count: 1, id: "sushigocrafting:shrimp" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["26244390BA99F1D7"]
+			id: "40A1A7B53B32581F"
+			rewards: [{
+				id: "09298FDC1D695E75"
+				item: {
+					components: {
+						"sushigocrafting:amount": 25
+					}
+					count: 1
+					id: "sushigocrafting:tobiko"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "548D7C0132050268"
+				item: { components: { "sushigocrafting:amount": 25 }, count: 1, id: "sushigocrafting:tobiko" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["26244390BA99F1D7"]
+			id: "6E3C9FE5263DCFFD"
+			rewards: [{
+				count: 3
+				id: "007F9DE8B742E20E"
+				item: {
+					count: 1
+					id: "tide:tuna"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1476BF8CB6FA95AF"
+				item: { count: 1, id: "tide:tuna" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["26244390BA99F1D7"]
+			id: "34E1CF0AF667211F"
+			rewards: [
+				{
+					count: 3
+					id: "1994E3D33CE4090B"
+					item: {
+						count: 1
+						id: "sushigocrafting:rice"
+					}
+					type: "item"
+				}
+				{
+					id: "7D31E10EF179CB59"
+					item: {
+						count: 1
+						id: "sushigocrafting:rice_seeds"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "52EE962D5E5FB9FE"
+				item: { count: 1, id: "sushigocrafting:rice" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["26244390BA99F1D7"]
+			id: "7B9431C739842D01"
+			rewards: [
+				{
+					id: "5479D8B88DCC8E43"
+					item: {
+						count: 1
+						id: "sushigocrafting:sesame_seeds"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "61D0CD8A4B4CF4CB"
+					item: {
+						components: {
+							"sushigocrafting:amount": 50
+						}
+						count: 1
+						id: "sushigocrafting:sesame_seed"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "14F5345C1C60B21B"
+				item: { components: { "sushigocrafting:amount": 50 }, count: 1, id: "sushigocrafting:sesame_seed" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["26244390BA99F1D7"]
+			id: "486937A2F89746A8"
+			rewards: [
+				{
+					count: 3
+					id: "328DD009B582B476"
+					item: {
+						count: 1
+						id: "sushigocrafting:cucumber"
+					}
+					type: "item"
+				}
+				{
+					id: "7D2FEECFCBDEEDC9"
+					item: {
+						count: 1
+						id: "sushigocrafting:cucumber_seeds"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0823128CF6EC37B3"
+				item: { count: 1, id: "sushigocrafting:cucumber" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			hide_dependent_lines: true
+			hide_details_until_startable: true
+			icon: {
+				id: "sushigocrafting:avocado_sapling"
+			}
+			id: "26244390BA99F1D7"
+			rewards: [{
+				count: 2
+				id: "125FA68AD43EEA96"
+				item: {
+					count: 1
+					id: "sushigocrafting:avocado_sapling"
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			size: 2.0d
+			tasks: [{
+				id: "00DE6429A4340587"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["26244390BA99F1D7"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: {
+				id: "caupona:tessellation_workbench"
+			}
+			id: "4AB9CAE6B28B4877"
+			rewards: [{
+				count: 5
+				id: "39C27712ABEBE941"
+				item: {
+					count: 1
+					id: "sushigocrafting:rice"
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			size: 2.0d
+			tasks: [{
+				id: "045CEC9598567785"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4AB9CAE6B28B4877"]
+			id: "255DC6FBE31B9582"
+			rewards: [{
+				count: 3
+				id: "1DC222BB1A29CAAC"
+				item: {
+					count: 1
+					id: "sushigocrafting:rice"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "130A47EE5B7D87AA"
+				item: { count: 1, id: "sushigocrafting:rice_cooker" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4AB9CAE6B28B4877"]
+			id: "46094E996332214C"
+			rewards: [{
+				count: 2
+				id: "7AD152F3BE63FD2E"
+				item: {
+					components: {
+						"sushigocrafting:amount": 25
+					}
+					count: 1
+					id: "sushigocrafting:shrimp"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "185FA274E0F0B14A"
+				item: { count: 1, id: "sushigocrafting:cooler_box" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4AB9CAE6B28B4877"]
+			id: "037F16FDAA26428E"
+			rewards: [{
+				count: 3
+				id: "5283F83857627A1F"
+				item: {
+					count: 1
+					id: "sushigocrafting:soy_bean"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2E9302BFEF09F576"
+				item: { count: 1, id: "sushigocrafting:fermentation_barrel" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4AB9CAE6B28B4877"]
+			id: "67CF4CD8B21920AB"
+			rewards: [{
+				count: 3
+				id: "632A12DBFE7CF7C1"
+				item: {
+					count: 1
+					id: "sushigocrafting:avocado"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "716F13BAD3187A35"
+					item: { count: 1, id: "sushigocrafting:cutting_board" }
+					type: "item"
+				}
+				{
+					id: "03B5B3B33F309750"
+					item: { count: 1, id: "sushigocrafting:cleaver_knife" }
+					type: "item"
+				}
+			]
+			x: 11.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5089555C1BD792DF"]
+			id: "7531E80792C89485"
+			rewards: [{
+				count: 2
+				id: "3A9BDC6A67127EBE"
+				item: {
+					components: {
+						"sushigocrafting:amount": 1500
+					}
+					count: 1
+					id: "sushigocrafting:tuna_fillet"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "31E665D249597D65"
+				item: { components: { "sushigocrafting:amount": 1500 }, count: 1, id: "sushigocrafting:tuna_fillet" }
+				type: "item"
+			}]
+			x: 17.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5089555C1BD792DF"]
+			id: "018FC80D4A0C451E"
+			rewards: [{
+				count: 2
+				id: "2331521469773C4A"
+				item: {
+					components: {
+						"sushigocrafting:amount": 250
+					}
+					count: 1
+					id: "sushigocrafting:cooked_rice"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5A4B4E2A27FC3893"
+				item: { components: { "sushigocrafting:amount": 250 }, count: 1, id: "sushigocrafting:cooked_rice" }
+				type: "item"
+			}]
+			x: 17.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5089555C1BD792DF"]
+			id: "33E5807578547A95"
+			rewards: [{
+				count: 2
+				id: "3241AD3ABCBA5F01"
+				item: {
+					components: {
+						"sushigocrafting:amount": 100
+					}
+					count: 1
+					id: "sushigocrafting:cucumber_slices"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "20563D0831BAB762"
+				item: { components: { "sushigocrafting:amount": 100 }, count: 1, id: "sushigocrafting:cucumber_slices" }
+				type: "item"
+			}]
+			x: 17.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5089555C1BD792DF"]
+			id: "353445A0C6E44734"
+			rewards: [{
+				count: 2
+				id: "01B91BFAEE771428"
+				item: {
+					components: {
+						"sushigocrafting:amount": 100
+					}
+					count: 1
+					id: "sushigocrafting:imitation_crab"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4FFD7C2AD7B37020"
+				item: { components: { "sushigocrafting:amount": 100 }, count: 1, id: "sushigocrafting:imitation_crab" }
+				type: "item"
+			}]
+			x: 17.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5089555C1BD792DF"]
+			id: "4F12B46BF8134A53"
+			rewards: [{
+				count: 2
+				id: "667EAFD5CF157F81"
+				item: {
+					components: {
+						"sushigocrafting:amount": 125
+					}
+					count: 1
+					id: "sushigocrafting:cheese"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "55407D1DC6DAA63A"
+				item: { components: { "sushigocrafting:amount": 125 }, count: 1, id: "sushigocrafting:cheese" }
+				type: "item"
+			}]
+			x: 16.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1B539EEF0DFF3FFA"]
+			id: "4ACD1F8EE8B72783"
+			rewards: [{
+				id: "373D18C00D1B0353"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "5E1CB056EC4D2921"
+				item: { components: { "sushigocrafting:amount": 25 }, count: 1, id: "sushigocrafting:wasabi_paste" }
+				type: "item"
+			}]
+			x: 19.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1B539EEF0DFF3FFA"]
+			id: "7E25FF1B2ED7A5A8"
+			rewards: [{
+				id: "1AF24246672D1998"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "74733213F83895F9"
+				item: { components: { "sushigocrafting:amount": 25 }, count: 1, id: "sushigocrafting:soy_sauce" }
+				type: "item"
+			}]
+			x: 20.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4AB9CAE6B28B4877"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: {
+				id: "sushigocrafting:cleaver_knife"
+			}
+			id: "5089555C1BD792DF"
+			rewards: [{
+				id: "0470CA4E67D84794"
+				item: {
+					count: 1
+					id: "sushigocrafting:cooler_box"
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			size: 2.0d
+			tasks: [{
+				id: "29B31F5F3B3F6DE6"
+				type: "checkmark"
+			}]
+			x: 14.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5089555C1BD792DF"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "1B539EEF0DFF3FFA"
+			rewards: [{
+				id: "7146BAAFB00E8C6B"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "octagon"
+			size: 2.0d
+			tasks: [{
+				id: "7B58724962E2E3D9"
+				item: { count: 1, id: "sushigocrafting:roller" }
+				type: "item"
+			}]
+			x: 20.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5089555C1BD792DF"]
+			id: "3F8041B70C8E06D9"
+			rewards: [{
+				count: 2
+				id: "62971DC4C3359909"
+				item: {
+					components: {
+						"sushigocrafting:amount": 1000
+					}
+					count: 1
+					id: "sushigocrafting:salmon_fillet"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3B0107AD58B3D6CD"
+				item: { components: { "sushigocrafting:amount": 1000 }, count: 1, id: "sushigocrafting:salmon_fillet" }
+				type: "item"
+			}]
+			x: 16.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5089555C1BD792DF"]
+			id: "412C4FE5C4E3D73D"
+			rewards: [{
+				count: 5
+				id: "61F7394795055169"
+				item: {
+					count: 1
+					id: "sushigocrafting:nori_sheets"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7DCD320851A08843"
+				item: { count: 1, id: "sushigocrafting:nori_sheets" }
+				type: "item"
+			}]
+			x: 16.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1B539EEF0DFF3FFA"]
+			icon: {
+				id: "sushigocrafting:salmon_maki"
+			}
+			id: "112C3B2D165A9D3A"
+			rewards: [{
+				id: "2D241D09B117DC0B"
+				item: {
+					count: 1
+					id: "sushigocrafting:salmon_maki"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4EA6C93015579041"
+				type: "checkmark"
+			}]
+			x: 22.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1B539EEF0DFF3FFA"]
+			icon: {
+				id: "sushigocrafting:salmon_gunkan"
+			}
+			id: "481AB503C3C4D30C"
+			rewards: [{
+				id: "752C19C13722988F"
+				item: {
+					count: 1
+					id: "sushigocrafting:salmon_gunkan"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4B7AA27C42339B0F"
+				type: "checkmark"
+			}]
+			x: 24.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["1B539EEF0DFF3FFA"]
+			icon: {
+				id: "sushigocrafting:onigiri"
+			}
+			id: "5999EDCE152E89CD"
+			rewards: [{
+				id: "4320D3626B170345"
+				item: {
+					count: 1
+					id: "sushigocrafting:onigiri"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "56D734BB733F434D"
+				type: "checkmark"
+			}]
+			x: 24.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1B539EEF0DFF3FFA"]
+			icon: {
+				id: "sushigocrafting:salmon_nigiri"
+			}
+			id: "08EA97ACA61771FD"
+			rewards: [{
+				id: "08A93BE83184E65E"
+				item: {
+					count: 1
+					id: "sushigocrafting:salmon_nigiri"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "689C4982F6280DFD"
+				type: "checkmark"
+			}]
+			x: 22.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["1B539EEF0DFF3FFA"]
+			icon: {
+				id: "sushigocrafting:salmon_temaki"
+			}
+			id: "5F9F29DC0B8FAD73"
+			rewards: [{
+				id: "009C2D4710897A6C"
+				item: {
+					count: 1
+					id: "sushigocrafting:salmon_temaki"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0E0FD576143BCB41"
+				type: "checkmark"
+			}]
+			x: 22.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1B539EEF0DFF3FFA"]
+			icon: {
+				id: "sushigocrafting:tobiko_tuna_cucumber_california"
+			}
+			id: "5DF3FC4A7C041D06"
+			rewards: [{
+				id: "3DF97DFF1B658B5F"
+				item: {
+					count: 1
+					id: "sushigocrafting:tobiko_tuna_cucumber_california"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "598072484ED4C22B"
+				type: "checkmark"
+			}]
+			x: 24.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5089555C1BD792DF"]
+			id: "20A1F501018DBB94"
+			rewards: [{
+				count: 2
+				id: "228EC40F0B5804C5"
+				item: {
+					components: {
+						"sushigocrafting:amount": 250
+					}
+					count: 1
+					id: "sushigocrafting:avocado_slices"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "68F2134FE2760ACD"
+				item: { components: { "sushigocrafting:amount": 250 }, count: 1, id: "sushigocrafting:avocado_slices" }
+				type: "item"
+			}]
+			x: 16.0d
+			y: -1.5d
+		}
+	]
+}

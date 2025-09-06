@@ -1,0 +1,394 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "7F788F915A9D8CEC"
+	group: "40E8C816D595BB20"
+	icon: {
+		id: "catburger:cat_burger"
+	}
+	id: "7F788F915A9D8CEC"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"27A2793571D5C8C0"
+				"2051410D5855B0CD"
+				"0030B5358096D6DA"
+				"3CE268F57C1E3694"
+				"2F0432F6EFFF8D85"
+			]
+			icon: {
+				id: "catburger:cat_burger"
+			}
+			id: "7CDAE97F4D3DFA6C"
+			rewards: [
+				{
+					id: "0A9123E66385332B"
+					item: {
+						count: 1
+						id: "catburger:cat_burger"
+					}
+					type: "item"
+				}
+				{
+					id: "7CF9A5E949ECB497"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			shape: "octagon"
+			size: 2.0d
+			tasks: [{
+				id: "1EE280C03B2CCC89"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["05736049BBB41CE8"]
+			id: "39B55F090B55F70B"
+			rewards: [{
+				id: "73A57517D2E55FF3"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "3760EE644CA922E0"
+				item: { count: 1, id: "tide:blazing_swordfish" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["39B55F090B55F70B"]
+			id: "27A2793571D5C8C0"
+			rewards: [{
+				id: "5951235FAC6233AD"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			size: 1.3d
+			tasks: [{
+				advancement: "tide:catch_legendary"
+				criterion: ""
+				id: "115139C803E4CA07"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: -4.0d
+		}
+		{
+			icon: {
+				id: "tide:angelfish"
+			}
+			id: "05736049BBB41CE8"
+			rewards: [{
+				id: "632037236E4688B3"
+				item: {
+					count: 1
+					id: "ccw:dolphin_cookie"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "46F7D4FA97E8A597"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["2E990B35CF01B7F2"]
+			id: "0030B5358096D6DA"
+			rewards: [{
+				id: "2CC9CB0EF0F2068B"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			size: 1.3d
+			tasks: [{
+				id: "13B28AFA9E556A8A"
+				item: { components: { "everyxhotpot:paper_bowl_data_component": { items: [ { components: { "everyxhotpot:sprite_config_data_component": { sprite_configs: [{ id: "everyxhotpot:cheese_soup_overlay", soup_renderer_config_resource_location: "everyxhotpot:cheese_soup", type: "everyxhotpot:soup_renderer_config_sprite_config" }] } }, count: 1, id: "minecraft:cooked_beef" }, { components: { "everyxhotpot:sprite_config_data_component": { sprite_configs: [{ id: "everyxhotpot:cheese_soup_overlay", soup_renderer_config_resource_location: "everyxhotpot:cheese_soup", type: "everyxhotpot:soup_renderer_config_sprite_config" }] } }, count: 1, id: "minecraft:cooked_beef" }, { components: { "everyxhotpot:sprite_config_data_component": { sprite_configs: [{ id: "everyxhotpot:cheese_soup_overlay", soup_renderer_config_resource_location: "everyxhotpot:cheese_soup", type: "everyxhotpot:soup_renderer_config_sprite_config" }] } }, count: 1, id: "minecraft:cooked_beef" }, { components: { "everyxhotpot:sprite_config_data_component": { sprite_configs: [{ id: "everyxhotpot:cheese_soup_overlay", soup_renderer_config_resource_location: "everyxhotpot:cheese_soup", type: "everyxhotpot:soup_renderer_config_sprite_config" }] } }, count: 1, id: "minecraft:cooked_beef" }, { components: { "everyxhotpot:sprite_config_data_component": { sprite_configs: [{ id: "everyxhotpot:cheese_soup_overlay", soup_renderer_config_resource_location: "everyxhotpot:cheese_soup", type: "everyxhotpot:soup_renderer_config_sprite_config" }] } }, count: 1, id: "minecraft:cooked_beef" }, { components: { "everyxhotpot:sprite_config_data_component": { sprite_configs: [{ id: "everyxhotpot:cheese_soup_overlay", soup_renderer_config_resource_location: "everyxhotpot:cheese_soup", type: "everyxhotpot:soup_renderer_config_sprite_config" }] } }, count: 1, id: "minecraft:cooked_beef" }, { components: { "everyxhotpot:sprite_config_data_component": { sprite_configs: [{ id: "everyxhotpot:cheese_soup_overlay", soup_renderer_config_resource_location: "everyxhotpot:cheese_soup", type: "everyxhotpot:soup_renderer_config_sprite_config" }] } }, count: 1, id: "minecraft:cooked_beef" }, { components: { "everyxhotpot:food_effects_data_component": { effects: [ { duration: 300, id: "everyxhotpot:warm", show_icon: 1b }, { amplifier: 2b, duration: 400, id: "minecraft:absorption", show_icon: 1b }, { amplifier: 2b, duration: 400, id: "minecraft:strength", show_icon: 1b } ] }, "everyxhotpot:sprite_config_data_component": { sprite_configs: [{ id: "everyxhotpot:cheese_soup_overlay", soup_renderer_config_resource_location: "everyxhotpot:cheese_soup", type: "everyxhotpot:soup_renderer_config_sprite_config" }] } }, count: 1, id: "minecraft:cooked_beef" } ], skewers: [ ], soup_drained: "drained", soup_type: "everyxhotpot:cheese_soup" } }, count: 1, id: "everyxhotpot:hotpot_paper_bowl" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["131850838DD6D094"]
+			id: "2E990B35CF01B7F2"
+			rewards: [{
+				id: "3C042933C4DED0D5"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "40B150BAB9DE6459"
+					item: { count: 1, id: "vanillacookbook:book_cake" }
+					type: "item"
+				}
+				{
+					id: "79F183FF9451290E"
+					item: { count: 1, id: "vanillacookbook:cotton_candy" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "vanillacookbook:carrot_cake"
+			}
+			id: "131850838DD6D094"
+			rewards: [{
+				id: "4D975F36D2F91400"
+				item: {
+					count: 1
+					id: "ccw:dolphin_cookie"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "799EE7A857361B1E"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1A3468FFEA153B81"]
+			id: "3CE268F57C1E3694"
+			rewards: [{
+				id: "17AA4DEC9FC83AFD"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			size: 1.3d
+			tasks: [
+				{
+					id: "6613AC64A399F255"
+					item: { components: { "caupona:fluid_type": { fluid: "caupona:goulash" }, "caupona:stew_info": { base: "caupona:stock", effects: [ ], feffects: [ ], hasSpice: 0b, heal: 13, items: [ { count: 0.6666667f, item: { count: 1, id: "minecraft:bone" } }, { count: 1.3333334f, item: { count: 1, id: "minecraft:beef" } }, { count: 0.33333334f, item: { count: 1, id: "minecraft:chicken" } }, { count: 0.6666667f, item: { count: 1, id: "minecraft:carrot" } } ], sat: 1.001282f } }, count: 1, id: "caupona:goulash" }
+					type: "item"
+				}
+				{
+					id: "1D86E5A2DF29CDC9"
+					item: { components: { "caupona:sauteed_info": { effects: [ ], hasSpice: 0b, heal: 10, items: [ { count: 1.4f, item: { count: 1, id: "minecraft:chicken" } }, { count: 0.4f, item: { count: 1, id: "minecraft:carrot" } } ], sat: 0.6f } }, count: 1, id: "caupona:seared_poultry" }
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7DE7D1FAF274D85D"]
+			id: "1A3468FFEA153B81"
+			rewards: [{
+				id: "79EC3E897D69B094"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "5ED6800B0DCF0BD1"
+				item: { count: 1, id: "caupona:plump_snail" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			icon: {
+				id: "caupona:gravy_boat"
+			}
+			id: "7DE7D1FAF274D85D"
+			rewards: [{
+				id: "388E5C7C57631945"
+				item: {
+					count: 1
+					id: "ccw:dolphin_cookie"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "35FDE7A8C62A63D0"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6E8D5C5D071B29F2"]
+			id: "2051410D5855B0CD"
+			rewards: [{
+				id: "015FFC7E2E770490"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			size: 1.3d
+			tasks: [
+				{
+					id: "35A6BB1B2DAA75C7"
+					item: { count: 1, id: "sushigocrafting:salmon_maki" }
+					type: "item"
+				}
+				{
+					id: "53BE1D38A04CE50A"
+					item: { count: 1, id: "sushigocrafting:salmon_gunkan" }
+					type: "item"
+				}
+				{
+					id: "1E534388D898ED09"
+					item: { count: 1, id: "sushigocrafting:tobiko_salmon_cucumber_california" }
+					type: "item"
+				}
+				{
+					id: "4A8481FD7A426C97"
+					item: { count: 1, id: "sushigocrafting:salmon_temaki" }
+					type: "item"
+				}
+				{
+					id: "5972055AF2AD583B"
+					item: { count: 1, id: "sushigocrafting:salmon_nigiri" }
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["24D6C39E269BBD8C"]
+			id: "6E8D5C5D071B29F2"
+			rewards: [{
+				id: "218C498A116FE8DE"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "12C395DFDE15995B"
+				item: { count: 1, id: "sushigocrafting:crab_cucumber_california" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "sushigocrafting:salmon_maki"
+			}
+			id: "24D6C39E269BBD8C"
+			rewards: [{
+				id: "559026B2BECC30BC"
+				item: {
+					count: 1
+					id: "ccw:dolphin_cookie"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "06ACDB6D141B9EB3"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "handcrafted:stackable_book"
+			}
+			id: "06409A47B9F9B5A0"
+			rewards: [{
+				id: "1D8B15CA0DFF3AA9"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "0494182A953BBBB7"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "ccw:sugar_refinery"
+			}
+			id: "12AEE484266AB756"
+			rewards: [{
+				id: "6959567BE3BFA22F"
+				item: {
+					count: 1
+					id: "ccw:dolphin_cookie"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "5AF399201D8E473F"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["12AEE484266AB756"]
+			id: "12D7C5EAC55F65CC"
+			rewards: [{
+				id: "74268CD8A375ADD3"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				advancement: "ccw:the_real_candy_workshop"
+				criterion: ""
+				id: "5A89971376101DFE"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["12D7C5EAC55F65CC"]
+			id: "2F0432F6EFFF8D85"
+			rewards: [{
+				id: "5A5891073074360A"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			size: 1.3d
+			tasks: [
+				{
+					id: "443B323FD2654D90"
+					item: { components: { "ccw:sugar_contents": { flavor: "excited", sugar: "ccw:golden_heart" } }, count: 1, id: "ccw:gummy" }
+					type: "item"
+				}
+				{
+					id: "3A6CBAE762506924"
+					item: { components: { "ccw:sugar_contents": { flavor: "bold", sugar: "ccw:red_heart" } }, count: 1, id: "ccw:gummy" }
+					type: "item"
+				}
+				{
+					id: "049047C90471CD76"
+					item: { components: { "ccw:sugar_contents": { flavor: "milky", sugar: "ccw:recovery" } }, count: 1, id: "ccw:gummy" }
+					type: "item"
+				}
+				{
+					id: "2C51DBEA1880D91B"
+					item: { components: { "ccw:sugar_contents": { flavor: "original", sugar: "ccw:healing" } }, count: 1, id: "ccw:gummy" }
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: 4.0d
+		}
+	]
+}

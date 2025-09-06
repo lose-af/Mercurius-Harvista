@@ -1,8 +1,2040 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods.json"
-hash = "4e11fe2e3e8a4ed56971086a9bf9f21cd4b4db096f4be8af51dd639feae691f4"
+file = "config/InventoryHUD/curios.json"
+hash = "7142f3bd615af2c34b4004c340b4030d33db76faaaa1cb194e0bf5d7e12aa4e4"
+
+[[files]]
+file = "config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
+file = "config/WildfireGender/client.toml"
+hash = "7564c907063623ced28414405931fbfa6803f3b88fa0071e8bca9b16659a1ad4"
+
+[[files]]
+file = "config/advancednetherite-client.toml"
+hash = "f8c07c75bb06a3cca5c10a7bca924e96c2aa273b679f9cc1fa961ac50001977b"
+
+[[files]]
+file = "config/advancednetherite-common.toml"
+hash = "7454eed18647f22e37799e631a24cf2da1b1bde5d88d957f34a9be09ab3b8c1a"
+
+[[files]]
+file = "config/advancednetherite-server.toml"
+hash = "69ad5463a614a5e6a400f938515ac04ada47b52c6795b82ca7f8aefd3765e44f"
+
+[[files]]
+file = "config/ambiance.json"
+hash = "3f4e155a8a577d4a7c4e59db29b88e76626e8298b66d2b82b6ab886310a2603f"
+
+[[files]]
+file = "config/apotheosis/apothic_attributes.cfg"
+hash = "336a1dcfde783fb49e7f5ae3f5905179e2e7800c0cd41cee8fc6bd210edb2e06"
+
+[[files]]
+file = "config/appleskin-client.toml"
+hash = "7127a276c7305371397053cd8d0833e6825c828850626e4067b9fed1430ed217"
+
+[[files]]
+file = "config/asyncparticles/asyncparticles-mixin.properties"
+hash = "e8abcaec094a1bc38400cac76e9a889781878060d2fe5c5e15dc29c27871fd36"
+
+[[files]]
+file = "config/asyncparticles/asyncparticles.json"
+hash = "1113339466d310b1071100ef04910adb045ce6e859db17a0c95348e956e5fb28"
+
+[[files]]
+file = "config/bagus_lib-client.toml"
+hash = "927af3cd73daea7fb1a6b942d8311be3e781bf6a951c415400d66e8fc5663098"
+
+[[files]]
+file = "config/bagus_lib-common.toml"
+hash = "b86710f1b556e857e426f916dcebc6be9d1c311e7a54bcb5e76dd55ffd174861"
+
+[[files]]
+file = "config/balm-client.toml"
+hash = "c51ed7f0af9528cffc79b6bf65e50dbf3dd49b21b1ec3ee7815b17c90f2d5638"
+
+[[files]]
+file = "config/balm-common.toml"
+hash = "c51ed7f0af9528cffc79b6bf65e50dbf3dd49b21b1ec3ee7815b17c90f2d5638"
+
+[[files]]
+file = "config/betteradvancements-client.toml"
+hash = "38e88509078026a5a660e00947e5a6db74a3c374c8c7978ef64c360167f84db9"
+
+[[files]]
+file = "config/bettercombat/client.json5"
+hash = "004c33adae2d4ca580384a39a867cf51deedbd7671e157b6a259ec85e698d44e"
+
+[[files]]
+file = "config/bettercombat/fallback_compatibility.json"
+hash = "754feb4474a3f4d9fe6bd08f38c248fd5a796ed51f38d7d5704680250f3a34ca"
+
+[[files]]
+file = "config/bettercombat/server.json5"
+hash = "b4d8fd935d23f528a177e95c8a45be52fa5f3e4cd2671802be1f44c80aef724a"
+
+[[files]]
+file = "config/bettervillage_1.properties"
+hash = "155b0389cc79bc74e7645a59549727812dd6d34c55cfd79ee67583d0d14b65f0"
+
+[[files]]
+file = "config/catburger-client.toml"
+hash = "2cf43b01a1b05f6e04fdb8c71721b2d53dc832a4d0415ba395a879356effe0f4"
+
+[[files]]
+file = "config/catburger-common.toml"
+hash = "728cebf9486b4f5a86bfa26e795a0a73dd6595ef6f21de6df932be48813a763c"
+
+[[files]]
+file = "config/caupona-common.toml"
+hash = "8a11cf27299a7e0d5923c060596654e72b7c1069195cb4053608f141c38cc919"
+
+[[files]]
+file = "config/caupona-server.toml"
+hash = "7e5155daf7abc9754449e89ce2217b3b772b27ba43f72db3fd582d9fafc9ec9e"
+
+[[files]]
+file = "config/chat_heads.json5"
+hash = "744e6977b53f264ff47a1925451f7bd7083eb6bd7bff2505980cc3e9ca4ca0e2"
+
+[[files]]
+file = "config/configuration-options.json"
+hash = "0b68a3b324f4a172d577a10446593b8f64f38e37199c928b0fc5aee152baee00"
+
+[[files]]
+file = "config/configured-client.properties"
+hash = "a9f1058d68eb630eb4783d12da4a5dea5c2f5481fdf38280e33944b9593d2d9c"
+
+[[files]]
+file = "config/creativecore-client.json"
+hash = "acb6c8c1394d4d6f2d0c98d5c314c5ef8ad34b8a76f0a420fc596733bcbc51ac"
+
+[[files]]
+file = "config/creativecore.json"
+hash = "5f08d0878d7f89c6b4c947a49dce368d7738255d44fecf9aad59ec6ae8a4fcef"
+
+[[files]]
+file = "config/creeperoverhaul.jsonc"
+hash = "d8088bd461dd7666552c4174bac6549e55112728e07aa3addd0e32a805c230fc"
+
+[[files]]
+file = "config/crepperoverhaul-client.jsonc"
+hash = "8ebd8ce17fd98dc18dde0d3271b9237fbc98d9664647940308c9a4d7804dc200"
+
+[[files]]
+file = "config/cristellib/minecraftED.json5"
+hash = "8e01cc9b7e46f74fd60ce36d3459628b8198cb988051ae52f14cda36ef0fd869"
+
+[[files]]
+file = "config/cristellib/minecraftP.json5"
+hash = "8fe09b83f2fe6bf9d547e99b8d883aef42bf3d9e2e6f5bd43ec3fcd4c7f756da"
+
+[[files]]
+file = "config/curios-client.toml"
+hash = "8af475d222d452c40b548db89c8956f3e4d1e2aaf729464e3065f029936b3e0d"
+
+[[files]]
+file = "config/curios-common.toml"
+hash = "9f00a6b9904cf63a36c0c72f8346642962d538aaa78b59943b9de60dda82e6d0"
+
+[[files]]
+file = "config/curios-server.toml"
+hash = "1a3bee95a96f082b8e97cccbce30c1efe1352b616c78e06d5884fd4475668add"
+
+[[files]]
+file = "config/ding.toml"
+hash = "9e1ea835cd114044e51fdaf6f79422bdf092e0616556b820abee46eee06f2785"
+
+[[files]]
+file = "config/drippyloadingscreen/options.txt"
+hash = "80ed128a0e856c1d2cf85164d65366dc0c3d14813009401f030ed29143be48e5"
+
+[[files]]
+file = "config/dummmmmmy-client.toml"
+hash = "71563e05f6fefe25673ee83dd492772160b7a1cd61afd5b8c7065cdb8df49b5d"
+
+[[files]]
+file = "config/dummmmmmy-common.toml"
+hash = "9507a75143689ab6f0da55929059652c6cab8dcd7d5e5b14697836232274e6d3"
+
+[[files]]
+file = "config/dynamic_fps.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/earthmobsmod-common.toml"
+hash = "d8a6a77f92300f2c0e074f8a7e632a6f9dec35b5e42fa3071884e9021e2072c3"
+
+[[files]]
+file = "config/elainabroom-common.toml"
+hash = "c17268124e8d6db4c49e71302c1161436bcebaee137d1d12dcc25a8e26281eea"
+
+[[files]]
+file = "config/emi.css"
+hash = "9fa24b9307a960428865fddf89bf18ad0659141055e918cd113a3e510a2d2b7f"
+
+[[files]]
+file = "config/emi_loot_config.toml"
+hash = "2ad5c221f3f039f5c9ab38ff761ea8f77072fbde893c5d8a8073cb24ac96c78c"
+
+[[files]]
+file = "config/enchdesc.json"
+hash = "7116b95a9b6797af8db84e410a2ca2fdf6f813461e37cd04bff5af933f31567b"
+
+[[files]]
+file = "config/endermanoverhaul-client.jsonc"
+hash = "7fcc9808465cc6ac8f57426b568516f7ad9ba3197be8f3692ead91253f8bef7a"
+
+[[files]]
+file = "config/endermanoverhaul.jsonc"
+hash = "94d584e93f86976673fc36fd3834f407444a452199fc4bb9adff6ba320c3e881"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "dc7598cff8d5128cabb1757c5e38a9cbf492ac2d195ed403bc47c679b4a1d4dc"
+
+[[files]]
+file = "config/everycomp-common.toml"
+hash = "13ad4e42471f2c6fe6672f0e32ea676ba96f4d2f9119176b546ee1a744833068"
+
+[[files]]
+file = "config/everycomp-entries.toml"
+hash = "cc33f6379b98abd8ee9af3a51d755ba789b01c9e0141e82863a15493596df353"
+
+[[files]]
+file = "config/everycomp-hazardous.properties"
+hash = "b04ac758f18a5dd12ef9d362d98c6f1e76a6fb246f0522a74ee58bf484b2ebba"
+
+[[files]]
+file = "config/explorerscompass-client.toml"
+hash = "7d005b7e0bbbff0724725b6d801d6d6155b6c76720d14a08ababf6244b9c5661"
+
+[[files]]
+file = "config/explorerscompass-common.toml"
+hash = "b1a5210922dd076ffb5ebab128d9c4006a3aa7efd2a5818a4a52b02bf20a982a"
+
+[[files]]
+file = "config/explorify/structure_settings.json5"
+hash = "e2a1d42272a5e112529bfddda0cbbda9890b7ef60d92f2e3b93674deb2e6f671"
+
+[[files]]
+file = "config/explorify/structure_toggles.json5"
+hash = "24778eafab43d7a4d742572aee3e1b85ee04b5c3fdd88cd713139b3ca7e82760"
+
+[[files]]
+file = "config/exposure-client.toml"
+hash = "ef65ded50f4dc970c8fc1fba0cdc7bf70e534d81d37f4603f17e45a20d3f19a9"
+
+[[files]]
+file = "config/exposure-common.toml"
+hash = "f437a2bff2337eecc996f8d0d17d348403eae070045dfbd37065c6fcb79ce6ce"
+
+[[files]]
+file = "config/exposure-server.toml"
+hash = "43c4f95e10754a3968a68bc432bfcbf975495a2a74ddbefe41dfa7707fb033d8"
+
+[[files]]
+file = "config/fancymenu/assets/16x16.png"
+hash = "7cceee84dad0753bde269ca894ac8fb92112ad86f2e82865e61e36a5e43848f2"
+
+[[files]]
+file = "config/fancymenu/assets/32x32.png"
+hash = "cafeb53059c96203ec3222b41ecbe5a5f7b1e61aa6822e74000fced4c7f120af"
+
+[[files]]
+file = "config/fancymenu/assets/apple.icns"
+hash = "29a556a340ad1950fc1be278e43eab18a92a72e98d405086f835a39d43d835ac"
+
+[[files]]
+file = "config/fancymenu/assets/bg.png"
+hash = "4c463b7a0c579d83614f34c65ef2b15a94b5e110d9da50ae5067376a66c70883"
+
+[[files]]
+file = "config/fancymenu/assets/icon.png"
+hash = "0ad94ae4737dacd3f9ce7e2218e271e3d904f3cffb14597dc39b0bbc8c234658"
+
+[[files]]
+file = "config/fancymenu/assets/iconclick.png"
+hash = "0dbc4718592f8d4167a244a1a341078ef46589d02c675a213a31b4d2c17c6138"
+
+[[files]]
+file = "config/fancymenu/assets/language.png"
+hash = "fc67bc01c913d308728e819f29d99eb5b5df207cb458f9589945009d5d2235a4"
+
+[[files]]
+file = "config/fancymenu/assets/languageclick.png"
+hash = "eb2572410f56b71630abfad4beb846d861d821142ca01289964819bfa6579185"
+
+[[files]]
+file = "config/fancymenu/assets/loading.png"
+hash = "aa2ade05d2d6f2da80b017074c8692eed47ddce61a4ca63cd39496d450149f90"
+
+[[files]]
+file = "config/fancymenu/assets/title.png"
+hash = "8fecf1655f4e9ca85bfdaa0c1f47bdeef1123f43c40dcc4a67339e5836e36546"
+
+[[files]]
+file = "config/fancymenu/assets/title2.png"
+hash = "067c658241f8791154109aceb6041976337f03c13d8ddd2706fd489e291ad675"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "b3208800d7aafaa2d3c02730340db38fb9dbc4d2739964021db0c741ab2000c3"
+
+[[files]]
+file = "config/fancymenu/customization/accessibility_onboarding_screen_layout.txt"
+hash = "b7dd04b1d53b3c50de0857dfc4dc0522ceacd35840b392428868f17a95193181"
+
+[[files]]
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "8a3056720c3de41a15f283ff016dde40c8ec23c12e86c4b798495490cad81803"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "3f21a2f071275b86f1affeb1c32e7419148087b1831a3f739efeeaa26dec3c7e"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "d4e66bc22fcfa56158ca7100017623c71b1437fb4722229b6e064e0a48a5f5de"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "788fed9b4adf3a6b408b9fd4d549f9a78207bd63b91ff018b0a9fd367448243e"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "7724615b78b3aada388fe595c05f6a3b9807e069f1aaf70c332e991434c45e57"
+
+[[files]]
+file = "config/fml.toml"
+hash = "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825"
+
+[[files]]
+file = "config/ftbchunks-client.snbt"
+hash = "c939eff8dd11f8f300b6e68ce60388fd5028f819d5fda563bfab08e865cc2ced"
+
+[[files]]
+file = "config/ftbchunks-world.snbt"
+hash = "df97d93407a6babe2efd80d6d5a912b0bc5dbbf8de9ccb08be2880f731c30ec1"
+
+[[files]]
+file = "config/ftbessentials.snbt"
+hash = "eb014f760dc4180eedffe7e3327290b808b9f85c312eddd67d79cdbe0695ef00"
+
+[[files]]
+file = "config/ftblibrary-client.snbt"
+hash = "3f915d8f5b69b0afc1767ac7ffb11ea4689fa16457e09fecf10386cfc4c67a26"
+
+[[files]]
+file = "config/ftbquests-client.snbt"
+hash = "2b998a92ffa40c1d7667b1d7ccfb014f5d1172d8e48c21414525bde051c985a2"
+
+[[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "35d6831715c09718c33e23f0400a86e1c413dca876a3190add69aaa56629773d"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/01A538FD5BBF9D52.snbt"
+hash = "88cc1028f4d1ab36b1dee013a1b6948a18fe179348fb5e551fcdb4c7212449d6"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/0C81CE4349C97200.snbt"
+hash = "ff82538f7f70fb186a25f186133397dc3cbe72674c6d3f36dc0db48a2f09d550"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/1E890AEAADF3F4EF.snbt"
+hash = "07794ad1554e4038034e0030d20b4c84600ee2f238d1d6200b042b709b4a6aa6"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/29401B2B6791CAD0.snbt"
+hash = "f63fba81974652c18d1c0306f04f55c99e94e66f08277a29debf3eadee3659da"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/4B21C5AB464BACA7.snbt"
+hash = "23c9e31ade33c90bc0146f0ff0d5f97d703dff5ec871ee3c14fa204b65550838"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/4EB95CF88D47F92B.snbt"
+hash = "8d5b37d723f09c08f1f992829f1dd3978f65c6db0982514cd62b57d75c15474a"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/5183E4CF1095AACC.snbt"
+hash = "edf2b44e2501b754a687c1c1162096c92ac1cba610b2cbe6dcdf5e8d735cc076"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/5BE976F20D0A0EC7.snbt"
+hash = "1e3b53bf0c662db9f7765df468e6c9137bbf1f79f2ce636d483cee2b841d9770"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/602BC5F994B2FC9E.snbt"
+hash = "39855228fb1b3ebff9d60e54cd35231a958b7e8eefbc21969c3bda0af7797e09"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/6E78AA4F4DE00332.snbt"
+hash = "c33ccd59eff66ba7f6db0f498e0f354640b349f645421b404ef25de7643cc19a"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/7AD258123C618D21.snbt"
+hash = "c954e3d21d21253c99f7b341b10981c719c69a6e46b775f593bc6f17d79e26e9"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/7F788F915A9D8CEC.snbt"
+hash = "1c324f2d82b4eec06b954c860d88985b56575a1185f7cd3d664c7dd6be2d9abc"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "b59c3fb5af6d3d0009e71c4b87b10fa51508f7c0eef5e277b97d32e0f25e4d8c"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us.snbt"
+hash = "fdeaa2b76a330643a47c536d2a8d2b1df515aad1c4be011744bf90e0c7011d79"
+
+[[files]]
+file = "config/ftbquests/quests/lang/zh_cn.snbt"
+hash = "87fc1ee9e266e567e907ab43351d7033f709e901dd8de3a5a5f764868eaccb9c"
+
+[[files]]
+file = "config/ftbxmodcompat.snbt"
+hash = "ed4b456a630b577b331627f14c444771afd0905417a52fa01a05ca8b4e565a6d"
+
+[[files]]
+file = "config/fzzy_config/keybinds.toml"
+hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
+
+[[files]]
+file = "config/fzzy_config/search.toml"
+hash = "103317c4c1c5ae1421946c921428cbfbd9b2a17ee37115d9778d0b22e3b64e19"
+
+[[files]]
+file = "config/golemoverhaul.jsonc"
+hash = "7e694c92bd8b75e3cae9c6a0730a4d5e1cc00c39dc7f4924dd09ef8ce12da41d"
+
+[[files]]
+file = "config/ichunutil/ichunutil-client.toml"
+hash = "11b2d0505495ddeacbaeaf6f6b4f1431b36c6f81fa99f3bef3e8adfdab691225"
+
+[[files]]
+file = "config/ichunutil/themes/aztec.json"
+hash = "e649c0232e3b952d3c1cb9739e8823d998a8d8ea7013cf04825f2e7deaba228f"
+
+[[files]]
+file = "config/ichunutil/themes/blue&black.json"
+hash = "737f04c71b43552e74bf0426d7a973d7d55a73659de32673714b9a8a5acc5f62"
+
+[[files]]
+file = "config/ichunutil/themes/blue&orange.json"
+hash = "feb283d9d1f9cc25f4bb1e568649ed3e6537c9a9ee63fea3506c3683948a7e0f"
+
+[[files]]
+file = "config/ichunutil/themes/default.json"
+hash = "9f8d09018b881b6d4c6840c0bc81004840b0b723dde94fc0f224383e17bb8090"
+
+[[files]]
+file = "config/ichunutil/themes/grassgreen.json"
+hash = "1a9600633ee83e932c38442c34720a0ff659b70b4c304522d784a93766db0a9c"
+
+[[files]]
+file = "config/ichunutil/themes/green&black.json"
+hash = "c147b5c7b1af5bb58134c7d6c96c5941fd3d4cbcfef70f58c2cc151ed70bfb67"
+
+[[files]]
+file = "config/ichunutil/themes/lazygray.json"
+hash = "61096ad80c1aa88ae1caaa774b28d3c8f2dd670fcdf861e549f8d3e19c8c31d6"
+
+[[files]]
+file = "config/ichunutil/themes/monogeneric.json"
+hash = "ed1ce4ab67241147f28878514110ed44882fcd8b598a7f7b7d3986119f9aa14f"
+
+[[files]]
+file = "config/ichunutil/themes/nightblack.json"
+hash = "6e3dbd564f58d51ba79465157b2e6214b31910d7fbc07969bd9afbe2c296f65b"
+
+[[files]]
+file = "config/ichunutil/themes/red&black.json"
+hash = "d75c059cca81b4bd6e365614e10db45d3f16247ea0319ccb2b20a0a3f76b45dd"
+
+[[files]]
+file = "config/ichunutil/themes/skyblue.json"
+hash = "1327fd9384d4d487552f153358d3062adfb156b4b69929de32a83426841ec258"
+
+[[files]]
+file = "config/ichunutil/themes/whitelight.json"
+hash = "5369346e99dc684898a20bbf08791a940f55c9e70e4ed0b0fa8af9e04091dc78"
+
+[[files]]
+file = "config/illagerinvasion-server.toml"
+hash = "8a0b55eb9296f5897140db1adceecb037b7b06aff74cee1a5255e9c3013f942c"
+
+[[files]]
+file = "config/imblocker.json"
+hash = "29169247e1813feb732559541751ef554cc360487a341141dbda3e8048520255"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "f2b7f219198f0a911d04b09f545f2c1256e8d114951443924878dc10963e16aa"
+
+[[files]]
+file = "config/immersive_aircraft.json"
+hash = "898347b99b3326ae0ce719a06351eb930b1a3567e4f3c22ba94f014f1e115a46"
+
+[[files]]
+file = "config/inventoryhud-client.toml"
+hash = "0657ae4496ea43cdc4b668279795add04964ca741a25269d31c4b4ad7e82069a"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "f646a9a425ed8216f40dac678efd20b744241ad2075fb087629b5481658b067a"
+
+[[files]]
+file = "config/iris-excluded.json"
+hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
+
+[[files]]
+file = "config/iris.properties"
+hash = "cfc823a57d9d5bfe6cf320b6bd914f4d7b55e75cb93abd111dab5ed5d792d78e"
+
+[[files]]
+file = "config/irons_jewelry-server.toml"
+hash = "c1322190d23589bd63d45577b340904f45f73a246690b514d468e68f4b24d350"
+
+[[files]]
+file = "config/itemphysiclite-client.json"
+hash = "0ed2e84e1c9b6ab06e2e0739cda61744c0481c1e30f3ba1cdfca184eee65c363"
+
+[[files]]
+file = "config/jade/hide-blocks.json"
+hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "5754114a0a663b321793a61f741bafa70c2a6dd649657260cdc096600763ad94"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "673532b1440eb1874b3d51374b24f442ff5f6d0d5e564ba2d4d7a92cd4253afb"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "c0f5fa54c7c023bbdf4fdeeef5a4cd2c27611c768de0a02c3ec14c2d5535f9a4"
+
+[[files]]
+file = "config/jecharacters-client.toml"
+hash = "fa50334504c91ef5d6de1f5fae40f59f2928498e5c8b1ccbc5b5aa1894e1e216"
+
+[[files]]
+file = "config/jecharacters-extra.json"
+hash = "621f44c75d9c9e038e3a9f2c809342b5fc007e15a443b62e299ada1f2b21fb7a"
+
+[[files]]
+file = "config/jei-server.toml"
+hash = "702acd04d99445bce659d04fcc488e1a98c8a803983c31ae262b0f3a47fdc8d3"
+
+[[files]]
+file = "config/jei/blacklist.json"
+hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "6cfa1bc1501752acf5d8be8eefb54fadc3b32e086930615cdf5b1bdd44f07a48"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "755f199a3868224bdccb2a8ffd8f1a4eb2d96140757f444ba31f8d677a66034f"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "ec7e931c13ae7faa30e1ba190c778924913875b13441a45eae15f3b331d421eb"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "30fce9ab0607dea28c6cea300f9ade70248c6391da09ffd7017824a3dfef2a49"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "82d86443bbebbe33574a05dc93a16fbbb621c88e8565477bb0abce4daac7c4b5"
+
+[[files]]
+file = "config/konkrete/locals/de_de.local"
+hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
+
+[[files]]
+file = "config/konkrete/locals/en_us.local"
+hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
+
+[[files]]
+file = "config/konkrete/locals/pl_pl.local"
+hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
+
+[[files]]
+file = "config/konkrete/locals/pt_br.local"
+hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
+
+[[files]]
+file = "config/legendarytooltips.toml"
+hash = "3ee86b7d3db0c11d9e4288110804777e598f49a8445fa63d7fbec00f74a0f92f"
+
+[[files]]
+file = "config/libraryferret_1.properties"
+hash = "f1909f17586cc72545f1d12041fe52e2439335621101af340e865708bb392ace"
+
+[[files]]
+file = "config/livingthings/ancient_blaze.json"
+hash = "6ebb3daf5ca152c5dba141349dcd8b789e3162c74a930606d615cf8111f4cc58"
+
+[[files]]
+file = "config/livingthings/baby_ender_dragon.json"
+hash = "e905e42dccaa13eeeadacc05b2e146ab19a10f326610476b1d96291d5f2bc77b"
+
+[[files]]
+file = "config/livingthings/crab.json"
+hash = "5d23a7d056f6d54a042768cffb75f359f9a2dbbab7ab753b900c7ca73530b3f5"
+
+[[files]]
+file = "config/livingthings/elephant.json"
+hash = "1283c7b8a81c4f08cef768fd4ed758536930b03d8163d286eac45b3cd774221c"
+
+[[files]]
+file = "config/livingthings/flamingo.json"
+hash = "c66dfc08bc1c38616c8a9bd86283e368bfb2cd7df901222215ea52ff4688d1f5"
+
+[[files]]
+file = "config/livingthings/giraffe.json"
+hash = "194069ab1ca3fc23c6e9660e9ca6daad99c9ffd94d34db67825b6b35a53e0d61"
+
+[[files]]
+file = "config/livingthings/koala.json"
+hash = "f526fe3b3b5fd1ae825ceb4d43d1fc47b80ad26fcddb6bead444764d0368d7b6"
+
+[[files]]
+file = "config/livingthings/lion.json"
+hash = "682fd5ca4825342c6e510414b9d3cfdf33ac85716d721375ab6c4b186e3ef53b"
+
+[[files]]
+file = "config/livingthings/livingthings.json"
+hash = "b28c313f2632fc458649dfc61d288744f7e07e2ea1f1c22efc9d7cc8c2a505f7"
+
+[[files]]
+file = "config/livingthings/mantaray.json"
+hash = "78063033b576ca9ef7205618f30c5b04952a06e98fe5abea02890a5fa4674aba"
+
+[[files]]
+file = "config/livingthings/monkey.json"
+hash = "65a7068857e8ade76567e22ee852c50dec65272a133736e7c0af1bd50bc3ed10"
+
+[[files]]
+file = "config/livingthings/nether_knight.json"
+hash = "33cedddff83e98b8e157b60422f5b1b6f3ad1bf4a5f997f2f651dc3a7aa0b21e"
+
+[[files]]
+file = "config/livingthings/ostrich.json"
+hash = "f89e4d33a81b921b3a83a41c74ad4449ad70de65104005b28d99938269cab025"
+
+[[files]]
+file = "config/livingthings/owl.json"
+hash = "d543851cb23abf822abbdb4359213f0f001ab14af01036140d7688df52e2cdaf"
+
+[[files]]
+file = "config/livingthings/peacock.json"
+hash = "748a6a43b44f679632c0b740a14f07517fe45652b74415a67603834b1ae63620"
+
+[[files]]
+file = "config/livingthings/penguin.json"
+hash = "ef86d31611f3f14029971e86a795f078d1daea0865b639d7fce275a8fe34d6e4"
+
+[[files]]
+file = "config/livingthings/raccoon.json"
+hash = "52dde5b8837e4a53ce58f565f9fd485e639ccefaa8258390232d1badc0ef8118"
+
+[[files]]
+file = "config/livingthings/seahorse.json"
+hash = "2b6d50b761524fdd184e2b8ee9d7b370d7c8cf6c35fccc22497ffcacdd6dda64"
+
+[[files]]
+file = "config/livingthings/shark.json"
+hash = "420e9cc2366d10cfc9b6e050ef34238cd75be2f230f6c64c197ad45ba5e383ca"
+
+[[files]]
+file = "config/livingthings/shroomie.json"
+hash = "71f87a7d1b899a8aca1ba4c239f56c3071d2c1b1e794b81acb6fb9b88bed3001"
+
+[[files]]
+file = "config/livingthings/snail.json"
+hash = "662954e7ba70c7cceda5e7ae3c0283331530a60a418db38e5d27155fef6ad118"
+
+[[files]]
+file = "config/modernfix-common.toml"
+hash = "72ca2bcea2a9946a3a54842f14eff6f7b47d8fc96ef497c1b56406643b153fd7"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "1d94c5a6163c2d2eeb1388dd4604a72d3cc30674790b55418cb9db608505b03f"
+
+[[files]]
+file = "config/moonlight-client.toml"
+hash = "10a4552c3c8129bee227f8e72396b7c7eb2f67a4fc20649d9320381b6ad66c8b"
+
+[[files]]
+file = "config/moonlight-common.toml"
+hash = "b217c8d349238c5a4fcfef439d72980722bf9dc43c74c287be3fde336de2fddf"
+
+[[files]]
+file = "config/musketmod.txt"
+hash = "5eaff93c32b67e5016d4076d42a3bd3175804bce0e06b6c487331aa32ca525bf"
+
+[[files]]
+file = "config/natures_spirit-common.toml"
+hash = "49fe724c77d5e7caf4fe75f9644d8dcd865ada8ef0e695905bbe38432c3ffa00"
+
+[[files]]
+file = "config/naturescompass-client.toml"
+hash = "a5d664ed8aeecd77bd09611cba93d5f8e3194da8140666d3e97a0c4973dd0981"
+
+[[files]]
+file = "config/naturescompass-common.toml"
+hash = "a48da137411293b525a07b42e4f355484c990f7f7e29cf7dff3e3deebf5af051"
+
+[[files]]
+file = "config/neoforge-client.toml"
+hash = "d58d93e2c429410d0abf25507d1679f732e1023b03bb52414348efcf5cf3ddb0"
+
+[[files]]
+file = "config/neoforge-common.toml"
+hash = "fe878a2717a145cd890621eac5b3be1e1fd656f7ff9abc6e8d53f670d37474c4"
+
+[[files]]
+file = "config/neoforge-server.toml"
+hash = "b1e3b38d612295f8d9dfa0fbdb538a992b7a1a3b7a766c491b4e9fdf3823396f"
+
+[[files]]
+file = "config/notenoughanimations.json"
+hash = "ed5963ab9132632e89ea83f63f992f793f102d114b77938514d89d255a5754f7"
+
+[[files]]
+file = "config/observable.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/oritech-config.json5"
+hash = "6ba4dfa50b4b268304c54bb51d964f1fb3586a97a182914f2befc6f57a345de5"
+
+[[files]]
+file = "config/particular-common.toml"
+hash = "555603afc42e8a7dd9d9f3414b0420b99d84e2bab2b0a4bf39933784a5ba5929"
+
+[[files]]
+file = "config/patchouli-client.toml"
+hash = "d9a6d7cadb6d473cf087602d9866840d2bb7f2c16915267eb3f6fbf68d5d774d"
+
+[[files]]
+file = "config/paxi-neoforge-1_21.toml"
+hash = "1c060e845e29386597054765729f34b0933fa3d1ff75cdd686a4e925cfe973d8"
+
+[[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "8cf79124a0c9cee4c1a093266a772b2430383f7bdc6a6ed43cb9555e9101f615"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/neoforge/biome_modifier/fig.json"
+hash = "5043b597e0aaf21d93829ad5678ff27e445cc83ad9ef90ad08967d479668480f"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/neoforge/biome_modifier/silphium.json"
+hash = "b99ac83eb61f945d7fcc05fd09dfb44f15506f8381111458f636aa921651a565"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/neoforge/biome_modifier/walnut.json"
+hash = "6cc6195d134ffddaa306fb3d2fcc2fe39724e65a01c567058af22b8126035465"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/neoforge/biome_modifier/wolfberry.json"
+hash = "f669311b600de15d9caf50524ceabf6d7259716593f60d9a4ada81264c1367dc"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/block/caliducts.json"
+hash = "6d3265d31b62b91b56ba3c9b6c59c493ab2a9dab5bfb263370871dd78fb8f0e7"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/block/chimney.json"
+hash = "5d5933c85313e00c7b01e94f137fa3cd069c904941f4600ee2ed8682c6008adc"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/block/chimney_ignore.json"
+hash = "7db027faaca6db60b1e20709f90f9c57cc43cb26ed3830e699472d30ce2ae2d3"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/block/chimney_pot.json"
+hash = "b574d050780b9b0425c8ce18495f0213feee54f4bdd2553b8d5c22f39230d230"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/block/counter.json"
+hash = "b2323e1d5e891bedf8aa2905e7152dea3ba6515a0c3a4a45103010cd6250ba86"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/block/fruits_growable.json"
+hash = "e19ec2cfc4f2eaaa94a0245e32e61668b333f99e0e4215a0dd8064479860cbee"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/block/fumarole_bloom.json"
+hash = "f7f86bfa83b91cdc62126723ccd7e0c7a574d21f1ee83724f91d44d848bd948e"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/block/fumarole_hot.json"
+hash = "c4aa173611f0f072f04e625e5d3d7a7b5e1cdb7f81a54103d7f89e4f4faa487b"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/block/fumarole_very_hot.json"
+hash = "83522a84667866ab21d9776f961368ac345c579f1eeb388580343261f1b21457"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/block/heat_conductor.json"
+hash = "e18c47718dfc62c18d01775a8b6478ae255065c665d9454139c4dcac43762995"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/block/loaf_baking_blocks.json"
+hash = "7eee427984ade48b363adf9f73e904d83ac6f6595c2759c15ddfbed9f501016b"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/block/loaf_baking_ignore.json"
+hash = "2a164d62f9115c137c5fa555baa7c90b00fe31713904e931659be6c032d01701"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/block/pans.json"
+hash = "89ae24158d31d3b6ea6f1134108db84ac4043719a1effa22a9d87399c019cdee"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/block/snail_food.json"
+hash = "d4a85ace98f1ce560c54d237bb87274cee065bac2eade3c8e5b122a1401fa180"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/block/snail_growable.json"
+hash = "b1c83f3d6ef45b28c949c44dce35dbb4b0643d242f93b1bcbe462d454dcb7223"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/block/snail_plump_food.json"
+hash = "61de754c5bf54eeb401696a9a5acff3579cada7083f062e19837b28a1a92ca13"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/block/stoves.json"
+hash = "3d035078d7e048573dd6b1407e46b28d4ba794841437808d5ed9205da42f8e25"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/fluid/boilable.json"
+hash = "81368c52204a3a62500857e3bb6453dd3401bae2853ad8999a0268b677c0ebd8"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/fluid/pumice_bloom_grow_on.json"
+hash = "10bb807794df0a8039e67485102ca5f423897e66a24b286fe4653ed4a825d51a"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/fluid/stews.json"
+hash = "ef87197d9d4043802be5c4b4e2926d219b9f3ff2e48e00805898258e7c106a64"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/fluid/water.json"
+hash = "01690e47b48c027a4caf94887dafba1c4de3ed35ac0cea7037defbb455b8d682"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/aspics.json"
+hash = "136347caa9a7a1972da4e1c22d05e017d8f3b22c49c04deed19401356e31fed2"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/bone.json"
+hash = "61824ed400968c75356509f952fbb154095c837b9030bb9a4c28760a48c1363a"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/cereals.json"
+hash = "b7a61800926a42bb6c2c8b5e0050fd3191b21af5d2234827c4eb168702484afd"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/cereals/baked.json"
+hash = "713376df6515f8a8d97d11ed2bf632300ec037204171e937936018e8508800d8"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/cereals/rice.json"
+hash = "41b7b6bed0dcef26ff7191667c87a26b00299c896c1712147d9618e7197af204"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/eggs.json"
+hash = "5d28354ec6313b960ca141c21a32d4a068bd2cfe9e1adad9c81cb7e14776aee3"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/fern.json"
+hash = "e56307c235b01612153a40fc592c7030628539b3a34de8664884902daab64ade"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/fuel/charcoals.json"
+hash = "d0e4f18924f06172fa30d444e04774b203fb3c3fb433565da67d6db0a694cb47"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/fuel/fossil.json"
+hash = "c55eb366a5f12c470ab658797fe22c76b1fa270351cb39bffd630e9ccfc45c6a"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/fuel/lava.json"
+hash = "18748255d9b57c9c62ce1bea81ec516129116d0a06b4fb5550eb762f1f366cea"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/fuel/woods.json"
+hash = "710f9bc3e7ffd350556a686de4828c340496c2c2682e4392b48ff8d438064b3d"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/garum_fish.json"
+hash = "e163cd3abb21f21b6dd935b531798b5313bb2473f1aa302d35d0fb0f9ec48e6a"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/ice.json"
+hash = "8df81765682c3e78f7d0803a7642f9433fc9e5d90163919b6e9f31abbc97a574"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/meats.json"
+hash = "a7a030642df3a4c8b60eb7aa316dfc8247a78e2d64bc4e3dc5d0cdad76587c83"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/meats/meat.json"
+hash = "377aab32db33407a0af4cc446e4ddf50d3ac8f8da9a8aef4120bf3227604e27b"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/meats/poultry.json"
+hash = "185ba2227040e124591c7633a2348948f71dedbbe9e79fc6206b97e182a9d359"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/mosaic_bases.json"
+hash = "adb0c25164b6ba97a51f416723a9d410f697f084a9a5f27e4b4089d331d511c4"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/mushroom.json"
+hash = "d40032105f3180bcd522018533a5d169cc1a6b104091cd95bf0cbbf861d42bbc"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/portable_brazier_fuel.json"
+hash = "25f7931139d8bb4cf497e38c5c22b6f9abc8b34cab5517e221aff9eca3a58fc3"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/seafood.json"
+hash = "3f3bd45d7f23eb3ed69012656f9168ab932d1182e9920105c531f59243a636ca"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/seafood/crustaceans.json"
+hash = "297d247db9e43ef0f147ee705e65bef5a665026141059a9c4e5eb9d335ffa7ed"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/seafood/fish.json"
+hash = "8beae1778b904addd4559f2ccdb04c17bf9a7f074027d8046402fd13a81706fd"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/stews.json"
+hash = "8df68490a6819302fbb1133ba7a2a1e0d1332dc4df6773746971eb39306dc831"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/stoves.json"
+hash = "3d035078d7e048573dd6b1407e46b28d4ba794841437808d5ed9205da42f8e25"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/sugar.json"
+hash = "618a0353ab3b681186b33f183b416fc8650dc45dc9b202a6ba96cc8b04066261"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/vegetables.json"
+hash = "d8fd142b58b55845361184a8a2ca7588699197b01a5baf6c61eaff8803136d2f"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/vegetables/greens.json"
+hash = "01351e513e04afd7f47ad1f6c55ee04be41978a7f49a9aec393c3dc578a4b689"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/vegetables/pumpkin.json"
+hash = "46629b93302a4a828ac0a527bc08049d1cf699dc1406b0308d7e1c140e525a39"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/vegetables/roots.json"
+hash = "c60f8da5677a2be44987ee0f1d00cea025ccf9c2c2eee783326ea2a7903f837a"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/vinegar_fruits.json"
+hash = "20aac6f8e05a78bd06434e5114c0cd39fded0c41bb15b234064a5c6e15820c85"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/vinegar_fruits_small.json"
+hash = "960ebd99cfae03cd9148090df34f1a008e9c1747185c1d1b694fa32028ba59c7"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/walnut.json"
+hash = "e88aee8bd2e79b2fdca1f592af04c0241f6e296a847ef21e345ce80410cf09eb"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/walnut_log.json"
+hash = "efb86eeaa530254f83ba3f0b034c09bf0d539a883a353ff01d40d1b53e7f68b0"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/item/wolfberries.json"
+hash = "3f9cd21897dac3e7cf2e1df4bf73087289028c33a1c8748f68ced3a899bf8c53"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/worldgen/biome/gen_fig.json"
+hash = "7e9d5e2c3694fd16c82b642078a2d161d7cdb6d6e472f66ee1b55845c47a4314"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/worldgen/biome/gen_silphium.json"
+hash = "245a6150542e86531622302d3d0911fa055a79a7b77e32a518a1a26f2b690695"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/worldgen/biome/gen_walnut.json"
+hash = "dfaefdf83ccefb6ebefc3301cd9608db6c530a4971822ee8653c49d7f926a1a8"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/worldgen/biome/gen_wolfberries.json"
+hash = "f06ff61ff3d8ca14e6baecd519ecb935cd8dc948e29340cd7167bca6b54a8b34"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/tags/worldgen/biome/has_structure/fumarole.json"
+hash = "7c57fd470fdb4af17c06701dec410db72796c4542a8a635f674e059282071ce6"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/worldgen/configured_feature/fig.json"
+hash = "178afdcd0eadbeac38ee823b7b32708799cad3b34e0a5a62140691efb203b3f2"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/worldgen/configured_feature/silphium.json"
+hash = "df53bf907bca24c4f3a4a8964413fd44c626d4dc8552d18f0c3d48f05dccaeef"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/worldgen/configured_feature/walnut.json"
+hash = "32a3db19fd19651e55019d0d664b08df6361b41b0b1bf897fa5568e24aed71e9"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/worldgen/configured_feature/wolfberry.json"
+hash = "0ae7081b7de51e853730e52e4a6aed34a1af23dca61a205207e3490d6786937e"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/worldgen/placed_feature/patch_silphium.json"
+hash = "a72fb4beec14c609be60ed121c07a14da8a0b1c6968684fdc89373961481b39c"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/worldgen/placed_feature/trees_fig.json"
+hash = "baf3ecd59e37e66629a77dc74f38b8945f800aacef4f7e96e16af3cd4ec03ae9"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/worldgen/placed_feature/trees_walnut.json"
+hash = "4d13eb22f506f15a12ac73780f49bb74a06cbccde57cc65df8d116038c4b4514"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/worldgen/placed_feature/trees_wolfberry.json"
+hash = "817b51a167440fa94e005dcd2430ddef803070652f22d09a2c3af306fa9ab109"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/worldgen/structure/fumarole.json"
+hash = "21022606a777b3823a37b548255e8c83f37d1a68574dafabe1408a4cfb6836cb"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/worldgen/structure_set/fumarole.json"
+hash = "8364f48cf9d8f07a9b64eb7c22331dbf326968295f90cdfc9ab62978b826ead4"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/caupona/worldgen/template_pool/fumarole.json"
+hash = "053016832fc647b83dd5d60feb9476b6ddd3cd732d9b0e43b4d9d54b9d891c92"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/explorify/tags/worldgen/biome/has_structure/badlands_pyramid.json"
+hash = "604ab778bcb7ce4c10e4c6e50b5503c00d92ce6cea9f30d93fcf5767edf4fc12"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/explorify/tags/worldgen/biome/has_structure/black_spiral.json"
+hash = "1e5137e90a2a65293c8b435adf8a4464cad344d197b04cae7350af9d1f709de2"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/explorify/tags/worldgen/biome/has_structure/campsite.json"
+hash = "f65bdae99414702e58b667013b5dbf8f42f727b2a6f5486ed2b34e0a514e959d"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/explorify/tags/worldgen/biome/has_structure/dark_forest_settlement.json"
+hash = "44e84e2633e833f409a58aa3dc074698a864a3c6b6643cb8c2dac36fdef5ef40"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/explorify/tags/worldgen/biome/has_structure/desert_shrine.json"
+hash = "4ebd38a48d0a1f5099d38876ac4bf6ad81d76d205620270a7c9a12cd919d8a73"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/explorify/tags/worldgen/biome/has_structure/end_shipwreck.json"
+hash = "790f4f2a49cffa1dd7f1da92e2e3bf6908773d2aaceab22fef0ce8e7cc1d838f"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/explorify/tags/worldgen/biome/has_structure/farmstead.json"
+hash = "89b1cf953c31ca8abc4d948d0b67b81c9d5d7d952495f9aca99f8a067dca246b"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/explorify/tags/worldgen/biome/has_structure/guide_post_cold.json"
+hash = "1ceedca924759de70dd8226985d9c457906002bc2905b0d494b53bf89352ac9a"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/explorify/tags/worldgen/biome/has_structure/guide_post_warm.json"
+hash = "46fdad6f24ae7ea64587537e2a5db94b06a5b8536b726a4895466248a20c5650"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/explorify/tags/worldgen/biome/has_structure/mangrove_hut.json"
+hash = "bddc48c567ab17d2b11288ff936a44818cbdbdc618c770a43f6341a42d270e84"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/explorify/tags/worldgen/biome/has_structure/mausoleum.json"
+hash = "c26cbc831859051105815217c9ef583b9411b295d4cff8cac4dd5b9f047d8b49"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/explorify/tags/worldgen/biome/has_structure/ruins.json"
+hash = "fd650206504fb84ab3aecbbea3070307aeff09f4377a328631d41f643916b713"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/explorify/tags/worldgen/biome/has_structure/supply_cache/birch.json"
+hash = "bd21853dcce997a37c86a7bffc3e31332ef1ecea486e076785fede5a46c295ce"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/explorify/tags/worldgen/biome/has_structure/supply_cache/dark.json"
+hash = "ecf75f2076d080601bf4e318cee52d5b153bc5be443b334d4aa2e843633cc1e4"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/explorify/tags/worldgen/biome/has_structure/supply_cache/desert.json"
+hash = "3bf70d2b9c5cb490ef7df5588042469a0fab0bb279c6d6bcf4d5a1c92d5bb555"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/explorify/tags/worldgen/biome/has_structure/supply_cache/forest.json"
+hash = "c2ed9708a12555cd21998782549653d035d92547cf8d82582a46abcf33255ead"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/explorify/tags/worldgen/biome/has_structure/supply_cache/jungle.json"
+hash = "69bb6aae342d8eb01587bf4b4ee136394b58780a2be211448246fbc0cb1cdc2e"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/explorify/tags/worldgen/biome/has_structure/supply_cache/mangrove.json"
+hash = "a6b976b93cc6ec26a91d35d225e3657f5b94a7797b29a07303429f828e0d1aa4"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/explorify/tags/worldgen/biome/has_structure/supply_cache/taiga.json"
+hash = "144e34733fee75af0cda079fa23e0c3c215b2256cb8bba4c4dee01a166ac1c9a"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/explorify/tags/worldgen/biome/has_structure/tavern.json"
+hash = "46209cca2e67b7c4991356fca806b2d8498be1d5ad076c777a644e96957c8470"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/explorify/tags/worldgen/biome/has_structure/watchtower_plains.json"
+hash = "01337649f9ba4a5366e2a820c767bf633d27b1a35a94b0510d8eb1b72aea09d7"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/explorify/tags/worldgen/biome/has_structure/watchtower_savanna.json"
+hash = "c6dfe16da2878dd19404006aeb3102907cd3979790269d60717c0017377bc049"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/explorify/tags/worldgen/biome/has_structure/watchtower_taiga.json"
+hash = "02f5f965a6023e03aa99ee42b02218722ca5e49fc7f08d21a4471ca78e122ddb"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/illagerinvasion/tags/worldgen/biome/has_structure/firecaller_hut.json"
+hash = "edb17e0f96e63d9aa72630e5473685d406b98074fe229652e1ee9ac56492639c"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/illagerinvasion/tags/worldgen/biome/has_structure/illager_fort.json"
+hash = "243673bc67fd5a1464c562692ce51faed883c66dabac9f92fb731c10cad59c82"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/illagerinvasion/tags/worldgen/biome/has_structure/illusioner_tower.json"
+hash = "8544a38e0a711522bd065389e2f1d6ac29ac70f1d66071dc4621a87e2e1cd437"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/illagerinvasion/tags/worldgen/biome/has_structure/labyrinth.json"
+hash = "17c9aaa315ec611824cbd680d10680476c151751811c49d06897ad70d396f973"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/illagerinvasion/tags/worldgen/biome/has_structure/sorcerer_hut.json"
+hash = "ecf75f2076d080601bf4e318cee52d5b153bc5be443b334d4aa2e843633cc1e4"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mes/tags/worldgen/biome/has_structure/end_biomes.json"
+hash = "ea183181c4b4c67febed8fd3ce8f1ef6c1a3d38661fa8af94ec1a0ebe0614272"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mss/tags/worldgen/biome/has_structure/acacia_biomes.json"
+hash = "62636264929bb938ac78da8ef1f1f3ee6b96ac4e4e815160cb9b9cd39aec443d"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mss/tags/worldgen/biome/has_structure/beach_biomes.json"
+hash = "c859c9e1364caa59563156d1f8dcc25e9c229cd5ffe5e67d6ea6ff0ef42add34"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mss/tags/worldgen/biome/has_structure/birch_biomes.json"
+hash = "f75a51d04f62abc9a649933f9fe927b6a74ca9c58c8ed955b6a90b4d0e431c61"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mss/tags/worldgen/biome/has_structure/cherry_biomes.json"
+hash = "3a0cd7d6625a7ef3629cc1410c6661e057fe69ab6af7bcc4bf55add515f9ffea"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mss/tags/worldgen/biome/has_structure/crimson_biomes.json"
+hash = "8d9d1708361813270463a55e645e394708dadaa42f995976c2f4af46a4151305"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mss/tags/worldgen/biome/has_structure/dark_oak_biomes.json"
+hash = "61647a9ebddaf75bf0b410a7ee400d7ddc8ca4d3c827f78f0ec73bb7f8b66806"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mss/tags/worldgen/biome/has_structure/desert_biomes.json"
+hash = "b8f2c98c10f1c64fd285bd7a6f9a018f94f8c83f338fd487ecfc28e081644481"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mss/tags/worldgen/biome/has_structure/end_biomes.json"
+hash = "5218b51395aed825cea971079e35c6aeca9fa65986dff03ae546d08c0dffb416"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mss/tags/worldgen/biome/has_structure/flower_biomes.json"
+hash = "c35fd74a5ffc175ba99caa6d7833539efa9b3705a0231f1bca6f901d6ec64ed4"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mss/tags/worldgen/biome/has_structure/jungle_biomes.json"
+hash = "f60c746f9542239bae6e75b8e1ab8cc2f8e7e0a57e5ccf756d7b04cce31dce6c"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mss/tags/worldgen/biome/has_structure/mangrove_biomes.json"
+hash = "b87010ea2d14db015fc1bd8ed596f0c7e2890491440f9c6f9146e68d0ec18cc0"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mss/tags/worldgen/biome/has_structure/mountain_biomes.json"
+hash = "262ce9de42387ade35787ee03f98ccf4b931d63adeb12407416a22d8f46327f1"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mss/tags/worldgen/biome/has_structure/mushroom_island_biomes.json"
+hash = "2debf50ee249a00fd99e4779baa11d5a008b8e1e346f4aebf58747756d78fd39"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mss/tags/worldgen/biome/has_structure/nether_biomes.json"
+hash = "5946165806d1f7ccc88e55ac6db8a8ce21c5df256a7275d60064d389b7ac6f8b"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mss/tags/worldgen/biome/has_structure/nether_wastes_biomes.json"
+hash = "7f8fcef2b9eef91cf14586b8b55aa4e85c0c8c73f23f7dc13375c67a59f02959"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mss/tags/worldgen/biome/has_structure/oak_biomes.json"
+hash = "0614832567459c735f8c5afb5159da8a63ed772a9483c6afdd439d86d6f8f0f8"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mss/tags/worldgen/biome/has_structure/ocean_biomes.json"
+hash = "6a36c73b722bcc8e3e9d082392cd2a7649df36e2f74afa56a84a7d8ebd5b5a62"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mss/tags/worldgen/biome/has_structure/overworld_biomes.json"
+hash = "a60e8dd95a34ea883751b73ecd89be7321ce509d52edd85f71ebe229929c783d"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mss/tags/worldgen/biome/has_structure/plains_and_oak_biomes.json"
+hash = "920fdc06a16dc6b27f01476def567dc3dd0f4181316f1b94a5a4b44dce9d452b"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mss/tags/worldgen/biome/has_structure/snowy_biomes.json"
+hash = "083d7f85e910726859337fa6df5addf2f51d6722fe610259d8ecc2f17fee157b"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mss/tags/worldgen/biome/has_structure/stony_shore_biomes.json"
+hash = "0acc2cdd1a930736a012ba15611b251f824fea4efcf7fc77f1830c11b2a5db27"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mss/tags/worldgen/biome/has_structure/swampy_biomes.json"
+hash = "aa20e0a7dfb5e791c6471e2fc234ed6c78ae4b064f120d886d37eff3c8e2a0ad"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mss/tags/worldgen/biome/has_structure/taiga_biomes.json"
+hash = "38db0d37954f84fd87b43d14427adf69cac1b48276e4740bf4ea85b5d567ed10"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mvs/tags/worldgen/biome/has_structure/acacia_biomes.json"
+hash = "62636264929bb938ac78da8ef1f1f3ee6b96ac4e4e815160cb9b9cd39aec443d"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mvs/tags/worldgen/biome/has_structure/beach_biomes.json"
+hash = "c859c9e1364caa59563156d1f8dcc25e9c229cd5ffe5e67d6ea6ff0ef42add34"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mvs/tags/worldgen/biome/has_structure/birch_biomes.json"
+hash = "f75a51d04f62abc9a649933f9fe927b6a74ca9c58c8ed955b6a90b4d0e431c61"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mvs/tags/worldgen/biome/has_structure/cherry_biomes.json"
+hash = "3a0cd7d6625a7ef3629cc1410c6661e057fe69ab6af7bcc4bf55add515f9ffea"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mvs/tags/worldgen/biome/has_structure/crimson_biomes.json"
+hash = "8d9d1708361813270463a55e645e394708dadaa42f995976c2f4af46a4151305"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mvs/tags/worldgen/biome/has_structure/dark_oak_biomes.json"
+hash = "61647a9ebddaf75bf0b410a7ee400d7ddc8ca4d3c827f78f0ec73bb7f8b66806"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mvs/tags/worldgen/biome/has_structure/deep_ocean_biomes.json"
+hash = "43c7645fd7888d11a51cdbf644fff27c87ef0d6dcb30cbc8434137b5cf0c85a0"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mvs/tags/worldgen/biome/has_structure/desert_biomes.json"
+hash = "b8f2c98c10f1c64fd285bd7a6f9a018f94f8c83f338fd487ecfc28e081644481"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mvs/tags/worldgen/biome/has_structure/end_biomes.json"
+hash = "5218b51395aed825cea971079e35c6aeca9fa65986dff03ae546d08c0dffb416"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mvs/tags/worldgen/biome/has_structure/flower_biomes.json"
+hash = "c35fd74a5ffc175ba99caa6d7833539efa9b3705a0231f1bca6f901d6ec64ed4"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mvs/tags/worldgen/biome/has_structure/jungle_biomes.json"
+hash = "f60c746f9542239bae6e75b8e1ab8cc2f8e7e0a57e5ccf756d7b04cce31dce6c"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mvs/tags/worldgen/biome/has_structure/mangrove_biomes.json"
+hash = "b87010ea2d14db015fc1bd8ed596f0c7e2890491440f9c6f9146e68d0ec18cc0"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mvs/tags/worldgen/biome/has_structure/mountain_biomes.json"
+hash = "262ce9de42387ade35787ee03f98ccf4b931d63adeb12407416a22d8f46327f1"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mvs/tags/worldgen/biome/has_structure/mushroom_island_biomes.json"
+hash = "2debf50ee249a00fd99e4779baa11d5a008b8e1e346f4aebf58747756d78fd39"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mvs/tags/worldgen/biome/has_structure/nether_biomes.json"
+hash = "5946165806d1f7ccc88e55ac6db8a8ce21c5df256a7275d60064d389b7ac6f8b"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mvs/tags/worldgen/biome/has_structure/nether_wastes_biomes.json"
+hash = "7f8fcef2b9eef91cf14586b8b55aa4e85c0c8c73f23f7dc13375c67a59f02959"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mvs/tags/worldgen/biome/has_structure/oak_biomes.json"
+hash = "0614832567459c735f8c5afb5159da8a63ed772a9483c6afdd439d86d6f8f0f8"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mvs/tags/worldgen/biome/has_structure/ocean_biomes.json"
+hash = "6a36c73b722bcc8e3e9d082392cd2a7649df36e2f74afa56a84a7d8ebd5b5a62"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mvs/tags/worldgen/biome/has_structure/overworld_biomes.json"
+hash = "a60e8dd95a34ea883751b73ecd89be7321ce509d52edd85f71ebe229929c783d"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mvs/tags/worldgen/biome/has_structure/plains_and_oak_biomes.json"
+hash = "920fdc06a16dc6b27f01476def567dc3dd0f4181316f1b94a5a4b44dce9d452b"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mvs/tags/worldgen/biome/has_structure/snowy_biomes.json"
+hash = "083d7f85e910726859337fa6df5addf2f51d6722fe610259d8ecc2f17fee157b"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mvs/tags/worldgen/biome/has_structure/stony_shore_biomes.json"
+hash = "0acc2cdd1a930736a012ba15611b251f824fea4efcf7fc77f1830c11b2a5db27"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mvs/tags/worldgen/biome/has_structure/swampy_biomes.json"
+hash = "aa20e0a7dfb5e791c6471e2fc234ed6c78ae4b064f120d886d37eff3c8e2a0ad"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/mvs/tags/worldgen/biome/has_structure/taiga_biomes.json"
+hash = "38db0d37954f84fd87b43d14427adf69cac1b48276e4740bf4ea85b5d567ed10"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/stellaris/neoforge/biome_modifier/add_mars_ores.json"
+hash = "3d7acad81a3202971fa1b3e6bc43f7d21520a633648d83870e90493cc5d040e7"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/stellaris/neoforge/biome_modifier/add_mercury_ores.json"
+hash = "0dee11a9b61ac7760d561c49da5e7e87ae8bde051abce60d2acd782eab28d3cb"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/stellaris/neoforge/biome_modifier/add_moon_ores.json"
+hash = "3729561a3104348b85be174fd3fd1bcf521e859b1cf0f8a8967185ecb744d17a"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/stellaris/neoforge/biome_modifier/add_overworld_ores.json"
+hash = "f7fdb94e66a86df774ec76218106cee5c16f847f4dd9bc514c760e1e9ec61fd6"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/stellaris/neoforge/biome_modifier/add_venus_ores.json"
+hash = "3f80d166b0215f000431c0262c14a7a4f92265a42a5e7e77ec0f3ae286799047"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/stellaris/recipe/fuel_refining.json"
+hash = "19bd0aadcdfd66a84f35f712a7e486b3427b2a6b6f6c7458675cb0d5b5883578"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/exclusives/pillager_outpost_classic.json"
+hash = "6d82d9062805afd040d1901be7f4f3fe42bc3cf245355587718e27dbf25861ee"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/exclusives/pillager_outpost_iberian.json"
+hash = "65065ef06bc9ead3e474ce45f78e2f242bbd8a7d1fbf08fe1db168393202f958"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/exclusives/pillager_outpost_mediterranean.json"
+hash = "3801c90f0921371008ac94dfc4a2be573a7970309d315597576b195dc160495f"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/exclusives/pillager_outpost_nilotic.json"
+hash = "7c3c94ed033dadcc990bcbb929cafc9fb5ceb1568c644bd0774f861f479e4e1f"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/exclusives/pillager_outpost_oriental.json"
+hash = "3f4fc1ef373a6120253bc174270b09d963ac0b21d73bcc0bd57c0bcf1b989a45"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/exclusives/pillager_outpost_rustic.json"
+hash = "7206a34e6b2f7f02e0921d9076fb66badb25605ce33cb47065d69afb0120ed7b"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/exclusives/pillager_outpost_swedish.json"
+hash = "e2b3a5b1f977b3526e78514db927d45a13e82113d4de03bb4bd6186f0c1ac0ec"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/exclusives/pillager_outpost_tudor.json"
+hash = "c2b8c917145d05bf2cda2b180aab2f99c9666757a0de7ea53f01e6d68d48a71c"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/exclusives/village_classic.json"
+hash = "6d82d9062805afd040d1901be7f4f3fe42bc3cf245355587718e27dbf25861ee"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/exclusives/village_iberian.json"
+hash = "65065ef06bc9ead3e474ce45f78e2f242bbd8a7d1fbf08fe1db168393202f958"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/exclusives/village_mediterranean.json"
+hash = "8789a7db51e20aa58e6561452453a5eee8aa32dd3c6dc185db158a69d590958d"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/exclusives/village_nilotic.json"
+hash = "7c3c94ed033dadcc990bcbb929cafc9fb5ceb1568c644bd0774f861f479e4e1f"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/exclusives/village_oriental.json"
+hash = "d81c4cdf06780450571395fd83eb3216078ed0762c90097d0466419340d984e7"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/exclusives/village_piglin.json"
+hash = "cae410ef1279e56d42e898f1d9e2cc598ece05f22948948baf74cbc9d9438d6a"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/exclusives/village_rustic.json"
+hash = "7206a34e6b2f7f02e0921d9076fb66badb25605ce33cb47065d69afb0120ed7b"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/exclusives/village_swedish.json"
+hash = "e2b3a5b1f977b3526e78514db927d45a13e82113d4de03bb4bd6186f0c1ac0ec"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/exclusives/village_tudor.json"
+hash = "36452fbca331644fa7b3988541ef273d714862f9951318f1b72372b33a11d791"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_badlands.json"
+hash = "fb897b45127fc06e7a40e0a57e21b3c7edcf522779067e3a9c1c88174ea17cba"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_beach.json"
+hash = "eac7a0ade907289a703803219fd544a950ecae18a8c2ac33679d6bd628045d97"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_birch_forest.json"
+hash = "585e7d87e49ca7eaf3a04caa7c9dbaa4e7160a157bda4e115064b80972eb8ae0"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_deep_oceans.json"
+hash = "fec997b886178171780bffd1ffe86144fce7c04fbf90bb290ded16134826b3cd"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_desert.json"
+hash = "c236e56163162b635ddb2cb52a4cd669fd7dde73349dd7cc0e5f0ea747dfbbbc"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_flower_forest.json"
+hash = "bdab2c9f5116e09f3a2945a2e141185268395f53dab428f5473929f04e0e2a88"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_forest.json"
+hash = "77bd594eaf23e88d4516e2796d6bbfcd547a45901416858c5291dc196897ff5b"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_grove.json"
+hash = "b50f9f46e2fc88a2715ecff90392d93155b0953eb66c579277c6efcbebfa881e"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_jungle.json"
+hash = "b99607e99b443b25a5fc19122e466ab301d03954e72395c27224116054c38792"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_meadow.json"
+hash = "afe38a259bd66cdd92daeb9fad974fbde01b437eb88fb51484e825f80d1ecebb"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_mushroom_fields.json"
+hash = "97db0cf147881201190b722e623265ce7396b402f91ac71e16e5506d7d6895af"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_old_growth_taiga.json"
+hash = "4dbfd809e20a52ca6f9eb751db104a91e5a4dbf25fc187389aa283a47c57d31a"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_savanna.json"
+hash = "c3938058033f343bf8adf3c4970d5cc079e5caea61bec819730ccf6473c342f5"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_savanna_plateau.json"
+hash = "54e983946953fa172ffa204e3298b6663f6f1197ccb7d29c0f378aa09ebc968a"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_snowy_beach.json"
+hash = "58e0ac9ace42a5389e0b18a6f0fd4edab9833684232e8ecef9942170e417af76"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_snowy_plains.json"
+hash = "70968ee879c943c4b0d57160a07020d047417ff0f30cc69a03579b292c53a5a6"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_snowy_slopes.json"
+hash = "049ef51fa606d17beeaee77e3de873df1fb05d842bcac84860f55f2531911e4f"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_snowy_taiga.json"
+hash = "d30d0fc9a2232b6626566c77f30fee450fc0500baf30595fcc3983092b6334fb"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_sparse_jungle.json"
+hash = "e11016cf9aa4d096c986807f7c747b6ca9e22c5508a54b58491fa1b31e18d69d"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_sunflower_plains.json"
+hash = "2eb78885b0a46e0186bf3d147bb21cc3c36538477d417dd420ee96ed8fbf0587"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_swamp.json"
+hash = "8ee2255c0b1c5543fdfcb5b87fb903a28411293a81cf11ac645c1132b4806964"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_taiga.json"
+hash = "6c0402eed30a54955f4e238658e3338627622b8402bff43cf394c2c41ea8e48f"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/pillager_outpost_wooded_badlands.json"
+hash = "8f700fe14e038452b2eb5a6737df31bb153f00d755706923934b67436e7848e5"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/shallow_oceans_wreckage.json"
+hash = "8214deb1a8c956eac44e6b18c14dd942c9d47c6f86bf8f198605416196168c4c"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/village_badlands_pueblo.json"
+hash = "fb897b45127fc06e7a40e0a57e21b3c7edcf522779067e3a9c1c88174ea17cba"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/village_beach_lighthouse.json"
+hash = "5b3017bfe992f0032ebea7019106cb8458e8b3e760cc5a3f108e60e1184f2679"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/village_birch_forest_romanian.json"
+hash = "585e7d87e49ca7eaf3a04caa7c9dbaa4e7160a157bda4e115064b80972eb8ae0"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/village_deep_oceans_ships.json"
+hash = "fec997b886178171780bffd1ffe86144fce7c04fbf90bb290ded16134826b3cd"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/village_flower_forest_japanese.json"
+hash = "bdab2c9f5116e09f3a2945a2e141185268395f53dab428f5473929f04e0e2a88"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/village_forest_ruins.json"
+hash = "797aecf6c66115e69f0429d1c23278472b5cfa7b98f4780e4ca1a506056448f3"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/village_grove_villager_outpost.json"
+hash = "8a866ba5a07e02728afb75f341cf18c047d7101854782fa99c3b7bd908c442f8"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/village_jungle_tribal.json"
+hash = "83140940ada45bd9da30eab4fd80fd78837b11b68b4da78b0cc39dbcd066742c"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/village_meadow_swiss.json"
+hash = "afe38a259bd66cdd92daeb9fad974fbde01b437eb88fb51484e825f80d1ecebb"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/village_mushroom_fields_fantasy.json"
+hash = "0dea9d69d5acdb0a0af0ed956548203adc47c206bb76ac8e8b3b2a6a298944e9"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/village_old_growth_taiga_polish.json"
+hash = "7ac2fc53607f0949feead5a9406fddd9a9bc6be1b67d5d8ded51366963a74698"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/village_savanna_plateau_ramshackled.json"
+hash = "54e983946953fa172ffa204e3298b6663f6f1197ccb7d29c0f378aa09ebc968a"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/village_snowy_slopes_inn.json"
+hash = "a97376fa66b6c57cd08080eb1e1b8f8f453778d4a6128b19f2eb0531704876cf"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/village_snowy_taiga_viking.json"
+hash = "4c4ed15efcf55358beab7c231b56f141c2ab6958dee041ca7e78309c9e3a2ab9"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/village_sparse_jungle_polynesian.json"
+hash = "39fdb0ca8960d216358cdba684f16b61090457be30322d89e3a0cb51d6fb5fac"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/village_sunflower_plains_farm.json"
+hash = "2eb78885b0a46e0186bf3d147bb21cc3c36538477d417dd420ee96ed8fbf0587"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/village_swamp_boat.json"
+hash = "8ee2255c0b1c5543fdfcb5b87fb903a28411293a81cf11ac645c1132b4806964"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/data/towns_and_towers/tags/worldgen/biome/has_structure/village_wooded_badlands_tipi.json"
+hash = "e7b8d349e247e92167e182a2fc482e1c697efa76ea0256a36c8a82c26c7f5ac6"
+
+[[files]]
+file = "config/paxi/datapacks/HarvistaCompat/pack.mcmeta"
+hash = "47bb2b9468401e3a1ce1872bdd9ecdb55eeb550e5319a74ebe7a28b3876bef54"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/perception.yaml"
+hash = "76509d3988022daabed643b43625905a1023d631cd42fb06732dcc765f306918"
+
+[[files]]
+file = "config/placebo.cfg"
+hash = "eb7e9906d126543f03c2257ca98efa4b845d1e7479dc8b069a12b194c86debcf"
+
+[[files]]
+file = "config/refinedstorage-common.toml"
+hash = "b2ab7bc2c07d30b3c21141c0154eb18c1c257059c4f0c6810e5ea44e0e03ec04"
+
+[[files]]
+file = "config/resourceful-config-web.json"
+hash = "080fd3b5d237839dec9c07ebe2535d7fc8cf178b864951ccf3e5816e4620bcf1"
+
+[[files]]
+file = "config/rsinfinitybooster-server.toml"
+hash = "a27c336a1fa93b0178fd2b3d8fe27d9d0f31186702a78f55f9e7e25da75e7b1c"
+
+[[files]]
+file = "config/simplebbq-common.toml"
+hash = "7969af1282ff81f1e0228b558e9a72f341673297f0cf12d52a8143465d576cf1"
+
+[[files]]
+file = "config/skinlayers.json"
+hash = "6938dedbced0a6bb0ef345264f8df432b6db8b759f6614b32bae655ca72e131d"
+
+[[files]]
+file = "config/sky-aesthetics.json"
+hash = "8e1b6d5088e373f8b9d0a5b734b2b17c6e01d42f3e63da5637a3e8c0da7a0c48"
+
+[[files]]
+file = "config/smallships-client.toml"
+hash = "ccb23764d475152ed86080fb0e07451315f2b1a59d2a94f7020cffc2c3d60196"
+
+[[files]]
+file = "config/smallships-common.toml"
+hash = "3857836632c9ede52ba052171fc45874ffa15127af9958adb5b13b486c6ac6fe"
+
+[[files]]
+file = "config/sodium-fingerprint.json"
+hash = "b1c2a13b036f96ed48cf845b40872f4369ea775868b9e6509431be017ae4b861"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "add9c117a262f8702f084308a731ce1b1fb8db63c4ad1d031adb717db4bcb9fc"
+
+[[files]]
+file = "config/sodiumdynamiclights-client.toml"
+hash = "a2ec6eed6eabba1b5ddddeb274e4788b8fafe04751eafea7749e76d9fcf757de"
+
+[[files]]
+file = "config/sodiumextras-client.toml"
+hash = "eaa1dd286378c78d4e62bdb127ce50a6668a73f79161fd3aa95e40c787e29c8a"
+
+[[files]]
+file = "config/sophisticatedbackpacks-common.toml"
+hash = "390cb983090cdc5ba9013c0551fcde8ecf579040f970e33de5ecfc500841cb7f"
+
+[[files]]
+file = "config/sophisticatedbackpacks-server.toml"
+hash = "c7e7336306225c55001ee16b173f1982447e84457e3e081e87a53a7a15d9c63d"
+
+[[files]]
+file = "config/sophisticatedcore-client.toml"
+hash = "c298f506a9243beba0f3a3ca52199dc8058ac6d1e5357a533549bfd18fbdc63e"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+hash = "51942d178311dc38a333834d14c691f81fba1b418b4c15e5f43427fecc0d0d3e"
+
+[[files]]
+file = "config/sophisticatedstorage-client.toml"
+hash = "cbb1a5e4f7b9b3719562c623340b2db2e64717e9ceaf9c713d2dfc67dd50ab7e"
+
+[[files]]
+file = "config/sophisticatedstorage-common.toml"
+hash = "0c721ecf8a9a6fba8402b7ce73bf8580acdd078e9ac9c3b37c42245ca6d8c4b0"
+
+[[files]]
+file = "config/sophisticatedstorage-server.toml"
+hash = "0a5f6041bb56f1e3fb3babd4a56dcc2e59c56c06b9899667b58985bcc3135fb5"
+
+[[files]]
+file = "config/spark/config.json"
+hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
+
+[[files]]
+file = "config/stellaris-config.json"
+hash = "b006c61761975c507d29dcf67744c70769f1ad1b3efd9cc3492448893f683a4d"
+
+[[files]]
+file = "config/stellaris.json"
+hash = "2dbb1577886758f93351496a2133b9ed61847d2b653d0b855ba48fc8740c2401"
+
+[[files]]
+file = "config/subtle_effects/blocks.toml"
+hash = "09b617b09ac0637adf4fd999ac8288564c6ab489513aefab69e3abf403cb48c7"
+
+[[files]]
+file = "config/subtle_effects/entities.toml"
+hash = "70cb5a6b0d8d6832c7f50511f4f86a90fa3b2359931a0520127d141a6051730e"
+
+[[files]]
+file = "config/subtle_effects/environment.toml"
+hash = "44d6b93e5cf40553135c819c157cbff71becd699570a00532f68b5bd0a01f632"
+
+[[files]]
+file = "config/subtle_effects/general.toml"
+hash = "bf8a2cfbf5c1dd79f07e233ffae9195b23af6a138198fcd3059b984295fd4fb0"
+
+[[files]]
+file = "config/subtle_effects/items.toml"
+hash = "889dc45e8b0da6bd2883cc52a1d95cc97b0e7df6c2a5d9adaeb49f018b525cca"
+
+[[files]]
+file = "config/terrablender.toml"
+hash = "cff6a9a0d415b19b9852844c0ad5bb2b1cfdb9fce12e729e7228a6521fc95927"
+
+[[files]]
+file = "config/tide.toml"
+hash = "aa6a0421df68a9ae70c8997818b4c3ed5072e09e671c55993a6c3418e43fff2e"
+
+[[files]]
+file = "config/titanium/titanium-tags.toml"
+hash = "0fdb903beac3111899fba270f156d65daf792b534a20915672e2d9b1aacdf06c"
+
+[[files]]
+file = "config/titanium/titanium.toml"
+hash = "419a23e2c00bb42a68c4285244a50d92bd63d1d16a6e08cc61ef4531fd958579"
+
+[[files]]
+file = "config/towns_and_towers/structure_enable_or_disable_new.json5"
+hash = "908ad4b9ef18997981b70e0f3c3638ca1df07bb2b53a014bf009840e07750543"
+
+[[files]]
+file = "config/towns_and_towers/structure_rarity_new.json5"
+hash = "a737b58e90d9723f2367c728c6db203ae250600619f173ad49ce1f991c7aebbe"
+
+[[files]]
+file = "config/travelerstitles-neoforge-1_21.toml"
+hash = "57569110a12ea27fdb58856aff27d6d5b5a031d75fbdb5e70de0d9e0e9e3b0d6"
+
+[[files]]
+file = "config/treechop-client.toml"
+hash = "ffc1a7e9ff53a47a30ab571c536c78c77ad3899ebb81fe3bb736e1198c2027b8"
+
+[[files]]
+file = "config/treechop-common.toml"
+hash = "449c3f41e2e6b186c7053d7e6a7aae19882009ce5a10c84fcaefe8ec85491b58"
+
+[[files]]
+file = "config/trimseffects-config2.json"
+hash = "937cd9b6aae0a1fcda7a0d1ac1ba1e958bac42749cdeeea3002c70182ed35e60"
+
+[[files]]
+file = "config/vanillacookbook-client.toml"
+hash = "f7f4e8d61c8a792bf280df40f1cb75776bbed609ea0f103f853a7c79c9a96a8d"
+
+[[files]]
+file = "config/vanillacookbook-common.toml"
+hash = "c299ee701401ed391ee9a9108a3f4a2b0795e87d3951ad69a09bad806bac5a81"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "b3576572edd459710524ced067f18f4bbf1b86324fee44eef8b3dc9649cbd229"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "d74f389c5221e8bc1991aa0c20108f72a6626243bddb286ef238a347e51f75a4"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/xaeroplus.txt"
+hash = "5e51276d7c9cbaf53bffe314c1e1bdb5f606bf4e8d6451bbab6a93f242866a45"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "b88876c4630c405c9a23e1b743af7a2e5a86dc124f541559e9adbf3b3dbf3443"
+
+[[files]]
+file = "config/yacl.json5"
+hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
+
+[[files]]
+file = "icon.png"
+hash = "3939f0e8036f8129f88cab01fde7d0e0ab772d2109b99533e18340b1016fa829"
+
+[[files]]
+file = "kubejs/assets/kubejs/lang/en_us.json"
+hash = "f86f31a91bf7af6f4d24217973b2e2d58a7303847de4d31a2155f043df26b2f8"
+
+[[files]]
+file = "kubejs/assets/kubejs/lang/zh_cn.json"
+hash = "7b9a1e6c399d0b1938b44ec9fd9f3ec28f7ba40c7f3c523107d35e73b5939292"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/harvista.png"
+hash = "7cceee84dad0753bde269ca894ac8fb92112ad86f2e82865e61e36a5e43848f2"
+
+[[files]]
+file = "kubejs/assets/stellaris/lang/cs_cz.json"
+hash = "2083d3161ae211d59ca0b7430568e02a2787026ec0f362f0e88d5fe807bceaec"
+
+[[files]]
+file = "kubejs/assets/stellaris/lang/de_de.json"
+hash = "8ebd4fec08cb8b4e698bc71db5707e275d9cbaf3fa94146c596e8002fd637d43"
+
+[[files]]
+file = "kubejs/assets/stellaris/lang/en_us.json"
+hash = "f27f3666f16d6446c8bba3ed7c1d79ee990c0d94f1731932cbf42e4228e7cced"
+
+[[files]]
+file = "kubejs/assets/stellaris/lang/es_es.json"
+hash = "9ad9d80124d2a59652229889cd074afb9506d1851aef100bc5ce02a9b3083d5f"
+
+[[files]]
+file = "kubejs/assets/stellaris/lang/fr_ca.json"
+hash = "bf47bddbcb43b31537edb4e379c9f8a52a72b59a0fdfd765d1f20412c61d62d1"
+
+[[files]]
+file = "kubejs/assets/stellaris/lang/fr_fr.json"
+hash = "bf47bddbcb43b31537edb4e379c9f8a52a72b59a0fdfd765d1f20412c61d62d1"
+
+[[files]]
+file = "kubejs/assets/stellaris/lang/it_it.json"
+hash = "d9a2c966cfeaedadabb44da1d895021cbb30df676473724193bc0eb6c39fbaa2"
+
+[[files]]
+file = "kubejs/assets/stellaris/lang/ja_jp.json"
+hash = "70a4e10e82b80f2287183a57c2455ed4c60da7bbfcc08e3e8f3e0808296f4d7e"
+
+[[files]]
+file = "kubejs/assets/stellaris/lang/ko_kr.json"
+hash = "fee5751b4183ba0c75743b5bd3807510b4096b33a544af5f4c3a534b808b22cf"
+
+[[files]]
+file = "kubejs/assets/stellaris/lang/pt_pt.json"
+hash = "ff394f36858c673d2ac29f31104f8982f41f7a5e7d84a27532d934df0e35307f"
+
+[[files]]
+file = "kubejs/assets/stellaris/lang/ru_ru.json"
+hash = "f76fd7e6c56b187aa64ac1293f73ad275aeb8044f182c87cf1b3fa66f548a886"
+
+[[files]]
+file = "kubejs/assets/stellaris/lang/uk_ua.json"
+hash = "53e055ed29287e015814eb27f1c074b914b53277025cc829bb03b87aa32a703a"
+
+[[files]]
+file = "kubejs/assets/stellaris/lang/zh_cn.json"
+hash = "1c260c2faee86d8797e7479dcdb760ba1289abfe19dfafb3da23efe5c649e130"
+
+[[files]]
+file = "kubejs/assets/stellaris/lang/zh_tw.json"
+hash = "5195a5b9d6d906d28fb85df483d4ea3a5323dc481bf9aff7af42ffcc7b6dbb07"
+
+[[files]]
+file = "kubejs/client_scripts/jsconfig.json"
+hash = "bf3c8597df0521316f23f9412e02e076f925275dab3af1146a54fe008dfedcb1"
+
+[[files]]
+file = "kubejs/client_scripts/main.js"
+hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
+
+[[files]]
+file = "kubejs/config/client.json"
+hash = "de241e99c33070805a1f039d6edb46c67cd92c93c7787e177fa38d15ed9007da"
+
+[[files]]
+file = "kubejs/config/common.json"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+
+[[files]]
+file = "kubejs/config/probe-settings.json"
+hash = "923206bd67a39efe6f5e871d35bd12e270565518bdc9c2325d6396f577204459"
+
+[[files]]
+file = "kubejs/config/web_server.json"
+hash = "bdfc2d5fbe14b78dfeadc04a3ca4e3b5a74dde9e13a786005e2399ca84bb251f"
+
+[[files]]
+file = "kubejs/server_scripts/FTB.js"
+hash = "d6beb65877813f75df32c1b3447ecd9b7f04abebd60c2f5b73966a0f67fac3dc"
+
+[[files]]
+file = "kubejs/server_scripts/compat/food/coconut.js"
+hash = "60a85db44b60cfca5180a7e761bed1f1907d936d7e15bfffe595620307769dff"
+
+[[files]]
+file = "kubejs/server_scripts/compat/food/fish.js"
+hash = "3f7996c73f3e070a95f64f22a3a2a112a220681cf63e496f686b3ad061467d83"
+
+[[files]]
+file = "kubejs/server_scripts/compat/food/mushroom.js"
+hash = "847f197e20265752ef7ec8cff134bb6766beedfd8b6a5652d57aa61e2c812d50"
+
+[[files]]
+file = "kubejs/server_scripts/compat/food/sushi.js"
+hash = "3492485e1aa03ec96a83be78c2bd3173602853cbf179cd52621e70e61985fd47"
+
+[[files]]
+file = "kubejs/server_scripts/compat/food/wolfberry.js"
+hash = "a5bfe4aab92a311043c7f8e9d41ff17be386e65485385d404190af368be0d027"
+
+[[files]]
+file = "kubejs/server_scripts/compat/tech/armor.js"
+hash = "9b4ba3d08ed7c76170b0e340e22ef7855e5e34f682022fad93c7357719c6efce"
+
+[[files]]
+file = "kubejs/server_scripts/compat/tech/ingredient.js"
+hash = "bb6d4d498f0929d0a96fb9403726ef39c451c88fc0fb564c96ad3ca03a13da30"
+
+[[files]]
+file = "kubejs/server_scripts/compat/tech/machine.js"
+hash = "86a2ab4139e88a277e1c5f6bb42060009663a971b8945640787c3f96c970292d"
+
+[[files]]
+file = "kubejs/server_scripts/compat/tech/oil.js"
+hash = "3b286b9733fdfa5fd6599ff962b9a1060f762454a959edb4e7f5c53637abac6a"
+
+[[files]]
+file = "kubejs/server_scripts/compat/tech/rocket.js"
+hash = "e0597476db8a58415238406a62aaf52f9e17da4d0f76ff8383a8f724b352d0ca"
+
+[[files]]
+file = "kubejs/server_scripts/compat/tech/silicon.js"
+hash = "8b8f67a53d92fdd95fb9e2264a2d162adae55b3174ff55cfd0d9fd012be2e131"
+
+[[files]]
+file = "kubejs/server_scripts/compat/tech/steel.js"
+hash = "82e3130d1e70ae568cdd053809097dee74eaa1d07765733aa4b0d002fcdee70b"
+
+[[files]]
+file = "kubejs/server_scripts/compat/tech/storge.js"
+hash = "10892fd348e789412122175dbf33a0a1c72c6a15dcb489f7f998431f031c9686"
+
+[[files]]
+file = "kubejs/server_scripts/compat/tech/tablet.js"
+hash = "0a0a3dd56662d40ef61be70e4e467d1abbff880042b8dbfbf0a72ff2c0b1a1b6"
+
+[[files]]
+file = "kubejs/server_scripts/compat/transport/broom.js"
+hash = "14fca81547a0dd1c485d1bd6545583931f72d5855adfdf24146218d8cbebcf6a"
+
+[[files]]
+file = "kubejs/server_scripts/jsconfig.json"
+hash = "3514ac2481b12e2d57761a9fa9b081f4944a966b4bef4bab30c030c18543eb4d"
+
+[[files]]
+file = "kubejs/server_scripts/main.js"
+hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
+
+[[files]]
+file = "kubejs/server_scripts/worldgen/stellaris.js"
+hash = "6636f0f5d16ff9f46a9d412e2e54c802c46cabb29e55ba0b06ddfe87eaaaf205"
+
+[[files]]
+file = "kubejs/startup_scripts/alwayseat.js"
+hash = "7588d367213ba57bfef3e55429c38c032c269840f63bd31b0c2ce4cd8072f05e"
+
+[[files]]
+file = "kubejs/startup_scripts/harvista.js"
+hash = "70845e9bea6666a6e9dbea8c32d22404081aadbec923c6502b8cf80e59a40097"
+
+[[files]]
+file = "kubejs/startup_scripts/jsconfig.json"
+hash = "19c11c4004d8686b4b26e35026a5f8dd2bcb1f9164b2827d31625e2b02585aa7"
+
+[[files]]
+file = "kubejs/startup_scripts/main.js"
+hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -743,3 +2775,95 @@ metafile = true
 file = "mods/yungs-api.pw.toml"
 hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
+
+[[files]]
+file = "resourcepacks/HarvistaCompat/assets/stellaris/sky_aesthetics/deimos.json"
+hash = "1bad1d1bb360996f17fdd09a5b2641c8972c4af049bc3dae34ec04e890283208"
+
+[[files]]
+file = "resourcepacks/HarvistaCompat/assets/stellaris/sky_aesthetics/earth.json"
+hash = "a1364d6714c0f6e426070a5b3773242407cd123c9032755dc9fc5afc7cbbf629"
+
+[[files]]
+file = "resourcepacks/HarvistaCompat/assets/stellaris/sky_aesthetics/mars.json"
+hash = "591b2e3868c2e8cdd9cbb700f5aac0c7242ec711528f75c65f967be28ddc3cdb"
+
+[[files]]
+file = "resourcepacks/HarvistaCompat/assets/stellaris/sky_aesthetics/mercury.json"
+hash = "d59cd4754b37e98278b886f5126f7b93cc30613630406dc23de1a262323294c2"
+
+[[files]]
+file = "resourcepacks/HarvistaCompat/assets/stellaris/sky_aesthetics/moon.json"
+hash = "eb62e1223f7f92bc195d94bd87f4eeaca8fa2c9981adcdce985209e7bb0ad0d9"
+
+[[files]]
+file = "resourcepacks/HarvistaCompat/assets/stellaris/sky_aesthetics/phobos.json"
+hash = "dbd5ca620d5baaca6aef6c8655088e65b7e8a36c5f84be4da60c477a13e88085"
+
+[[files]]
+file = "resourcepacks/HarvistaCompat/assets/stellaris/sky_aesthetics/venus.json"
+hash = "d7be0451ea07c6d70ecba89ad58ea6c182887d4b6ffd335c894cab127efc36c1"
+
+[[files]]
+file = "resourcepacks/HarvistaCompat/pack.mcmeta"
+hash = "216a353883fbd028de931f6a0a5bb8d1404ad6d34350f2044319b57a6eedcfaa"
+
+[[files]]
+file = "resourcepacks/HarvistaCore/assets/stellaris/lang/cs_cz.json"
+hash = "2083d3161ae211d59ca0b7430568e02a2787026ec0f362f0e88d5fe807bceaec"
+
+[[files]]
+file = "resourcepacks/HarvistaCore/assets/stellaris/lang/de_de.json"
+hash = "8ebd4fec08cb8b4e698bc71db5707e275d9cbaf3fa94146c596e8002fd637d43"
+
+[[files]]
+file = "resourcepacks/HarvistaCore/assets/stellaris/lang/en_us.json"
+hash = "29a47b7d7069345ff5d900e8fe7540bb3a741655b80fb2b9d97fb2d73f559e31"
+
+[[files]]
+file = "resourcepacks/HarvistaCore/assets/stellaris/lang/es_es.json"
+hash = "9ad9d80124d2a59652229889cd074afb9506d1851aef100bc5ce02a9b3083d5f"
+
+[[files]]
+file = "resourcepacks/HarvistaCore/assets/stellaris/lang/fr_ca.json"
+hash = "bf47bddbcb43b31537edb4e379c9f8a52a72b59a0fdfd765d1f20412c61d62d1"
+
+[[files]]
+file = "resourcepacks/HarvistaCore/assets/stellaris/lang/fr_fr.json"
+hash = "bf47bddbcb43b31537edb4e379c9f8a52a72b59a0fdfd765d1f20412c61d62d1"
+
+[[files]]
+file = "resourcepacks/HarvistaCore/assets/stellaris/lang/it_it.json"
+hash = "d9a2c966cfeaedadabb44da1d895021cbb30df676473724193bc0eb6c39fbaa2"
+
+[[files]]
+file = "resourcepacks/HarvistaCore/assets/stellaris/lang/ja_jp.json"
+hash = "70a4e10e82b80f2287183a57c2455ed4c60da7bbfcc08e3e8f3e0808296f4d7e"
+
+[[files]]
+file = "resourcepacks/HarvistaCore/assets/stellaris/lang/ko_kr.json"
+hash = "fee5751b4183ba0c75743b5bd3807510b4096b33a544af5f4c3a534b808b22cf"
+
+[[files]]
+file = "resourcepacks/HarvistaCore/assets/stellaris/lang/pt_pt.json"
+hash = "ff394f36858c673d2ac29f31104f8982f41f7a5e7d84a27532d934df0e35307f"
+
+[[files]]
+file = "resourcepacks/HarvistaCore/assets/stellaris/lang/ru_ru.json"
+hash = "f76fd7e6c56b187aa64ac1293f73ad275aeb8044f182c87cf1b3fa66f548a886"
+
+[[files]]
+file = "resourcepacks/HarvistaCore/assets/stellaris/lang/uk_ua.json"
+hash = "53e055ed29287e015814eb27f1c074b914b53277025cc829bb03b87aa32a703a"
+
+[[files]]
+file = "resourcepacks/HarvistaCore/assets/stellaris/lang/zh_cn.json"
+hash = "a42602eb735fc584cebb0ae487fdf9f6acb995dc53792edec13b6d344152dd84"
+
+[[files]]
+file = "resourcepacks/HarvistaCore/assets/stellaris/lang/zh_tw.json"
+hash = "5195a5b9d6d906d28fb85df483d4ea3a5323dc481bf9aff7af42ffcc7b6dbb07"
+
+[[files]]
+file = "resourcepacks/HarvistaCore/pack.mcmeta"
+hash = "1d46a80148e0f8a1e128f382d124033c7c6ab8932368cfe012784bee9a715ee7"

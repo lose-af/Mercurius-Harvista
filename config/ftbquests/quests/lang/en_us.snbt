@@ -1,0 +1,1222 @@
+{
+	chapter.01A538FD5BBF9D52.chapter_subtitle: ["Sushi Go Crafting"]
+	chapter.01A538FD5BBF9D52.title: "Sushi Go Crafting"
+	chapter.0C81CE4349C97200.title: "Industrial Revolution"
+	chapter.1E890AEAADF3F4EF.title: "Stars, Like Dusts."
+	chapter.29401B2B6791CAD0.chapter_subtitle: ["Tide"]
+	chapter.29401B2B6791CAD0.title: "Fish Atlas"
+	chapter.4B21C5AB464BACA7.title: "Welcome to Harvista"
+	chapter.4EB95CF88D47F92B.chapter_subtitle: ["EveryXHotpot"]
+	chapter.4EB95CF88D47F92B.title: "EveryXHotpot"
+	chapter.5183E4CF1095AACC.title: "FAQ"
+	chapter.5BE976F20D0A0EC7.title: "The Unexperienced Story"
+	chapter.602BC5F994B2FC9E.chapter_subtitle: ["Calypso's Candy Workshop"]
+	chapter.602BC5F994B2FC9E.title: "Candy Workshop"
+	chapter.6E78AA4F4DE00332.title: "Support"
+	chapter.7AD258123C618D21.chapter_subtitle: ["Caupona"]
+	chapter.7AD258123C618D21.title: "Caupona"
+	chapter.7F788F915A9D8CEC.chapter_subtitle: ["The Agricultural Path"]
+	chapter.7F788F915A9D8CEC.title: "Cuisine Menu"
+	chapter_group.361B2D2830E91EB2.title: "Encyclopaedia"
+	chapter_group.40E8C816D595BB20.title: "Travellers' Feast"
+	chapter_group.5A5E37E7F2EBCC02.title: "Before the Jounary"
+	chapter_group.6BB200F5268CA08D.title: "Technology"
+	quest.0030B5358096D6DA.quest_subtitle: "MileStone2：制作麻辣拌"
+	quest.0030B5358096D6DA.title: "风味大师"
+	quest.00CE77CBF41E5CD6.quest_desc: ["前文提到了粗有机聚合物是重要的半成品，而生物质能发电机便能使它能有更高的利用率，之后家里闲置的食物可以不用积压在仓库里了——它们可是发电的重要原料！"]
+	quest.00CE77CBF41E5CD6.quest_subtitle: "获得生物质能发电机"
+	quest.0113AA0ADDC20384.quest_desc: ["做糖其实很简单：加奶，加糖，加佐料就可以了！"]
+	quest.0113AA0ADDC20384.quest_subtitle: "获得第一颗糖"
+	quest.0113AA0ADDC20384.title: "第一颗糖"
+	quest.018FC80D4A0C451E.quest_desc: ["新鲜出炉的白米饭"]
+	quest.018FC80D4A0C451E.quest_subtitle: "获得熟饭"
+	quest.02D42211D889AB7B.quest_desc: ["鱼露可以提供跳跃提升"]
+	quest.02D42211D889AB7B.quest_subtitle: "获得调味料：鱼露"
+	quest.02E2A39C253CF6CB.quest_desc: [""]
+	quest.02E2A39C253CF6CB.quest_subtitle: "获得钓钩"
+	quest.032F1131E8EB323E.quest_desc: ["如果你的存档是Minecraft版本1.20.1（拾穗版本2.x.x）以前的，那很遗憾，由于整合包的改动极大，存档是不可能正常加载的，你或许可以新开一个存档。如果你的存档是3.x版本下的，你可以查阅Changelog的兼容提示来选择合适的版本。"]
+	quest.032F1131E8EB323E.title: "整合包新版本与我的旧存档不兼容！"
+	quest.037F16FDAA26428E.quest_desc: ["发酵桶加入水和大豆可以获得酱油；加入牛奶可以获得奶酪。"]
+	quest.037F16FDAA26428E.quest_subtitle: "获得发酵桶"
+	quest.038CB06D280092AD.quest_desc: ["「拾穗Harvista」实用了Exposure模组，你可以使用相机记录下在游戏中的重要瞬间。"]
+	quest.038CB06D280092AD.title: "拾光摄影"
+	quest.03C487E6D3CBE9D5.quest_desc: [
+		"钷镐是一种高级、不会损坏且可以附魔的工具，功能类似于镐。"
+		""
+		"钷镐具有两种模式：精准采集和区域挖掘（1x3范围挖掘）。要切换模式，按住Shift并右键点击。"
+	]
+	quest.03C487E6D3CBE9D5.quest_subtitle: "获得钷镐"
+	quest.03E14437C2FEB2D2.quest_desc: ["现在，你可以制作更加高级的船只了。它们有着独特的操作方式，是好用的交通工具。"]
+	quest.03E14437C2FEB2D2.title: "帆船"
+	quest.0439CFFE66683C97.title: "反馈平台：Github"
+	quest.0511337C32B6710C.quest_desc: [
+		"甜油不能使用电动泵直接抽取，我们需要抽油机来获取甜油。"
+		"在通电之后，抽油机便可以源源不断的生产出甜油了！"
+	]
+	quest.0511337C32B6710C.quest_subtitle: "获得抽油机"
+	quest.05736049BBB41CE8.quest_subtitle: "开启潮汐密藏路径"
+	quest.05736049BBB41CE8.title: "潮汐秘藏"
+	quest.05F7E14228A6387D.quest_desc: [
+		"物流不息，建设不止！"
+		"Oritech是一个规模庞大且不断更新的大型模组，任务线只是为你提供的最最基础的工业流程，你可以不断深入探索，通过机器，插件和管道的配合，搭建自己的自动化网络！探索内置手册，在摸索中建造！"
+	]
+	quest.05F7E14228A6387D.quest_subtitle: "继续探索下一个世界"
+	quest.05F7E14228A6387D.title: "玩的开心"
+	quest.06409A47B9F9B5A0.quest_subtitle: "拾穗农业传承路线"
+	quest.06409A47B9F9B5A0.title: "说明"
+	quest.06B4681F0F21BAAC.quest_desc: ["「拾穗Harvista」毕竟是一个基于最新版本制作的现代整合包，有一定的性能需求；你可以尝试关闭光影，降低画质，或卸载部分较大消耗的美化模组（例如Particular）。"]
+	quest.06B4681F0F21BAAC.title: "我的游戏一/卡/一/卡的！"
+	quest.072E70774BF18448.quest_desc: ["为了存储流体，您可以使用储罐。便携储罐最多可以存储 256 桶流体。 当破坏便携储罐时，其内容会保留在物品的NBT数据中。比较器输出会反映储罐的填充状态。 堆叠的储罐会自动让流体向下流动。"]
+	quest.072E70774BF18448.quest_subtitle: "获得便携储罐"
+	quest.0794C6685B5A97ED.quest_subtitle: "登上水星"
+	quest.0794C6685B5A97ED.title: "熔岩之海"
+	quest.07FA2ACF8AC60312.quest_desc: ["醋可以提供夜视"]
+	quest.07FA2ACF8AC60312.quest_subtitle: "获得调味罐：醋"
+	quest.0859A9C65CBC9FDC.quest_desc: [
+		"到了太空，你将会发现普通的食物无法食用——这是正常的，我们需要使用真空泵制作专门的太空食物。"
+		"在通电后，在第一个插槽中放置一个罐头，在第二个插槽中放入食物，在第三个插槽中放置一个空玻璃瓶，机器会生成一个装有食物的罐头和一个水瓶。"
+	]
+	quest.0859A9C65CBC9FDC.quest_subtitle: "获得真空泵"
+	quest.0859A9C65CBC9FDC.title: "太空食物"
+	quest.08E535F3C1ECA6E2.quest_desc: ["目标标识器是一种用于指定目标的工具，末影激光器和无人机港需要它来指点方向。"]
+	quest.08E535F3C1ECA6E2.quest_subtitle: "获得目标指示器"
+	quest.08EA97ACA61771FD.title: "手握"
+	quest.093E57F83467CFE0.quest_desc: ["纺织鱼线可以更快的蓄力"]
+	quest.09951D8B6443DBD5.quest_desc: [
+		"将 2 条生鳕鱼、2 条生鲑鱼、2 条热带鱼和 1 个鹦鹉螺壳丢入清汤锅底可以获得海鲜锅底。"
+		"海鲜锅底可给予 15秒 的温暖、30秒 的水下呼吸和 60秒 的幸运 II 效果。"
+	]
+	quest.09951D8B6443DBD5.quest_subtitle: "制作海鲜锅底"
+	quest.09951D8B6443DBD5.title: "海鲜锅底"
+	quest.09EDBC4A4D853E06.quest_desc: [
+		"刷怪笼控制器可以消耗灵魂以实现生物生成：生成的生物类型由第一个走过控制器上方的生物决定，并且只能通过重新放置控制器来更改。"
+		"生成生物所需的灵魂取决于生物的血量。"
+	]
+	quest.09EDBC4A4D853E06.quest_subtitle: "获得刷怪笼控制器"
+	quest.0A1EA90556812EE8.quest_desc: [
+		"样板终端可以修改模板存放的合成表。"
+		"你还需要装配室来存放样板。"
+	]
+	quest.0A1EA90556812EE8.quest_subtitle: "获得样板终端"
+	quest.0A2BAA619B7EF93C.quest_desc: [
+		"奥术触媒是一种用于附魔的工具：它可以将任何附魔书中的附魔（最大等级）应用到任何物品上，并且可以达到任意等级——是的，你的工具附魔可以超过原本设定的最大等级，实现超载附魔！"
+		"如果工具已经处于或高于所应用魔咒的最大等级，它将被超载附魔。附魔应用后，附魔书将被消耗。"
+	]
+	quest.0A2BAA619B7EF93C.quest_subtitle: "获得奥术触媒"
+	quest.0A517CAC47C5FCFE.quest_desc: [
+		"你大概猜到了，粒子加速器用于加速粒子。当不同物品的粒子发生碰撞时，可以生成新的物品。"
+		"与核能类似，粒子加速器是一套复杂的机械，因此，任务很难做到尽善尽美，我更推荐你按H键打开Oritech内置教程或者浏览其他相关教程！"
+		""
+		"太长不看:用导向环和马达搭建一个环，当插入的粒子达到一定速度后（通过粒子加速器传感器测量），在同一环中插入第二个粒子以引发碰撞（其中一个粒子非常快，而另一个几乎静止）。 如果你需要更高的速度，把环整体做大点。"
+	]
+	quest.0A517CAC47C5FCFE.quest_subtitle: "学习粒子加速器"
+	quest.0A517CAC47C5FCFE.title: "粒子加速器"
+	quest.0A5C312D31A0CE7A.quest_desc: [
+		"用于给由机器框架搭建的龙门架下方的作物施肥的方块施肥器。 施肥器需要水和能量才能正常工作，其能对下方的作物提供类似骨粉但效果相较于骨粉稍弱的催熟效果，同时还能浇灌干涸的耕地。"
+		""
+		"矿物浆液可代替水使用，这将增强效果。"
+	]
+	quest.0A5C312D31A0CE7A.quest_subtitle: "获得方块施肥器"
+	quest.0A5C312D31A0CE7A.title: "实用机械：方块施肥器"
+	quest.0A71C0AC9735BD88.quest_desc: ["烹饪是需要热源的，而获得热源最简单的途径便是制作灶台；当然，你也可以使用火山喷气孔作为永久热源！"]
+	quest.0A71C0AC9735BD88.quest_subtitle: "获得灶台"
+	quest.0A71C0AC9735BD88.title: "要有热源！"
+	quest.0AA813D1ACF6673B.quest_desc: ["「拾穗Harvista」添加了傀儡革新，地球生物等模组，为世界增加了许多友好的新生物！"]
+	quest.0AA813D1ACF6673B.title: "新的朋友"
+	quest.0AC69939F62919F9.quest_desc: ["在制作了原子锻造器之后，你就可以制作超级AI芯片了。这种芯片是接下来制作高级机械的必要原材料。"]
+	quest.0AC69939F62919F9.quest_subtitle: "获得超级AI芯片"
+	quest.0AC69939F62919F9.title: "高级芯片"
+	quest.0AEE41DFDB955293.quest_desc: ["「拾穗Harvista」增加了一些新的武器类型，例如火枪；它们在特定的场景能带来更强的效果。"]
+	quest.0AEE41DFDB955293.title: "火枪手"
+	quest.0BAA957E48288CD6.quest_desc: [
+		"在火锅中加入汤底便可以进行烹饪，锅底会让食物附带特殊效果。"
+		"需要注意的是，锅底带来的食物效果不能被奶桶清除。"
+		"潜行右键火锅可以清空锅底。"
+	]
+	quest.0BAA957E48288CD6.quest_subtitle: "了解汤底"
+	quest.0BAA957E48288CD6.title: "多样汤底"
+	quest.0C2D7AF6F95C6AE5.quest_desc: [
+		"将3 个红石粉、2 个火药和 3 个烈焰粉丢入清汤锅底可合成麻辣锅底。"
+		"麻辣锅底可给予 15秒 的温暖、10秒 的迅捷 II 和 15秒 的辛辣 II 效果。"
+	]
+	quest.0C2D7AF6F95C6AE5.quest_subtitle: "制作麻辣锅底"
+	quest.0C2D7AF6F95C6AE5.title: "麻辣锅底"
+	quest.0D99DDFACA68C469.quest_subtitle: "登上金星"
+	quest.0D99DDFACA68C469.title: "灼热星原"
+	quest.0F68EB350BA097D5.quest_desc: ["将氧气释放器放置的太空中的密闭房间里，氧气瓶里的氧气便可以被释放出来了！"]
+	quest.0F68EB350BA097D5.quest_subtitle: "获得氧气释放器"
+	quest.0F693517A2178C0E.quest_desc: ["铁钓钩可以降低捕鱼小游戏的难度。"]
+	quest.0F693517A2178C0E.quest_subtitle: "获得铁钓钩"
+	quest.0FC58F4F28FB5CC0.quest_desc: [
+		"随着科技的不断发展，原本的箱子和桶逐渐不能胜任储存工作了。或许是时候引入更高级的存储模组，精致存储了。"
+		""
+		"控制器是精致存储网络的核心，需要用电运行。Oritech的发电机可以直接供电。"
+	]
+	quest.0FC58F4F28FB5CC0.quest_subtitle: "获得控制器"
+	quest.0FC58F4F28FB5CC0.title: "精致存储"
+	quest.0FE30EB64D32CAB5.quest_desc: [
+		"作为科技模组，资源是必不可少的。除去原版的矿石外，拾穗还添加了镍矿石，铂矿石以及数量众多的合金。"
+		"其中，镍矿石是游戏早期必不可少的。你可以在地下挖矿，或者寻找裸露地表的矿团来采集资源。"
+		"此外，铜、铁、煤炭也是非常重要的资源，不要忘记去采集它们。"
+	]
+	quest.0FE30EB64D32CAB5.quest_subtitle: "获得镍锭"
+	quest.0FE30EB64D32CAB5.title: "获取资源"
+	quest.0FE33F289A362A28.quest_desc: ["「拾穗Harvista」已经对世界生成进行了专项兼容，这种情况理因不该发生。你可以查看存档使用的数据包，确定HarvistaCompat数据包位于数据包加载的顶层。"]
+	quest.0FE33F289A362A28.title: "我的游戏几乎不生成结构！"
+	quest.10BEC1E5D6127C77.quest_desc: [
+		"制作你的火箭！"
+		"需要注意的是：火箭只有一种配方，之后要飞往更远的世界，你只需要升级火箭即可！"
+		""
+		"要启动你的火箭，你需要往火箭里添加一些燃料；然后按下空格键——火箭随时发射！"
+	]
+	quest.10BEC1E5D6127C77.quest_subtitle: "制作火箭"
+	quest.1100F45D18BFD9BC.quest_desc: [
+		"潮汐模组增加了60余种全新鱼类与许多有趣的钓鱼机制；因此，我们需要一本记载了各类鱼类的百科全书——获取《百鱼全书》，开始钓鱼吧！"
+		"此外，如有任何疑问，也欢迎访问 Tide 模组的Wiki！"
+	]
+	quest.1100F45D18BFD9BC.quest_subtitle: "获取百鱼全书"
+	quest.1100F45D18BFD9BC.title: "等下，这是什么鱼？"
+	quest.110E842F1CDE5A0D.quest_desc: [
+		"当你的靴印烙在寂寥月面，"
+		"人类文明便点亮了新的灯塔。"
+		"现在，整条银河都在等待——"
+		"等待你揭开星尘的面纱。"
+	]
+	quest.110E842F1CDE5A0D.quest_subtitle: "登上月球"
+	quest.110E842F1CDE5A0D.title: "灿若繁星"
+	quest.112C3B2D165A9D3A.title: "卷"
+	quest.115B434883352725.quest_desc: [
+		"很显然，要执行航天任务，普通的石油是远远不够的。"
+		"我们需要将原油进一步加工，获得杂质更少的甜油。"
+		"当然，我们也可以通过寻找天然生成的甜油，接下来我们会提及如何探测这些稀有原料"
+	]
+	quest.115B434883352725.quest_subtitle: "获得甜油"
+	quest.115B434883352725.title: "优质石油"
+	quest.11767AFA3B81217A.quest_desc: ["你可以用末影激光器挖掘紫水晶簇来获得辐水晶。使用目标标识器定位一个紫水晶簇。紫水晶母岩将不会被破坏，而是会被充能，让紫水晶簇长得更快。激光器会自动切换目标，瞄准路径上的紫水晶簇。"]
+	quest.11767AFA3B81217A.quest_subtitle: "获得辐水晶"
+	quest.11767AFA3B81217A.title: "新起点"
+	quest.11A0391CC25AE283.quest_subtitle: "获得抽屉台桌-粉红桌布"
+	quest.11A0391CC25AE283.title: "干净整洁"
+	quest.11DF3DCAC2A60145.quest_desc: ["燃油是火箭所需要的燃料，生产足够的燃油，填满火箭的油箱！"]
+	quest.11DF3DCAC2A60145.quest_subtitle: "获得燃油"
+	quest.12251533ADDAFAAF.quest_desc: ["除了夯土灶台，其他材料也可以制作灶台：它们的速率更快，但相对应的，消耗的燃料也越多。"]
+	quest.12251533ADDAFAAF.quest_subtitle: "获得红砖灶台"
+	quest.12251533ADDAFAAF.title: "高级灶台"
+	quest.127765408C7D93C5.quest_desc: ["输出总线，可以把特定物品输入容器中。"]
+	quest.127765408C7D93C5.quest_subtitle: "获得输出总线"
+	quest.12AEE484266AB756.quest_subtitle: "开启虹霓乐事路径"
+	quest.12AEE484266AB756.title: "虹霓乐事"
+	quest.12D7C5EAC55F65CC.quest_subtitle: "路径点1：达成真正的糖果工坊"
+	quest.12D7C5EAC55F65CC.title: "甘蜜工匠"
+	quest.131850838DD6D094.quest_subtitle: "开启百味珍馐路径"
+	quest.131850838DD6D094.title: "百味珍馐"
+	quest.135621AFACC974FD.quest_subtitle: "获得所有传奇鱼类"
+	quest.135621AFACC974FD.title: "传奇钓鱼佬"
+	quest.14D88D6348D2D585.quest_desc: [
+		"普通的糖虽然实用，但在高级糖果面前还是有心无力。"
+		"获取下界糖粉，制作高级糖果！"
+	]
+	quest.14D88D6348D2D585.quest_subtitle: "获得下界糖粉"
+	quest.14D88D6348D2D585.title: "并非色素"
+	quest.14EA59ACD9CFAB20.quest_desc: ["你知道吗？分茶清供与EMI都可以查看相关配方！"]
+	quest.14EA59ACD9CFAB20.quest_subtitle: "学习汤锅相关配方"
+	quest.14EA59ACD9CFAB20.title: "查看配方"
+	quest.159B57B6E12E0816.quest_desc: ["「拾穗Harvista」构建了一套丰富而充满乐趣的烹饪体系：你可以精研中式烹饪，巧制寿司，或是亲手熬制糖果；也可以垂钓于碧溪之上，架起火锅，与好友围炉而坐。在探索美食配方的旅程中，「拾穗Harvista」还为你准备了农业进阶之路——完成里程碑挑战，即可解锁传说中的「猫猫汉堡」！"]
+	quest.159B57B6E12E0816.title: "料理乐事"
+	quest.15B09E757FF52191.quest_desc: ["当刷怪笼控制器已经设置完成后，控制器会高亮提示你所需要的刷怪笼器的尺寸，使用刷怪笼器填满它们（不是机器框架！）"]
+	quest.15B09E757FF52191.quest_subtitle: "获得刷怪器笼"
+	quest.165E82698E5BF0B3.quest_desc: [
+		"牛油果是重要的食材，在金合欢树与牛油果树中有概率获得。"
+		"打完树叶记得补种哦！"
+	]
+	quest.165E82698E5BF0B3.quest_subtitle: "获得牛油果"
+	quest.17262C2E00154383.quest_desc: [
+		"虾是河流中的常见水产品，是寿司常见的食材。"
+		"不过在地底下还有一种晶虾，这...应该不能吃吧。"
+	]
+	quest.17262C2E00154383.quest_subtitle: "获得虾"
+	quest.17C6C1EA50995749.quest_desc: ["粒子加速器导向环是用来引导粒子的重要方块，粒子会沿着导向环前进，可以通过右键点击导向环来添加45度转弯。"]
+	quest.17C6C1EA50995749.quest_subtitle: "获得粒子加速器导向环"
+	quest.17CAAF2C40046F2A.quest_desc: [
+		"使用瓶子草荚果右键火锅即可获得油锅锅底。"
+		"油锅锅底可给予 15秒 的温暖、15秒 的酥脆和 20秒 的油腻效果"
+	]
+	quest.17CAAF2C40046F2A.quest_subtitle: "制作油锅锅底"
+	quest.17CAAF2C40046F2A.title: "油锅锅底"
+	quest.1841D706DE59E5E4.quest_desc: [
+		"优秀的制糖师要对原材料精益求精，使用龙息糖粉制糖是他们始终如一的追求。"
+		"前往末地，制作龙息糖粉!"
+	]
+	quest.1841D706DE59E5E4.quest_subtitle: "获得龙息糖粉"
+	quest.1841D706DE59E5E4.title: "更高级的糖果"
+	quest.18B22102B5FD3D65.quest_desc: ["精致存储是一个现代化的存储模组——他不像AE那么复杂，不过绝对能够用到毕业。"]
+	quest.18B22102B5FD3D65.title: "精致存储"
+	quest.195FEB839ACD59B7.quest_desc: ["顾名思义，方块放置器能将其存储的方块放置在由机器框架搭建的龙门架下方。其还能用于在耕地上种植作物或是树苗。"]
+	quest.195FEB839ACD59B7.quest_subtitle: "获得方块放置器"
+	quest.195FEB839ACD59B7.title: "实用机械：方块放置器"
+	quest.1A3468FFEA153B81.quest_subtitle: "路径点1：制作肥满蜗牛"
+	quest.1B539EEF0DFF3FFA.quest_desc: [
+		"精致的寿司怎么能在粗糙的工作台上制作？我们需要竹帘来制作寿司！"
+		"寿司共有六种，均可在竹帘上制作，你可以在接下来的任务中取下品尝一下:)"
+	]
+	quest.1B539EEF0DFF3FFA.quest_subtitle: "获得竹帘"
+	quest.1B539EEF0DFF3FFA.title: "制作寿司"
+	quest.1B865B8F5D13DF9F.quest_desc: ["精妙存储增加了一系列方便快捷的储存方块，可以应对早期的储存需求。"]
+	quest.1B865B8F5D13DF9F.title: "精妙存储"
+	quest.1BD4E6B48D653F1D.quest_desc: ["手持纸对纸巾盒右键可补充餐巾纸，餐巾纸可以随机消除玩家所附带的其中一个药水效果。"]
+	quest.1BD4E6B48D653F1D.quest_subtitle: "获得纸巾盒"
+	quest.1BD4E6B48D653F1D.title: "擦嘴"
+	quest.1CD01FDBB02C3172.quest_desc: [
+		"安装核能马达将允许你使用铀锭——一种高效，危险的物质——作为燃料。"
+		"小心处理，不然你可能会有大麻烦的。"
+	]
+	quest.1CD01FDBB02C3172.quest_subtitle: "获得核能马达"
+	quest.1CD01FDBB02C3172.title: "核动力小船"
+	quest.1E167EA2093595AA.quest_subtitle: "获得流星"
+	quest.1E167EA2093595AA.title: "月亮的女儿"
+	quest.1E352C9349C92CF7.quest_desc: [
+		"存储监控器可以单独查看并取出单一物品。"
+		"左键取一组，Shift+左键取一个。"
+	]
+	quest.1E352C9349C92CF7.quest_subtitle: "获得存储监控器"
+	quest.1E8BBEAC55BD8070.quest_desc: [
+		"电动泵被用于从其下方抽取流体。当电动泵被放置时，它会下放管道直至发现流体或是障碍物。"
+		"通过电动泵，可以很轻松的实现石油自动化！"
+	]
+	quest.1E8BBEAC55BD8070.quest_subtitle: "获得电动泵"
+	quest.1EBADBACFB13A6B7.quest_desc: [
+		"想要自动化制备氧气，你可以制作水泵，以此来源源不断的抽取水源。"
+		"当然，电动泵也可以完成这一工作；不过专精于抽水的水泵显然更加便宜方便。"
+	]
+	quest.1EBADBACFB13A6B7.quest_subtitle: "获得水泵"
+	quest.1EBADBACFB13A6B7.title: "抽水机"
+	quest.1F1B082D65608CAF.quest_subtitle: "获得抽屉台桌"
+	quest.1F1B082D65608CAF.title: "糖果工作台"
+	quest.1FEAC34C0B4F3BEF.quest_desc: [
+		"相比于个人魅力，还是饵料更有吸引力。"
+		"鱼饵可以在鱼竿上使用，加快钓鱼速度。"
+	]
+	quest.1FEAC34C0B4F3BEF.quest_subtitle: "获得鱼饵"
+	quest.1FEAC34C0B4F3BEF.title: "愿者上钩"
+	quest.2051410D5855B0CD.quest_subtitle: "路径点2：制作所有鲑鱼寿司"
+	quest.2051410D5855B0CD.title: "鲑华极意"
+	quest.2078BB62B9C13A86.quest_desc: ["随着工业化的步步深入，是时候去探索星河了。在群星模组的加持下，在「拾穗Harvista」中，你可以寻访太阳系的各大行星，收集稀有矿石，会面全新生物！"]
+	quest.2078BB62B9C13A86.title: "到繁星若尘。"
+	quest.208DA13B473A944B.quest_desc: ["葱可以提供缓降"]
+	quest.208DA13B473A944B.quest_subtitle: "获得调味料：葱"
+	quest.209107C60B95DA5A.quest_desc: ["「拾穗Harvista」以Oritech为核心建立起现代化的工业体系：作为新生代科技模组，其既传承了经典模组的优秀设计，又也蕴含了独特的创新巧思——期待它能用流畅的动画效果与精工打造的机械装置为您呈现一场工业美学的视觉盛宴。"]
+	quest.209107C60B95DA5A.title: "从蒸汽轰鸣..."
+	quest.20A1F501018DBB94.quest_subtitle: "获得牛油果片"
+	quest.2131DE3F8D6424B8.quest_desc: ["用其制汤时，加入醋或浓度足够有概率附加含铅糖浆效果"]
+	quest.2131DE3F8D6424B8.quest_subtitle: "获得铅制汤锅"
+	quest.21A8C9D9F2AF0823.quest_desc: [
+		"别吃，这真的不是蛋糕！"
+		"固体生物燃料可以用来作为生物质发电机的燃料，也可以进一步加工，制作更多有机钢锭和塑料！"
+	]
+	quest.21A8C9D9F2AF0823.quest_subtitle: "获得固体生物燃料"
+	quest.21A8C9D9F2AF0823.title: "食物发电"
+	quest.21DD9BF66FA5057F.quest_desc: ["为什么要这么做呢？"]
+	quest.21DD9BF66FA5057F.quest_subtitle: "获得附魔金苹果浮漂"
+	quest.21DD9BF66FA5057F.title: "金色的浮漂"
+	quest.22BB9C1973BCDB66.quest_desc: ["&e&l宽敞 整洁 逍遥！&r&e&r"]
+	quest.22BB9C1973BCDB66.quest_subtitle: "获得精致的火锅餐架"
+	quest.22BB9C1973BCDB66.title: "宽敞，整洁，逍遥！"
+	quest.23A85FD24C61BBFF.quest_desc: [
+		"空手与火锅交互会被烫伤，因此，我们需要筷子来安全夹起火锅中的物品。"
+		"&8&o（或许并不需要？）&r&r"
+		"筷子夹起的食物可以直接食用，而不可食用的物品则会返还背包。"
+		""
+		"筷子可以通过潜行放置在地面上，夹在筷子上的物品也会显示；对其右键可以将筷子收回。"
+	]
+	quest.23A85FD24C61BBFF.quest_subtitle: "获得筷子"
+	quest.23A85FD24C61BBFF.title: "夹你:)"
+	quest.23D6D5F179E2963F.quest_desc: [
+		"附魔稳定器是另外一种用于附魔：相较于使用奥术触媒，附魔稳定器并不需要你提供附魔书，也可以直接选择你需要的附魔。"
+		"使用附魔稳定器进行附魔同时需要能量与灵魂：需要注意的是，附魔稳定器本身并不会吸收灵魂；因此，其需要调用周围储存了灵魂的奥术触媒。高等级的附魔一般对于奥术触媒有着更高的数量要求。"
+	]
+	quest.23D6D5F179E2963F.quest_subtitle: "获得稳定附魔器"
+	quest.23E50C165C725520.quest_desc: ["糖可以提供速度"]
+	quest.23E50C165C725520.quest_subtitle: "获得调料罐：糖"
+	quest.23EF1A9F0D14C212.quest_desc: ["安装氢能马达可以允许你使用氢能作为燃料：相对而言，这种燃料更加清洁。"]
+	quest.23EF1A9F0D14C212.quest_subtitle: "获得氢能马达"
+	quest.23EF1A9F0D14C212.title: "清洁能源"
+	quest.2425240831A9CC8F.quest_desc: ["科洛尼锭是金星上的稀有矿石，有着强烈的辐射。"]
+	quest.2425240831A9CC8F.quest_subtitle: "获得科洛尼锭"
+	quest.246446717B528E41.quest_desc: [
+		"欢迎！这是是糖果店！"
+		"如果要开始制作糖果，你首先需要制作制糖工坊！"
+	]
+	quest.246446717B528E41.quest_subtitle: "获得糖果工坊"
+	quest.24D6C39E269BBD8C.quest_subtitle: "开启奇巧寿司路径"
+	quest.24D6C39E269BBD8C.title: "奇巧寿司"
+	quest.251BC012497EE3AE.quest_desc: ["精致存储也有着流体储存方块，可以储存64桶液体。"]
+	quest.251BC012497EE3AE.quest_subtitle: "获得64B流体存储方块"
+	quest.251BC012497EE3AE.title: "流体存储"
+	quest.255DC6FBE31B9582.quest_desc: [
+		"虽然它是烧煤的，但我说他是电饭煲他就是电饭煲！"
+		"电饭煲可以把生米煮成熟饭。"
+	]
+	quest.255DC6FBE31B9582.quest_subtitle: "获得电饭煲"
+	quest.2576078AA9F9417E.quest_desc: [
+		"将 4 个黑曜石和 4 个金锭丢入岩浆锅底可合成地狱锅底。"
+		"地狱锅底可以与猪灵安全的交易（以物易物）。"
+	]
+	quest.2576078AA9F9417E.quest_subtitle: "制作地狱锅底"
+	quest.2576078AA9F9417E.title: "地狱锅底"
+	quest.26244390BA99F1D7.quest_desc: ["制作寿司需要一些全新的原材料，收集它们，为未来成就寿司大师奠定基础。"]
+	quest.26244390BA99F1D7.quest_subtitle: "了解制作寿司的原材料"
+	quest.264FECEE9316F498.quest_desc: [
+		"物品传输接口，既可以用来输入，也可以用来输出。"
+		""
+		"它还有流体变种。"
+	]
+	quest.264FECEE9316F498.quest_subtitle: "获得物品传输接口"
+	quest.275091064E5A9C54.quest_desc: ["一种能够使用电力来进行冶炼的重要机器，让我们把能源利用在应该利用的地方！"]
+	quest.275091064E5A9C54.quest_subtitle: "制作电炉"
+	quest.27A2793571D5C8C0.quest_subtitle: "路径点2：捕捞传奇鱼类"
+	quest.27A2793571D5C8C0.title: "潮汐咏叹"
+	quest.27DF206ADC9E743F.quest_subtitle: "获得流水荆棘"
+	quest.27DF206ADC9E743F.title: "远古谜因"
+	quest.286742A6C38D5726.quest_desc: ["燃料发电机有着极高的效率，当石油生产稳定后，这将是最好的发电机！"]
+	quest.286742A6C38D5726.quest_subtitle: "获得燃料发电机"
+	quest.297C38D2CF6083A3.quest_desc: [
+		"分茶是一个复杂的模组，加入了丰富的玩法，这份任务书只简要介绍了食品烹饪相关内容，还有许多玩法待你探索！"
+		"如果有任何不清楚的内容，欢迎查阅模组自带的教程手册！"
+	]
+	quest.297C38D2CF6083A3.quest_subtitle: "查看教程！"
+	quest.297C38D2CF6083A3.title: "获取帮助"
+	quest.2A8FFB844C7C3A85.quest_desc: [
+		"面对更高等级的材料，我们需要原子锻造器来制作：这是一种用于生产计算机芯片、强化深板岩，乃至复制矿石的强大机器。"
+		"需要注意的是，原子锻造器无法通过能量线缆获取能量，你需要使用末影激光器为其充能。"
+	]
+	quest.2A8FFB844C7C3A85.quest_subtitle: "获得原子锻造器"
+	quest.2B66D3604C0685D4.quest_desc: ["你的背包可以通过加装升级获得更多实用功能"]
+	quest.2B66D3604C0685D4.title: "升级"
+	quest.2B97CA0EDD3BB8AF.title: "反馈平台：红石中继站"
+	quest.2C99480CBE75D923.quest_desc: ["一个淡蓝色的小点逐渐远去，深邃的星空近在咫尺——进入太空时代。"]
+	quest.2C99480CBE75D923.quest_subtitle: "飞往月球"
+	quest.2C99480CBE75D923.title: "人类的一大步"
+	quest.2DAE740DD3DBB073.quest_desc: ["塑料是石油化工的重要成果，也是后期制作各种机器与插件的重要材料；要让之后的工业之路顺畅，建设一条完善的塑料产线必不可少！"]
+	quest.2DAE740DD3DBB073.quest_subtitle: "获得塑料"
+	quest.2DAE740DD3DBB073.title: "新型材料"
+	quest.2DFBE3534F82FA02.quest_desc: ["磁盘驱动器可以放置磁盘，磁盘也是一种用来储存的道具。"]
+	quest.2DFBE3534F82FA02.quest_subtitle: "获得磁盘驱动器"
+	quest.2E852E523822469E.quest_desc: ["被热源加热后，狼雕像会有颜色上的变化；小心，别被烫到了！"]
+	quest.2E852E523822469E.quest_subtitle: "获得狼雕像"
+	quest.2E852E523822469E.title: "温度计"
+	quest.2E990B35CF01B7F2.quest_subtitle: "路径点1：制作规定甜点"
+	quest.2E990B35CF01B7F2.title: "糕星初绽"
+	quest.2EE293E9EDFE1E9E.quest_desc: ["你知道吗？分茶清供与EMI都可以查看相关配方！"]
+	quest.2EE293E9EDFE1E9E.quest_subtitle: "学习炒菜配方"
+	quest.2EE293E9EDFE1E9E.title: "查看配方"
+	quest.2F0432F6EFFF8D85.quest_subtitle: "路径点2：制作规定糖果"
+	quest.2F0432F6EFFF8D85.title: "爱心秘典"
+	quest.2F2C66FD220364E6.quest_desc: ["熔岩钓钩允许玩家在熔岩里钓鱼；特别的，下界合金钓竿无需此钓钩也可以在熔岩里垂钓。"]
+	quest.2F2C66FD220364E6.quest_subtitle: "获得熔岩钓钩"
+	quest.2F7B600764546440.quest_desc: ["「拾穗Harvista」添加了传送石碑，其可以用作高效的传送工具。"]
+	quest.2F7B600764546440.title: "传送石碑"
+	quest.2FD24E4404B7CFB0.quest_desc: [
+		"「拾穗Harvista」是一个休闲风发展向的甜品整合包。"
+		""
+		"在「拾穗Harvista」中，你将踏上一段从蒸汽机到浩瀚星宇的漫长旅行：从简单的机械开始，发展工业，构建自动化网络；最终踏破长空，看繁星若尘。"
+		""
+		"{@pagebreak}"
+		""
+		"「拾穗Harvista」也有着丰富有趣的烹饪体系，你可以尝试料理各色美食，钻研丰富的美食配方，赢取农业路径里程碑，追寻传说中的「猫猫汉堡」。"
+		""
+		"或澄怀观道，漫步于一个个精致的聚落间；或挑战未知，征服强敌.....「拾穗Harvista」的故事由你书写。"
+	]
+	quest.2FD24E4404B7CFB0.quest_subtitle: "圆荷浮小叶，细麦落轻花"
+	quest.2FD24E4404B7CFB0.title: "欢迎来到拾穗"
+	quest.3068584CF140B960.quest_desc: [
+		"外骨骼套装是一套专为您的冒险设计的特殊装备。每件装备都提供独特的功能："
+		""
+		"头盔： 提供夜视功能。"
+		"胸甲： 为您的库存物品充电，使您能够在矿井中停留更长时间。"
+		"护腿： 增强您的奔跑速度。"
+		"靴子： 赋予您免疫坠落伤害的能力。"
+	]
+	quest.3068584CF140B960.quest_subtitle: "获得外骨骼套装"
+	quest.3068584CF140B960.title: "外骨骼套装"
+	quest.306A31ABDFD7598F.quest_desc: ["模型升级只能在遗迹中发现，它可以让你的火箭发生改变。"]
+	quest.306A31ABDFD7598F.quest_subtitle: "学习模型升级"
+	quest.306A31ABDFD7598F.title: "模型升级"
+	quest.308AB96B3D25CE3B.quest_desc: [
+		"鱼竿越贵，鱼越大。"
+		""
+		"使用锻造台来升级钓竿。"
+	]
+	quest.308AB96B3D25CE3B.quest_subtitle: "获得铁钓竿"
+	quest.308AB96B3D25CE3B.title: "升级钓竿"
+	quest.30E1950D2238D9FB.quest_desc: [
+		"随着玩家不断发展，你之后可以制作伊雷娜的扫帚作为载具——这可不是魔法道具，而是实打实的科技结晶！"
+		""
+		"当然，再之后，喷气背包和赛博改造也能让你拥有飞行的能力！"
+	]
+	quest.30E1950D2238D9FB.title: "扫帚"
+	quest.31A3918333E56D38.quest_desc: [
+		"你的机器越来越多，原有的基础发电机已经不能满足你的胃口了；因此，是时候升级你的发电机了。"
+		"熔岩发电机使用流体管道获取熔岩以产出电力，其拥有两个插槽。初始状态下效率为 64 RF/t。"
+	]
+	quest.31A3918333E56D38.quest_subtitle: "获得熔岩发电机"
+	quest.31A3918333E56D38.title: "高级发电机"
+	quest.31F4BFAF99CDC143.quest_subtitle: "获得预制纸板"
+	quest.31F4BFAF99CDC143.title: "新型材料"
+	quest.3283F8E80FD4268C.quest_desc: [
+		"是时候进行矿物倍产了：粉碎工厂是倍矿处理过程中的第一站。"
+		"其可用于粉碎原矿以获得相应粗矿，亦或是粉碎粗矿以获得对应的矿物碎块。"
+		"当粉碎原矿和粗矿时，粉碎工厂能输出于原料数量相对而言更多的产物。有时候其还会产出与原料种类不同的产物。"
+		"大多数插件都可以安装在粉碎工厂上。产量升级插件可以提高粉碎工厂副产物的产量。"
+	]
+	quest.3283F8E80FD4268C.quest_subtitle: "获得粉碎工厂"
+	quest.3283F8E80FD4268C.title: "大规模粉碎"
+	quest.32B725CB6CE98829.quest_desc: ["粒子加速器方块是粒子加速中最核心的部分，粒子从粒子加速器方块处向右发射。"]
+	quest.32B725CB6CE98829.quest_subtitle: "获得粒子加速器"
+	quest.32F81EEA114D7943.quest_desc: [
+		"火锅餐架提供上下两层的1格空间，可以用来放置各种餐具。"
+		"不要再把食物放在草地上啦，要注意卫生！"
+	]
+	quest.32F81EEA114D7943.quest_subtitle: "获得火锅餐架"
+	quest.32F81EEA114D7943.title: "讲文明，树新风"
+	quest.33C5BB672376650C.quest_desc: ["更为高级的研究站，可以进行中后期的植入体研究"]
+	quest.33C5BB672376650C.quest_subtitle: "获得量子研究站"
+	quest.33E5807578547A95.quest_desc: ["Cu Cu Mb Er"]
+	quest.33E5807578547A95.quest_subtitle: "获得黄瓜片"
+	quest.34E1CF0AF667211F.quest_desc: [
+		"没有稻米就没有寿司。"
+		"稻米可以通过种植稻米种子获得，稻米种子可以通过打草获得。"
+	]
+	quest.34E1CF0AF667211F.quest_subtitle: "获得稻米"
+	quest.353445A0C6E44734.quest_desc: ["虽然但是，蟹肉棒真的不是蟹肉做的。"]
+	quest.353445A0C6E44734.quest_subtitle: "获得蟹肉棒"
+	quest.35B44CC07B896408.quest_desc: ["原油可以在地下位置找到，需要注意的是，大型矿团的正下方一定有着被原油覆盖的资源节点。大型油田也可以出现在地表，可以看到它们从地面喷涌而出。 它们在沙漠生物群系中更为常见。"]
+	quest.35B44CC07B896408.quest_subtitle: "获得原油"
+	quest.35B44CC07B896408.title: "石油"
+	quest.36FE6CB5054A9977.quest_desc: ["索莱尼是水星上的稀有矿石，蕴含着巨大的能量，是一种珍贵的材料。"]
+	quest.36FE6CB5054A9977.quest_subtitle: "获得索莱尼"
+	quest.37961149006DDE8D.quest_desc: ["生长于下界的核桃有几率变成铅灰核桃"]
+	quest.37961149006DDE8D.quest_subtitle: "获得铅灰核桃"
+	quest.37961149006DDE8D.title: "来自下界的核桃"
+	quest.37F2922ED19E8245.quest_desc: [
+		"在 Oritech 中升级机器需要使用插件。"
+		""
+		"插件是附着于机器本体或连接至扩展坞的功能方块。它们能提升机器的处理速度、能源效率，或提供特定附加功能。"
+		""
+		"插件必须安装在机器的专用插件槽位中，你可以在机器的GUI 中查看和管理这些插件。"
+		""
+		"为了增加插件槽位，你需要安装扩展坞。扩展坞可以与插件相连并使其能作用于机器。"
+		""
+		"扩展坞的安装层级受限于机器等级：例如机器等级为 1 时，仅能安装一个扩展坞。每个额外的扩展坞通过另一个扩展坞连接时，需要提高核心品质1级。"
+	]
+	quest.37F2922ED19E8245.quest_subtitle: "学习插件"
+	quest.37F2922ED19E8245.title: "插件"
+	quest.386463CBA019B5E2.quest_desc: [
+		"将2 个棕色蘑菇、2 个红色蘑菇、2 个绯红菌和 2 个诡异菌丢入清汤锅底可合成菌菇锅底。"
+		"往菌菇锅底内投入不同的蘑菇时，会根据不同蘑菇的稀有等级给予汤底一种随机效果。蘑菇越平常，效果范围越小，但相对不易获得 Debuff ；蘑菇越稀有，则效果范围越大，但更加不安全，相对更容易获得 Debuff（一个菌菇锅底最多只会附带三种随机效果）。"
+		"菌菇锅底的效果会逐渐蔓延到所有与其相连的菌菇锅底。"
+	]
+	quest.386463CBA019B5E2.quest_subtitle: "制作菌菇锅底"
+	quest.386463CBA019B5E2.title: "菌菇锅底"
+	quest.38C070BDB84C7D2B.quest_desc: ["在辅料中牛奶凝胶，将会为该批次的糖果添加额外效果：食用后清除其他效果"]
+	quest.38C070BDB84C7D2B.quest_subtitle: "获得辅料：牛奶凝胶"
+	quest.39176CC9FA146D52.quest_desc: [
+		"类似谜之炖菜，香料包可以通过与不同的花合成可以获得多样的增益效果，最多可与四朵花合成获得四种效果。"
+		"&o香料包可以使用20次。&r"
+	]
+	quest.39176CC9FA146D52.quest_subtitle: "获得香料包"
+	quest.39176CC9FA146D52.title: "增香添色"
+	quest.39B55F090B55F70B.quest_subtitle: "路径点1：获得烈焰剑鱼"
+	quest.39B55F090B55F70B.title: "炽焰潮声"
+	quest.3B6C5361310C207D.quest_desc: ["欢迎加入Discord服务器！"]
+	quest.3B6C5361310C207D.title: "Discord服务器"
+	quest.3BC78C49F28F43B6.quest_desc: ["当然，你也可以直接合成更高级的储存方块"]
+	quest.3BC78C49F28F43B6.title: "高级木桶"
+	quest.3BD6E70466C7A228.quest_desc: ["核能马达所需的铀需要加工才能使用——铀锭有着更为猛烈直接的能量，也因此它有着非常恐怖的核辐射：如果处理不当，会给人们带来极大的伤害。"]
+	quest.3BD6E70466C7A228.quest_subtitle: "获得铀锭"
+	quest.3BD6E70466C7A228.title: "危险燃料"
+	quest.3BEB8BCDAC26BDD1.quest_desc: ["向伐木器输入能量后，其能砍伐包括树叶在内的整棵树。 砍伐所得的原木、树叶和破坏树叶产生的掉落物会被存入伐木器内部。"]
+	quest.3BEB8BCDAC26BDD1.quest_subtitle: "获得伐木器"
+	quest.3BEB8BCDAC26BDD1.title: "实用机械：伐木器"
+	quest.3BF007335F0DBAE6.quest_desc: ["在辅料中添加蜂蜜将会为该批次的糖果添加额外效果：该软糖的效果将持续更久"]
+	quest.3BF007335F0DBAE6.quest_subtitle: "获得辅料：蜂蜜"
+	quest.3C3060BCA4261BF0.quest_desc: [
+		"制作糖果需要一些专门的次级材料，有些可以吃哦！"
+		"来，给你个苹果。"
+	]
+	quest.3C3060BCA4261BF0.quest_subtitle: "学习次级材料"
+	quest.3C3060BCA4261BF0.title: "二步验证"
+	quest.3CDFC242D92B9F66.quest_desc: [
+		"火箭要放置在火箭发射平台上才能发射，九个火箭发射平台可以组成一个完全体。"
+		"对了，记得准备下返程时需要的火箭发射平台！"
+	]
+	quest.3CDFC242D92B9F66.quest_subtitle: "制作火箭发射平台"
+	quest.3CE268F57C1E3694.quest_subtitle: "路径点2：制作规定料理"
+	quest.3CE268F57C1E3694.title: "山海秘传"
+	quest.3D02B23EFB9D468D.quest_desc: ["与方块一样，磁盘也可以存储流体。"]
+	quest.3D02B23EFB9D468D.quest_subtitle: "获得64B流体存储磁盘"
+	quest.3D02B23EFB9D468D.title: "流体存储磁盘"
+	quest.3D7F556D8D7BCAB0.quest_desc: [
+		"板条箱可以从水中钓取，里面有丰富的战利品。"
+		"当然，它也是非常精美扎实的储存方块。"
+	]
+	quest.3D7F556D8D7BCAB0.quest_subtitle: "获得板条箱"
+	quest.3D7F556D8D7BCAB0.title: "板条箱"
+	quest.3DAC2FEA9045640D.quest_desc: [
+		"制作汤需要汤锅作为载体，加入汤底，加入原材料，制作你的第一碗汤吧！"
+		""
+		"&o*汤的配方是不固定的哦！"
+	]
+	quest.3DAC2FEA9045640D.quest_subtitle: "获得汤锅"
+	quest.3DAC2FEA9045640D.title: "制汤"
+	quest.3E59057E1DB3C52B.quest_desc: ["在默认情况下，每个奥术触媒可以存储50个灵魂。但是然而，超载附魔需要超过50个灵魂。 你可以使用末影激光来稳定奥术触媒。每个激光都会增加可存储的灵魂数量。 但是，如果在存储灵魂时失去稳定化，后果可能是灾难性的。"]
+	quest.3E59057E1DB3C52B.quest_subtitle: "学习稳定化"
+	quest.3E59057E1DB3C52B.title: "稳定化"
+	quest.3EC8862555645012.quest_desc: [
+		"精妙背包是一个实用的背包模组，可以拓展你的物品栏"
+		""
+		"按B键可以快捷打开背包。"
+	]
+	quest.3EC8862555645012.title: "精妙背包"
+	quest.3F10602EEFFFF8E8.quest_desc: ["装配器可以用来更高效地合成一些物品，减少原材料的消耗；它也可以合成一些工作台不能合成的物品。"]
+	quest.3F10602EEFFFF8E8.quest_subtitle: "获得装配器"
+	quest.3F158E1101F82962.quest_subtitle: "获取所有种类糖果"
+	quest.3F158E1101F82962.title: "彩虹收藏家！"
+	quest.3F8041B70C8E06D9.quest_subtitle: "获得去骨鲑鱼排"
+	quest.3FC36C088D58D98A.quest_desc: [
+		"通过与食材合成，便可以将食材放到笊篱内；放入火锅内，其能够一次将笊篱内的食物全部煮熟。"
+		"副手持纸碗，主手持笊篱可将笊篱内的食材倒入纸碗内。"
+		"笊篱可以放置在地面上。"
+	]
+	quest.3FC36C088D58D98A.quest_subtitle: "获得笊篱"
+	quest.3FC36C088D58D98A.title: "多快好省"
+	quest.3FDBDE4D8DFFA05B.quest_desc: [
+		"「拾穗Harvista」使用了Iron的宝石与饰品模组：现在，你可以使用珠宝配饰工作台制作饰品，获取强力加成。"
+		""
+		"此外，现在盔甲纹饰可以给你带来独特的效果加成，合理搭配装备，你能够事倍功半！"
+	]
+	quest.3FDBDE4D8DFFA05B.title: "配饰工匠"
+	quest.402E40FA60476B10.quest_desc: [
+		"这是最基本的储存容器，可以储存1000个物品。"
+		"将其与控制器，终端相连可以组成一个最基本的存储系统。"
+	]
+	quest.402E40FA60476B10.quest_subtitle: "获得1k存储方块"
+	quest.402E40FA60476B10.title: "存储方块"
+	quest.404B83A0CC43950F.quest_desc: ["核桃可以在带陶缸的台面中通过铁砧制作油舟"]
+	quest.404B83A0CC43950F.quest_subtitle: "获得油舟"
+	quest.40A1A7B53B32581F.quest_desc: ["没有鱼子的寿司是没有灵魂的，击杀鱼可以掉落鱼子。"]
+	quest.40A1A7B53B32581F.quest_subtitle: "获得鱼子"
+	quest.40B2DAEFC91CE896.quest_desc: ["一种与灵魂相关的研究站，一些与灵能相关的研究需要它！"]
+	quest.40B2DAEFC91CE896.quest_subtitle: "获得奥术研究站"
+	quest.412C4FE5C4E3D73D.quest_desc: ["海的味道我知道！"]
+	quest.412C4FE5C4E3D73D.quest_subtitle: "获得海带片"
+	quest.418D34D65C71AB6A.quest_desc: [
+		"用木棍可以合成串串签，其可以在工作台上与食材合成串串香。"
+		"串串香可以加快食材的食用速度。"
+		"特别地，空手取火锅内的串串香不会受伤，因此可以看作筷子的平替。"
+	]
+	quest.418D34D65C71AB6A.quest_subtitle: "获得串串签"
+	quest.418D34D65C71AB6A.title: "吃串串吗？"
+	quest.4260A048CF120127.quest_desc: [
+		"大型燃料罐可以增加最大燃油储量。"
+		"有些行星距离很远，因此需要大量的燃料，这时候，大型燃料罐就可以派上用场了。"
+	]
+	quest.4260A048CF120127.quest_subtitle: "获得大型燃料罐"
+	quest.4260A048CF120127.title: "燃料升级"
+	quest.4284C3ACCD595AFF.quest_desc: ["是的，升级本身也可以升级，以此获得更加强力的效果"]
+	quest.4284C3ACCD595AFF.title: "高级升级"
+	quest.42C9A28A55E5FE05.quest_desc: ["终极机器核心是最高等级的机器核心，可以安装最多的插件"]
+	quest.42C9A28A55E5FE05.quest_subtitle: "获得终极机器核心"
+	quest.43AF72C76F88755A.quest_desc: [
+		"欢迎来到繁星若尘！"
+		"来到这里，相比你已经完成了中前期的工业化，也已经驾驶火箭前往月球了。现在，是时候探索科技的前沿了。你将升级火箭，探索更遥远的世界；也将通过灵魂与科技的力量，改造工具以及自身；尝试粒子加速，打造终极工具。"
+		""
+		"后期的内容但相对而言更加分散，因此，任务以模块的模式进行——不同模块的任务间关联相对比较分散。"
+		""
+		"当然这些内容更加困难，如果实在无法完成也不用内疚，这只是一个休闲向的整合包，放轻松玩就好啦！"
+	]
+	quest.43AF72C76F88755A.quest_subtitle: "欢迎来到繁星若尘任务线"
+	quest.43AF72C76F88755A.title: "说明"
+	quest.4458DB8B5AB6535E.quest_desc: ["笊篱可以在不改变基底的前提下取出汤中的原料，并在一定程度上降低浓度。"]
+	quest.4458DB8B5AB6535E.quest_subtitle: "获得竹笊篱"
+	quest.451C8E0215FE1C28.quest_desc: [
+		"大豆是制作酱油的原材料，通过种植大豆种子获得。"
+		"大豆种子通过打草获得。"
+	]
+	quest.451C8E0215FE1C28.quest_subtitle: "获得大豆"
+	quest.45445ABEFBEE45D7.quest_subtitle: "获得疾风鲈"
+	quest.45445ABEFBEE45D7.title: "怪物、铜与风"
+	quest.45B5A79F02DE8510.quest_desc: ["美化你的厨房！"]
+	quest.45B5A79F02DE8510.quest_subtitle: "了解更多材料的厨具"
+	quest.45B5A79F02DE8510.title: "多彩外观"
+	quest.45F49271813DA540.quest_desc: [
+		"幸运鱼饵绝对算得上是幸运物品，但可能不是鱼的。"
+		"幸运鱼饵可以提供等效 海之眷顾II 的加成。"
+	]
+	quest.45F49271813DA540.quest_subtitle: "获得幸运鱼饵"
+	quest.45F49271813DA540.title: "Lucky☆Star"
+	quest.46070CB7ABA28A3B.quest_desc: [
+		"碟子是一种好用的储物工具，你可以将食材放在碟子里。"
+		"小碟有一个物品槽位，可放至多64个食材；"
+		"长碟有两个物品槽位，可放至多128个食材；"
+		"大碟有四个物品槽位，可放至多256个食材。"
+		"碟子可以堆叠放置."
+		"潜行右键可以将碟子转化为掉落物。"
+	]
+	quest.46070CB7ABA28A3B.quest_subtitle: "获得长碟"
+	quest.46070CB7ABA28A3B.title: "有大点的碟子吗"
+	quest.46094E996332214C.quest_desc: ["冷却盒可以自动混合原材料，是时候和满背包的鱼虾告别了！"]
+	quest.46094E996332214C.quest_subtitle: "获得冷却盒"
+	quest.46469E4DE5D13F80.quest_desc: [
+		"磨粉机是一个基础的单方块机器，可以用来粉碎物质。"
+		"在之后，它的部分功能可以被更高级的粉碎工坊替代。不过，虽然其效率低下，在处理简单材料时，它是必不可少的。"
+	]
+	quest.46469E4DE5D13F80.quest_subtitle: "获得磨粉机"
+	quest.46BF9BC7AEC698A6.quest_desc: ["灾厄侵扰增加了10余种新的灾厄村民，为保卫村庄和征服结构带来了新的挑战；在战斗中，你也将获得新的强力物品：神圣宝石与铂金板材！"]
+	quest.46BF9BC7AEC698A6.title: "新的敌人"
+	quest.481AB503C3C4D30C.title: "军舰"
+	quest.48425A4E796AA0C3.quest_desc: ["用其炒菜时，加入醋或浓度足够有概率附加含铅糖浆效果"]
+	quest.48425A4E796AA0C3.quest_subtitle: "获得镀铅煎锅"
+	quest.486937A2F89746A8.quest_desc: [
+		"As Cool As Cucumber."
+		""
+		"黄瓜可以通过种植黄瓜种子获得，黄瓜种子可以通过打草获得。"
+	]
+	quest.486937A2F89746A8.quest_subtitle: "获得黄瓜"
+	quest.497DA780F6BC390F.quest_desc: ["如果蜗牛在生长过程中进食了果实，则会长成肥满蜗牛"]
+	quest.497DA780F6BC390F.quest_subtitle: "好吃的大蜗牛"
+	quest.499FC09493A903A5.quest_desc: [
+		"薛定谔保险柜可以存储大量能量。用该物品右击一个现有的不稳定方块（详见物品文本提示），这个方块将被薛定谔保险柜捕获。保险柜的储能容量由捕获方块的危险程度决定。"
+		"能量将从顶部和底部的中心方块输出。可以从任意位置输入能量。UI将显示所含方块倍率、激光倍率和输入输出数据。"
+	]
+	quest.499FC09493A903A5.quest_subtitle: "获得薛定谔保险柜"
+	quest.499FC09493A903A5.title: "不稳定电池"
+	quest.49CDCB0C8457E80E.quest_desc: ["「拾穗Harvista」使用了精妙背包来拓展你的物品栏，背包可以升级，也可以安装更多实用插件！"]
+	quest.49CDCB0C8457E80E.title: "精妙背包"
+	quest.4AB9CAE6B28B4877.quest_desc: ["制作寿司讲究精益求精，因此我们需要对原材料进行细致的加工，而加工需要一些专门的工具方块"]
+	quest.4AB9CAE6B28B4877.quest_subtitle: "学习加工工具"
+	quest.4AB9CAE6B28B4877.title: "加工工具"
+	quest.4ACD1F8EE8B72783.quest_desc: ["制作寿司的配料，要注意搭配哦。"]
+	quest.4ACD1F8EE8B72783.quest_subtitle: "获得青芥酱"
+	quest.4ACD1F8EE8B72783.title: "增香添色"
+	quest.4B12767444CBD9B9.quest_desc: [
+		"为了在太空的危险环境中生存，航天服是必不可少的。"
+		"别忘了给航天服填充氧气！"
+	]
+	quest.4B12767444CBD9B9.quest_subtitle: "获得航天服"
+	quest.4B12767444CBD9B9.title: "整装待发"
+	quest.4B493BE975164882.quest_desc: ["线缆是RS系统连接的必要道具"]
+	quest.4B493BE975164882.quest_subtitle: "获得线缆"
+	quest.4B6AF94195E14B9E.quest_desc: [
+		"生物需要氧气才能生存，在前往太空之前，我们应该学习如何生产氧气！"
+		"要生产氧气，我们需要制作水电解分离器，以此将氧气和氢气从水中分离出来。"
+	]
+	quest.4B6AF94195E14B9E.quest_subtitle: "获得水电解分离器"
+	quest.4B6AF94195E14B9E.title: "获得氧气"
+	quest.4CF9175C9393FB5A.quest_desc: [
+		"通过赛博改造中心，你可以给你自己安装植入体，以此来提高自身数值，或者赋予你新的能力。按“G”键可以启用或注销植入体。"
+		"植入体是对于玩家的永久升级，并不需要任何能量进行维持。"
+		""
+		"植入体需要在赛博改造中心进行研究，每种植入体都需要消耗资源与能量进行研发。植入体也有研究站和前置的需求。"
+	]
+	quest.4CF9175C9393FB5A.quest_subtitle: "获得赛博改造中心"
+	quest.4CF9175C9393FB5A.title: "机械飞升"
+	quest.4D1C6F77A8372705.quest_desc: [
+		"与往往裸露地表的石油相比，甜油一般藏匿在地下，且不能被直接发现：因此，我们需要制作甜油探测器来探测甜油"
+		"在甜油探测器充能后，你可以右键方块，它会告诉你方块所属的区块是否含有甜油。"
+	]
+	quest.4D1C6F77A8372705.quest_subtitle: "获得甜油探测器"
+	quest.4D4A56103FB3CD85.quest_desc: ["MC百科（mcmod.cn）是「拾穗 Harvista」的次要中文发布平台"]
+	quest.4D4A56103FB3CD85.title: "发布页：MC百科"
+	quest.4E9E7A5FE358350F.quest_desc: [
+		"电是科技发展的基础，制作一个基础发电机。"
+		"它能提供的能量远远不够，但已经足够让你起步了。"
+		"当你需要更多的能量时，你建造更多的发电机或者着手制作其他发电机。"
+	]
+	quest.4E9E7A5FE358350F.quest_subtitle: "获得基础发电机"
+	quest.4E9E7A5FE358350F.title: "你的第一台发电机"
+	quest.4ED70B5CA47DE6FA.quest_desc: [
+		"正如您所想的那样，方块破坏器是一种多方块结构，用于破坏由机器框架搭建的龙门架下方的方块。"
+		""
+		"破坏一个方块所需的时间和能量取决于被破坏方块的硬度。 方块破坏器总是会试图破坏位于其工作范围内的所有方块。 通过安装作物过滤器插件可以使其自动跳过未成熟作物并收获成熟作物。"
+		""
+		"通过安装矿场插件可以将方块破坏器作为采石场使用。每个矿场插件可以使方块破坏器的最大破坏距离（向下）乘以8。"
+		""
+		"这意味着安装一个矿场插件可以使方块破坏器破坏距离变为8格，两个矿场插件可以使其破坏距离变为64格，而三个矿场插件可以使其破坏距离达到512格。"
+		""
+		"当用作采石场时，默认速度会变得非常慢，搭配一些速度和效率升级插件是一个好主意。"
+	]
+	quest.4ED70B5CA47DE6FA.quest_subtitle: "获得方块破坏器"
+	quest.4ED70B5CA47DE6FA.title: "实用机械：方块破坏器"
+	quest.4F04479A5327BCCE.quest_desc: ["通过升级背包，你可以获得更大的背包空间。"]
+	quest.4F04479A5327BCCE.title: "升级你的背包"
+	quest.4F12B46BF8134A53.quest_desc: ["牛奶发酵而成"]
+	quest.4F12B46BF8134A53.quest_subtitle: "获得奶酪"
+	quest.4FE0992C34FBAD65.quest_desc: [
+		"普通鱼竿终究泯然众人，定制化鱼竿才是大势所趋。"
+		"制作渔夫工坊，升级你的鱼竿！"
+	]
+	quest.4FE0992C34FBAD65.quest_subtitle: "获得渔夫工坊"
+	quest.4FE0992C34FBAD65.title: "装备鱼竿"
+	quest.500ED4A1E47085A6.quest_desc: ["采集蜗牛可以掉落蜗牛，采集蜗牛卵可以掉落蜗牛卵"]
+	quest.500ED4A1E47085A6.quest_subtitle: "获得蜗牛"
+	quest.502B1F78E6C0FCBC.quest_desc: [
+		"&4&l核能虽然能供生产大量能量，但是这是一种危险的能源，随时都有爆炸的风险；因此，这是一个可选玩法，在尝试前请做好安全措施，我可不希望你的工厂变成陨石坑！&r&r"
+		"&o由于核能相关内容比较复杂，这里并不会放置相关任务或教程，我更推荐你按H键打开Oritech内置教程，选择核反应堆页面，跟着教程一步步的尝试！&r"
+	]
+	quest.502B1F78E6C0FCBC.quest_subtitle: "拓展内容：使用核能"
+	quest.502B1F78E6C0FCBC.title: "核电时代"
+	quest.505AD99D3430360C.quest_desc: [
+		"金鱼线绝对算得上是幸运物品，但可能不是鱼的。"
+		"金鱼线可以增加钓鱼的幸运值。"
+	]
+	quest.505AD99D3430360C.quest_subtitle: "获得金鱼线"
+	quest.5089555C1BD792DF.quest_desc: ["半成品准备就绪，我们就可以开始制作寿司（们）了。"]
+	quest.5089555C1BD792DF.quest_subtitle: "学习半成品"
+	quest.5089555C1BD792DF.title: "半成品"
+	quest.50BEE58C343A97E4.quest_desc: ["https://evanescent-foxtrot-c57.notion.site/EveryXHotpot-19021f779c29806ab9dec7d2f6ca03ec"]
+	quest.50BEE58C343A97E4.quest_subtitle: "查看 Wiki"
+	quest.50BEE58C343A97E4.title: "获取帮助！"
+	quest.50CD39C44CB5CD9B.quest_desc: ["「拾穗Harvista」增加了沉浸式飞机模组及其附属模组。现在，你可以自由飞翔在天空之上！"]
+	quest.50CD39C44CB5CD9B.title: "沉浸式飞机"
+	quest.51D9513BF6975704.quest_desc: ["红石中继站（mczwlt.net）是「拾穗 Harvista」的主要中文发布平台"]
+	quest.51D9513BF6975704.title: "发布页：红石中继站"
+	quest.52E870272B9B93BA.quest_desc: [
+		"你已经制作了一些基础机械，现在，是时候更进一步了：制作末影激光器，真正踏入oritech的科技长路。"
+		"制造末影激光器需要之前制作的所有机器的产物：它需要一系列的合金，装配的组件，以及一些稀有的物品。"
+		"用你新到手的末影激光器，目标标识器和一些能量，你就可以开始制造一些辐水晶了。"
+		"除此以外，它也可以给一些高级机器供电！"
+	]
+	quest.52E870272B9B93BA.quest_subtitle: "获得末影激光器"
+	quest.52E870272B9B93BA.title: "biu！"
+	quest.5303C881979A2DFE.quest_desc: ["阿魏可以提供抗性提升"]
+	quest.5303C881979A2DFE.quest_subtitle: "获得调味罐：阿魏"
+	quest.5314DF365FB84DD7.quest_desc: [
+		"使用熔岩桶右键火锅即可获得岩浆锅底。"
+		"岩浆锅底可冶炼矿物。"
+	]
+	quest.5314DF365FB84DD7.quest_subtitle: "制作岩浆锅底"
+	quest.5314DF365FB84DD7.title: "岩浆锅底"
+	quest.5358948DA35DF2A5.quest_desc: ["将蜗牛诱饵放置在树叶下方，在较长时间后会吸引来蜗牛"]
+	quest.5358948DA35DF2A5.quest_subtitle: "获得蜗牛诱饵"
+	quest.5396CB34B1010DF1.quest_desc: [
+		"无人机是一种高效的物流工具，其允许你使用无人机远距离运输物品和流体。需要注意的是，起飞和降落处至少相隔50格，且都建立并供电了无人机港。"
+		"若要使用无人机港进行传输，你需要目标标识器物品指定目标港，并将需要传输的材料和目标标识器放入发送港中。"
+	]
+	quest.5396CB34B1010DF1.quest_subtitle: "获得无人机港"
+	quest.54333B6C83E6492B.quest_desc: [
+		"恭喜你解锁彩蛋：微光锅底！"
+		"微光锅底可用于拆解物品。"
+	]
+	quest.54333B6C83E6492B.quest_subtitle: "制作微光锅底"
+	quest.54333B6C83E6492B.title: "微光锅底"
+	quest.552274CA94BF83C6.quest_desc: [
+		"离心机可以对物品进行离心分离,以此来处理一些资源以及制造进阶组件（例如将煤粉制成碳纤维），此外在安装了流体处理插件后也可以处理流体离心配方。"
+		""
+		"在未来制作了粉碎工厂后，可以将产出的矿物碎块转化为相应的矿物粉，实现矿物倍产。"
+	]
+	quest.552274CA94BF83C6.quest_subtitle: "获得离心机"
+	quest.55CC147C208782C1.quest_desc: ["粗有机聚合物是重要的半成品原料，它可以用来制作有机钢锭和塑料，未来许多机器都需要它！"]
+	quest.55CC147C208782C1.quest_subtitle: "获得粗有机聚合物"
+	quest.5616C5DCEFBCFADC.quest_desc: ["同样的，精妙存储的升级自身也能够升级。"]
+	quest.5616C5DCEFBCFADC.title: "高级升级"
+	quest.56C5EDC443C07D5A.quest_desc: ["工业冷却器是制作冰块的一把好手，只需要加入水和能量，就可以源源不断的制作冰块！"]
+	quest.56C5EDC443C07D5A.quest_subtitle: "获得工业冷却器"
+	quest.56C5EDC443C07D5A.title: "实用机械：制冰厂"
+	quest.56FDB8BEF82E7CAF.quest_desc: ["在辅料中添加可可豆将会为该批次的糖果添加额外效果：该软糖带来更强力的效果"]
+	quest.56FDB8BEF82E7CAF.quest_subtitle: "获得辅料：可可豆"
+	quest.581B43E33FF60C8F.quest_desc: [
+		"使用无线终端，蹲下右键控制器，既可绑定。"
+		""
+		"无线终端需充能才能使用。"
+	]
+	quest.581B43E33FF60C8F.quest_subtitle: "获得无线终端"
+	quest.5896461918D2C642.quest_desc: [
+		"穿着臃肿的航天服在太空冒险并不便利，或许我们需要一个代步工具。"
+		"漫游车便是一个不错的主意。"
+		""
+		"需要注意的是，漫游车带有三个升级模块：速度升级，发动机升级和油箱升级；其中，发动机升级和油箱升级与火箭升级共用同一套设备。"
+	]
+	quest.5896461918D2C642.quest_subtitle: "获得漫游车"
+	quest.5896461918D2C642.title: "太空漫游"
+	quest.58E7951AE83BD418.quest_desc: [
+		"此处是「拾穗Harvista」的一些非核心模组的教程。"
+		""
+		"页面持续更新！"
+	]
+	quest.58E7951AE83BD418.quest_subtitle: "非核心玩法教程部分"
+	quest.58E7951AE83BD418.title: "寻访未知之物"
+	quest.593B694B710AECBD.quest_desc: ["和背包一样，你的储存方块也可以通过安装升级来获得更多功能！"]
+	quest.593B694B710AECBD.title: "升级"
+	quest.597892812C4E9B45.quest_subtitle: "获得点金鱼"
+	quest.597892812C4E9B45.title: "金色传说"
+	quest.5992446A9D9A6118.quest_desc: [
+		"使用水桶/水瓶右键火锅即可获得清汤锅底。"
+		"清汤锅底可给予 15秒 的温暖效果"
+	]
+	quest.5992446A9D9A6118.quest_subtitle: "制作清汤锅底"
+	quest.5992446A9D9A6118.title: "清汤锅底"
+	quest.5999EDCE152E89CD.title: "饭团"
+	quest.59A764B2BB2522B7.quest_desc: [
+		"平静的水面培养不出优质的水手；普通的水体同样不能造就传奇钓鱼佬。"
+		"制作下界合金钓竿，征服岩浆的阻碍。"
+	]
+	quest.59A764B2BB2522B7.quest_subtitle: "获得下界合金钓竿"
+	quest.59A764B2BB2522B7.title: "向着岩浆跃进"
+	quest.59F863E2A94EFE8F.quest_desc: ["是的，但这只是个装饰品。"]
+	quest.59F863E2A94EFE8F.quest_subtitle: "获得浮漂"
+	quest.59F863E2A94EFE8F.title: "浮漂漂啊漂"
+	quest.5A49EA43373ED2DB.quest_desc: ["很遗憾遇到了这样的问题。你可以前往反馈页面反馈，或者前往社交媒体质询，我们会尽力帮助你解决问题。"]
+	quest.5A49EA43373ED2DB.title: "我发现了一个Bug/我的游戏崩溃了！"
+	quest.5B0C896183BE38D3.quest_desc: ["强化鱼线可以增加鱼竿的耐久值"]
+	quest.5B0C896183BE38D3.quest_subtitle: "获得强化鱼线"
+	quest.5BD37CE11CE59B12.quest_desc: ["合成终端多了一个工作台界面，可以直接进行合成。"]
+	quest.5BD37CE11CE59B12.quest_subtitle: "获得合成终端"
+	quest.5C1B3384E5776DCB.quest_desc: ["流体管道的行为与物流管道类似。可以连接到流体容器，并能通过右击连接点设置为提取模式。流体管道没有内部存储。"]
+	quest.5C1B3384E5776DCB.quest_subtitle: "获得流体管道"
+	quest.5C3BC9D7AA570E48.quest_desc: ["石油树脂是由石油离心所得的重要材料，是制作塑料的必要原料。"]
+	quest.5C3BC9D7AA570E48.quest_subtitle: "获得石油树脂"
+	quest.5C6E94B517BAE068.quest_desc: [
+		"月球表面之下，蕴藏着一种独特的矿物——戴斯矿，地球上尚未发现其天然存在。"
+		"初步研究表明，它可能会成为深空推进技术的革命性材料。"
+	]
+	quest.5C6E94B517BAE068.quest_subtitle: "获得戴斯锭"
+	quest.5C6E94B517BAE068.title: "异星矿藏"
+	quest.5CA72300C8B06BF6.quest_desc: [
+		"Oritech是一个内容庞大，玩法多样的大型模组，我们的任务和教程难以做到完全详尽准确，因此不要忘记去查看Oritech模组内置的教程手册。"
+		"在游戏中点击“H”键，或者在物品栏选择物品点击“ALT”键，即可打开内置维基。"
+	]
+	quest.5CA72300C8B06BF6.quest_subtitle: "查看教程！"
+	quest.5CA72300C8B06BF6.title: "获取帮助"
+	quest.5CB2B88033A4E3CF.quest_desc: ["手钻是一种可充电且不会损坏的工具，功能类似于镐和铲子。 它还可以附魔。要给手钻充电，可以将其放置在能量存储方块中，或者穿戴外骨骼胸甲。"]
+	quest.5CB2B88033A4E3CF.quest_subtitle: "获得手钻"
+	quest.5CC8E217EE08F484.quest_desc: ["铸造器是专精生产合金锭的一把好手。铸造器能够生产制作所有Oritech机器时所需的合金锭。一些合金锭（例如钢锭）可以直接在铸造器以外的地方合成，但这样做会消耗更多材料。"]
+	quest.5CC8E217EE08F484.quest_subtitle: "获得铸造器"
+	quest.5D44E920FE2238D2.quest_desc: [
+		"将4个骨头丢入清汤锅底可合成骨汤锅底。"
+		"骨汤锅底可给予 15秒 的温暖和 30秒 的跳跃提升 II 效果。"
+	]
+	quest.5D44E920FE2238D2.quest_subtitle: "制作骨汤锅底"
+	quest.5D44E920FE2238D2.title: "骨汤锅底"
+	quest.5DF3FC4A7C041D06.title: "加州卷"
+	quest.5E8828877BBCF26B.quest_desc: [
+		"使用奶桶右键火锅即可获得芝士锅底。"
+		"芝士锅底可给予 15秒 的温暖、20秒 的伤害吸收 III 和 20秒 的力量 III 效果。"
+		""
+		"每涮一个食物，芝士锅底会冷却30s。"
+	]
+	quest.5E8828877BBCF26B.quest_subtitle: "制作芝士锅底"
+	quest.5E8828877BBCF26B.title: "芝士锅底"
+	quest.5F21C62C60E10CEE.quest_desc: [
+		"还在担心背包被牛奶桶占满？取奶器和牛奶盒将解决这个问题。"
+		""
+		"只需要使用取奶器右键牛，该工具将以极其温和的形式快速的获取封装好的牛奶。"
+		""
+		"使用纸张可以为其恢复耐久度。"
+		""
+		"* 提取的量恰到好处，温和不伤牛。*"
+	]
+	quest.5F21C62C60E10CEE.quest_subtitle: "获得取奶器"
+	quest.5F21C62C60E10CEE.title: "适量取奶"
+	quest.5F490383EFFFF953.quest_desc: ["在制汤和炒菜时可以加入调味料，以此增加药水效果；调味料需要使用花瓶盛放。"]
+	quest.5F490383EFFFF953.quest_subtitle: "学习调味料"
+	quest.5F490383EFFFF953.title: "调味料"
+	quest.5F9F29DC0B8FAD73.title: "手卷"
+	quest.5FD37B72A25BD2DC.title: "按~键可以直接打开任务书！！"
+	quest.5FDA90767E25B686.quest_desc: [
+		"玩家在骨汤锅底中死亡后，丢入3 个腐肉即可合成怪物锅底。"
+		"怪物锅底可给予 15秒 的温暖、30秒 的饥饿 II 和 60秒 的臭味相投效果。"
+		"怪物锅底每涮熟一个食物就会补充 1/3 的锅底。"
+	]
+	quest.5FDA90767E25B686.quest_subtitle: "制作怪物锅底"
+	quest.5FDA90767E25B686.title: "怪物锅底"
+	quest.600DDFC1BA9C3B68.quest_desc: ["便携式火盆可以给汤冻解冻，不过其实汤锅也可以啦"]
+	quest.600DDFC1BA9C3B68.quest_subtitle: "获得便携式火盆"
+	quest.600DDFC1BA9C3B68.title: "解冻"
+	quest.61582861C76525F3.quest_desc: ["你可以通过使用升级插件升级的储存方块，以此扩大储存空间，以免来回搬运之苦"]
+	quest.61582861C76525F3.title: "升级储存"
+	quest.61D463E638A10BEF.quest_desc: ["铅灰核桃可以静置转化为密陀僧饼，其可以冶炼成铅粒"]
+	quest.61D463E638A10BEF.quest_subtitle: "获得铅锭"
+	quest.624CDAAA283A5F8C.quest_subtitle: "获得虚空"
+	quest.624CDAAA283A5F8C.title: "间隙之间"
+	quest.626D4FEB1CE99327.quest_desc: ["没有粉红桌布的制糖工坊是不完美的！"]
+	quest.626D4FEB1CE99327.quest_subtitle: "将糖果工坊放置在粉红桌布上"
+	quest.626D4FEB1CE99327.title: "真正的糖果工坊"
+	quest.628C27C4308A73C4.quest_desc: ["钷是一种终极材料，需要在原子锻造器中使用过充水晶和海森堡适配器获得。它是制作钷工具和终极机器核心的必要材料。"]
+	quest.628C27C4308A73C4.quest_subtitle: "获得钷"
+	quest.62B738FC9284F445.quest_desc: [
+		"事实证明，虽然乞力马扎罗山上没有WIFI，但是月球上还是有WIFI的。"
+		"平板电脑是群星模组的内置教程，你可以查阅平板电脑来获得实用建议！"
+	]
+	quest.62B738FC9284F445.quest_subtitle: "获得平板电脑"
+	quest.62B738FC9284F445.title: "星河计算器"
+	quest.640BDFB7F9353017.quest_desc: ["终端是整套储存网络的显示面板，它能够显示网络中储存的所有物品。"]
+	quest.640BDFB7F9353017.quest_subtitle: "获得终端"
+	quest.647025C0CD3FA932.quest_desc: [
+		"前文的实用机械都需要在由机器框架搭建的龙门架上工作。龙门架的大小决定机器的工作范围，其形状只能是空心矩形。"
+		"机器的朝向总是对准龙门架的下方。"
+		"任意数量的机器可以在同一龙门架上运行。为此您只需直接在同一龙门架上放置机器即可。"
+	]
+	quest.647025C0CD3FA932.quest_subtitle: "学习机器框架"
+	quest.647025C0CD3FA932.title: "机器框架"
+	quest.6508CBE6F8F47D2D.quest_desc: ["输入总线，会试图吧容器中的物品输入网络"]
+	quest.6508CBE6F8F47D2D.quest_subtitle: "获得输入总线"
+	quest.65650EED020C647C.quest_desc: ["钷战斧是另一种高级、不会损坏且可以附魔的工具，功能类似于斧头。"]
+	quest.65650EED020C647C.quest_subtitle: "获得钷战斧"
+	quest.65ACA55219DEFAC7.quest_desc: [
+		"这是最为基础的研究站，安装后可以进行早期植入体的研究。"
+		"其需要安装在赛博改造中心的研究站插槽上。"
+	]
+	quest.65ACA55219DEFAC7.quest_subtitle: "获得赛博研究站"
+	quest.67CF4CD8B21920AB.quest_desc: [
+		"砧板是一块坚硬的木头，配合砍刀，便可以切菜了。"
+		"不过食材很硬，或许需要多砍几次？"
+	]
+	quest.67CF4CD8B21920AB.quest_subtitle: "获得砧板"
+	quest.67D8D230D8F4A560.quest_desc: ["「拾穗Harvista」的世界生成大大丰富了！因此，不妨使用自然罗盘与结构罗盘来寻找需要的结构与群系！"]
+	quest.67D8D230D8F4A560.title: "世界如此可爱"
+	quest.67EDD50F45546B52.quest_desc: ["外观升级只能在遗迹中发现，它可以让你的火箭改变涂装。"]
+	quest.67EDD50F45546B52.quest_subtitle: "学习外观升级"
+	quest.67EDD50F45546B52.title: "外观升级"
+	quest.681CA957FA7C3874.quest_desc: ["顾名思义，你的漫游车现在可以更快了"]
+	quest.681CA957FA7C3874.quest_subtitle: "获得速度升级"
+	quest.681CA957FA7C3874.title: "加速！"
+	quest.6ACECCF0B0EAF9B5.quest_desc: ["喷气式航天服使用戴斯锭制作，有着额外的喷气功能和更高的耐久值。"]
+	quest.6ACECCF0B0EAF9B5.quest_subtitle: "获得喷气式航天服"
+	quest.6ACECCF0B0EAF9B5.title: "高级航天服"
+	quest.6B1DB6682FE52D23.quest_desc: ["在线缆上安装一个无限访问点，便可以接入无线网络。"]
+	quest.6B1DB6682FE52D23.quest_subtitle: "获得无线访问点"
+	quest.6B1DB6682FE52D23.title: "无线访问"
+	quest.6B9B1F035EBCE5EB.quest_desc: ["链锯是一种可充电且不会损坏的工具，功能类似于斧头。 它还可以附魔。要给链锯充电，可以将其放置在能量存储方块中，或者穿戴外骨骼胸甲。"]
+	quest.6B9B1F035EBCE5EB.quest_subtitle: "获得链锯"
+	quest.6BF68A0CBFD27E33.quest_desc: [
+		"基岩层钻机可以开采资源节点，资源节点会提供无尽的资源，且不能被破坏 该多方块结构机器只能在资源节点上方运行，且必须使用末影激光器来为其供能。"
+		"基岩层钻机工作时，其会开采与下方3x3范围内的资源节点类型相同的矿物。每次产出随机选择一个节点。不要求范围内所有方块均为资源节点。 试着找到一个能覆盖最多节点的位置以求最高产量。"
+	]
+	quest.6BF68A0CBFD27E33.quest_subtitle: "获得基岩层钻机"
+	quest.6C7D4DBBF04E011A.quest_desc: ["烹饪炒菜需要煎锅，不过怎么不能开始炒菜？别急，我们还需要加油！"]
+	quest.6C7D4DBBF04E011A.quest_subtitle: "获得煎锅"
+	quest.6C7D4DBBF04E011A.title: "炒菜"
+	quest.6D40FE03A194EFA4.quest_desc: [
+		"为了缓冲和存储能量，您可以使用能量存储方块。它们有两种尺寸，并且可以使用附加组件进行大规模扩展。 能量存储方块通过绿色端口从所有方向接受能量，只能通过单个红色端口输出。"
+		"此外，他也可以给一些装备充电！"
+	]
+	quest.6D40FE03A194EFA4.quest_subtitle: "获得便携能量储存"
+	quest.6DBE35D748C1243B.quest_desc: [
+		"精炼厂可用于处理物品和流体，通过精炼流体，它可以在很大程度上增加原油的利用率。它有1个物品和1个流体输入槽位，以及1个物品和3个流体输出槽位。"
+		"不过，默认情况下只有1个流体输出槽位处于激活状态。要激活另外两个输出槽位，需要在上方添加精炼厂室模块。这些模块是需要机器核心组装的多方块结构。 模块需要与精炼厂本身对齐才能连接。流体输出槽2和3的流体需要从模块中提取，而非精炼厂主方块。"
+		""
+		"嘿，它的完全体可是一个大家伙！"
+	]
+	quest.6DBE35D748C1243B.quest_subtitle: "获得精炼厂"
+	quest.6DBE35D748C1243B.title: "精炼厂"
+	quest.6E38656ED08C2227.quest_desc: ["更高耐久更耐用！"]
+	quest.6E38656ED08C2227.quest_subtitle: "获得铁笊篱"
+	quest.6E3C9FE5263DCFFD.quest_desc: ["金枪鱼是在海洋中的常见鱼类，但因其独特的肉质而愈发珍贵。"]
+	quest.6E3C9FE5263DCFFD.quest_subtitle: "获得金枪鱼"
+	quest.6E8D5C5D071B29F2.quest_subtitle: "路径点1：制作规定寿司"
+	quest.6E8D5C5D071B29F2.title: "寿司韵律"
+	quest.6EDA60616760B910.quest_desc: [
+		"当一个生物或活体死亡时，它会释放一个灵魂，而灵魂将会被周围能吸收灵魂的方块收集（包括奥术触媒，刷怪笼控制器）。"
+		""
+		"灵魂是进行奥术附魔与刷怪的必要原材料，考虑到其巨大的消耗，或许制作一个刷怪塔是更好的主意。"
+	]
+	quest.6EDA60616760B910.quest_subtitle: "学习灵魂"
+	quest.6EDA60616760B910.title: "灵魂"
+	quest.6FC75A3D10663C9D.quest_desc: ["铊石锭是一种在火星的稀有矿石，其蕴含着巨大的能量。"]
+	quest.6FC75A3D10663C9D.quest_subtitle: "获得铊石锭"
+	quest.7035CD52C546E00D.quest_subtitle: "获得鱼线"
+	quest.70588508220CEA9D.quest_desc: [
+		"线缆是连接发电机和机器的重要道具：发电机将始终输出能量，而其他所有机器可以从所有方向接受能量但不会再次输出。 电缆如果无法输出能量时，本身在每个机器连接点可以存储最多 10k RF。"
+		"线缆最多传输 10k RF/刻。"
+		""
+		"能量也可以通过末影激光无线传输，我们之后会提及的。"
+	]
+	quest.70588508220CEA9D.quest_subtitle: "获得能量线缆"
+	quest.707BFFDE507DB32E.quest_desc: [
+		"Oritech包含物流管道和物品筛选器，以满足您的物流需求。物流管道可以相互连接，并连接到所有相邻的物品栏。"
+		""
+		"要切换提取模式，您需要右键点击连接到您希望从中提取物品的方块的那一段管道。 只有当管道连接到支持提取的方块时，提取功能才会启用。每个管道连接可以独立切换。"
+		""
+		"提取的物品将被放置到网络中最近的可用物品栏中。"
+		""
+		"最大传输距离为256个方块。任何超过这个长度的网络都需要分割。"
+	]
+	quest.707BFFDE507DB32E.quest_subtitle: "获得物流管道"
+	quest.714E5988961EE588.quest_desc: ["一些光影（例如 Complementary Shaders）与群星模组修改的天空盒冲突，你需要加载资源包 HarvistaCompat以解决冲突。如果没有问题，请不要加载此资源包！"]
+	quest.714E5988961EE588.title: "我的世界出现了两个太阳！"
+	quest.715A3BF1FC6E6A62.quest_desc: [
+		"山葵根是制作芥末的原材料，可以通过种植芥末种子获得。"
+		"芥末种子可以通过打草获得。"
+	]
+	quest.715A3BF1FC6E6A62.quest_subtitle: "获得山葵根"
+	quest.716DB5F73E9FC55F.quest_desc: ["磁力鱼饵可以增加25%钓到板条箱的概率，也可以增加钓鱼速度。"]
+	quest.716DB5F73E9FC55F.quest_subtitle: "获得磁力鱼饵"
+	quest.716DB5F73E9FC55F.title: "吸铁石"
+	quest.71872C33158DE716.quest_desc: [
+		"这些鱼非常稀少，以至于它们的行踪也是个谜；不过，在钓鱼中，或许可以钓到有关它们的线索。"
+		"捕到传奇鱼的渔民也将会成为传奇。"
+	]
+	quest.71872C33158DE716.quest_subtitle: "学习传奇鱼"
+	quest.71872C33158DE716.title: "你怎么知道我钓到了传奇鱼"
+	quest.7294704C5FE5B4B2.quest_desc: [
+		"是时候制作火箭啦！火箭需要在特别的工作台——火箭组装站上合成。"
+		"火箭的制作需要大量的材料。"
+	]
+	quest.7294704C5FE5B4B2.quest_subtitle: "获得火箭组装站"
+	quest.731D912E2EC2CC7C.quest_desc: ["磁盘是一种能够存储物品的容器。相较于存储方块，磁盘更加便携，可以到处移动。"]
+	quest.731D912E2EC2CC7C.quest_subtitle: "获得1k存储磁盘"
+	quest.731D912E2EC2CC7C.title: "磁盘"
+	quest.737CE9B1BE160B8C.quest_desc: ["通过将高汤汤底静置，可以转化成汤底"]
+	quest.737CE9B1BE160B8C.quest_subtitle: "制作汤冻"
+	quest.73D2A8D2BC2899E1.quest_desc: ["现在，你的粒子环应该已经形成了，你放入其中的粒子也可以达到了一定的速度，此时，我们便可以在同一环中插入第二个粒子以引发碰撞，从而合成新的物品。当然，你也可以使用传感器自动放置粒子；如果你需要更高的速度，把环整体做大点。"]
+	quest.73D2A8D2BC2899E1.quest_subtitle: "获得粒子加速器传感器"
+	quest.73E30062AA3EEDC7.quest_desc: [
+		"扳手是一种用于编辑和破坏管道的工具。它用于更改管道每个方向上的连接，以及用于破坏管道。"
+		""
+		"要切换管道连接，您必须右键点击现有的连接以禁用它。要启用连接，您必须右键点击管道的中心，并点击您希望启用的方向对应的侧面。"
+		""
+		"要破坏管道，您必须按住Shift并右键点击管道（同时手持扳手）。管道会立即掉落为物品。或者，您可以像使用镐一样用扳手破坏管道。扳手在破坏管道时具有更高的挖掘速度。"
+	]
+	quest.73E30062AA3EEDC7.quest_subtitle: "学习管道扳手"
+	quest.73E30062AA3EEDC7.title: "管道扳手"
+	quest.73FBCE97983306AA.quest_desc: ["嵌陶缸的台面可以储存流体，也可以静置转化；它是制作油舟的必需品。"]
+	quest.73FBCE97983306AA.quest_subtitle: "获得带陶缸的台面"
+	quest.73FBCE97983306AA.title: "带陶缸的台面"
+	quest.74043996BBB1F0A1.quest_desc: [
+		"副手持纸碗，主手持漏勺或汤勺右键交互火锅时，可将火锅内的食材捞起并放入纸碗中。"
+		"主手持漏勺，纸碗会转换为麻辣拌；"
+		"主手持汤勺，纸碗会转换为麻辣烫。"
+	]
+	quest.74043996BBB1F0A1.quest_subtitle: "获得漏勺与汤勺"
+	quest.74043996BBB1F0A1.title: "漏勺与汤勺"
+	quest.74418EE8C609A60D.quest_desc: ["制作油舟需要核桃！"]
+	quest.74418EE8C609A60D.quest_subtitle: "获得核桃"
+	quest.74418EE8C609A60D.title: "油料作物"
+	quest.7531E80792C89485.quest_desc: ["金枪鱼排真的是金枪鱼做的！"]
+	quest.7531E80792C89485.quest_subtitle: "获得金枪鱼排"
+	quest.75B5F9B359287860.quest_desc: ["外部存储总线，可以把箱子纳入网路。"]
+	quest.75B5F9B359287860.quest_subtitle: "获得外部存储总线"
+	quest.75D1BD1E585CDEBF.quest_desc: [
+		"机器核心是相当重要的方块，一些机器（多方块结构）需要使用机器核心来搭建。"
+		"在放置机器本体后，手持机器核心右键机器本体，会自动在合适的位置放置机器核心。"
+		"机器核心分为七级。使用更好的机器核心来搭建机器可以提高机器等级。"
+		"&l更好的核心不会使机器运行得更快。它们只影响能添加多少层扩展坞到机器上。因此还请按需选择合适的机器核心。&r"
+	]
+	quest.75D1BD1E585CDEBF.quest_subtitle: "获得机器核心"
+	quest.75D1BD1E585CDEBF.title: "机器核心"
+	quest.76916499D4633076.quest_desc: ["过充水晶可以在工作台上合成，也可以以较低的成本在粒子加速器上合成——这里面蕴含着强大的原始能量，是制作终极工具的必要材料。"]
+	quest.76916499D4633076.quest_subtitle: "获得过充水晶"
+	quest.776D533E3711E0A1.quest_desc: [
+		"虽然你的火箭已经抵达月球，但是面对更加遥远的世界，显然普通的小型火箭已经有心无力了。因此，你需要升级你的火箭：通过升级储罐，马达，模型等重要配件，你的火箭便可以抵达更远的星河了！"
+		"需要注意的是，火箭只需要合成一次——高级的火箭只需要在基础火箭上加装配件！"
+	]
+	quest.776D533E3711E0A1.quest_subtitle: "学习火箭升级"
+	quest.776D533E3711E0A1.title: "火箭升级"
+	quest.77C61071CD71DCB4.quest_desc: ["欢迎加入QQ聊天群！"]
+	quest.77C61071CD71DCB4.title: "QQ交流群"
+	quest.780A88C1854ABC8A.quest_desc: ["「拾穗Harvista」的世界生成大变样！自然之灵模组增加了新的群系；而Moog系列模组和更好的村庄为世界点缀上点点星光。为游戏增香添色。此外，我们还专门对世界生成进行了兼容，现在，结构的生成百年的更加合理了，模组的群系也能正常生成大部分结构！"]
+	quest.780A88C1854ABC8A.title: "自然之灵"
+	quest.78F70760CC236CEF.quest_desc: ["盂可以方便得从汤锅转移汤和汤底到嵌陶缸的台面，以此方便转化为汤冻，为下一次制作腾出空间。"]
+	quest.78F70760CC236CEF.quest_subtitle: "获得盂"
+	quest.78F70760CC236CEF.title: "回收汤底？上“盂盂”"
+	quest.7993AE3838EA6C36.quest_desc: [
+		"马达可以在直线中替代导向环，这能让粒子跑的更快！"
+		""
+		"需要注意的是，马达需要充能才能使用。"
+	]
+	quest.7993AE3838EA6C36.quest_subtitle: "获得粒子加速器直线型马达"
+	quest.7A02C582434FEFA8.quest_desc: ["「拾穗Harvista」增加了精巧手艺作为装饰模组。现在，你可以装饰你的家了！"]
+	quest.7A02C582434FEFA8.title: "精巧手艺"
+	quest.7A84DE6BB440DD6E.quest_desc: ["Modrinth是「拾穗 Harvista」尚未跟进3.0版本的发布平台"]
+	quest.7A84DE6BB440DD6E.title: "发布页：Modrinth"
+	quest.7B9431C739842D01.quest_desc: ["芝麻种子可以通过种植芝麻种子获得，芝麻种子可以通过打草获得。"]
+	quest.7B9431C739842D01.quest_subtitle: "获得芝麻种子"
+	quest.7BBB7A3192549B4D.quest_desc: ["如果有任何不清楚的内容，欢迎查阅模组自带的教程手册！"]
+	quest.7BBB7A3192549B4D.quest_subtitle: "查看教程"
+	quest.7BBB7A3192549B4D.title: "获取帮助！"
+	quest.7C0460326D0FCE79.quest_desc: [
+		"资源节点分布在世界的各个地方，出现在基岩层上方不远处，呈簇状分布。 它们包含所有类型的主世界矿石，通常被一小片原油覆盖。资源节点只能使用基岩层钻机进行挖掘。"
+		"在地表，巨大矿团的出现标志着下方可能存在资源节点。巨大矿团还指示了该节点簇中可以找到的矿石类型。"
+	]
+	quest.7C0460326D0FCE79.quest_subtitle: "寻找资源节点"
+	quest.7C0460326D0FCE79.title: "无尽能源"
+	quest.7C0612BE1771DF19.quest_desc: [
+		"为了进一步增加保险柜所能存储的能量，可以用末影激光器瞄准薛定谔保险柜。激光不会向保险柜传输能量，而是会增加它的存储容量。对保险柜发射的激光越多（或越快），就能存储越多的能量。这呈指数级增长， 因此你可以存储大量能量。"
+		"然而，增加的容量仅在激光瞄准保险柜并持续发射时可用。如果激光耗尽能量或停止运行， 存储容量将缓慢减少到原始值。"
+	]
+	quest.7C0612BE1771DF19.quest_subtitle: "学习过充"
+	quest.7C0612BE1771DF19.title: "过充"
+	quest.7C25553E4D731A93.quest_desc: ["CurseForge 是「拾穗 Harvista」的主要英语发布平台"]
+	quest.7C25553E4D731A93.title: "发布页：CurseForge"
+	quest.7C5DB5F787BA5E87.quest_desc: [
+		"致尊敬的太空冒险者："
+		""
+		"您好！"
+		""
+		"&l拾穗群星研究院&r谨以此信向您致以最诚挚的敬意。您成功登陆类地行星的壮举，不仅展现了卓越的勇气与智慧，更为人类太空探索事业注入了新的动力。您的努力让我们离浩瀚星海的奥秘更近一步，也为后续的星际征程奠定了重要基础。"
+		""
+		"与此同时，研究院全体成员正致力于突破科技的边界，力求让登陆气态行星、建立深空空间站等愿景成为现实。我们相信，在不久的将来，人类文明的足迹将遍布更遥远的星域，而您今日的成就正是这一伟大征程的重要里程碑。"
+		""
+		"若有任何突破性进展，我们将第一时间通过星际通讯面板向您同步，敬请期待。愿我们在探索宇宙的旅途中携手同行，共铸辉煌。"
+	]
+	quest.7C5DB5F787BA5E87.quest_subtitle: "故事尚未结束"
+	quest.7C5DB5F787BA5E87.title: "繁星若尘"
+	quest.7C9C41C82A753822.quest_desc: ["火把花种子和瓶子草荚果也可以作为饵料"]
+	quest.7C9C41C82A753822.quest_subtitle: "更多鱼饵"
+	quest.7C9C41C82A753822.title: "另一种鱼饵"
+	quest.7CDAE97F4D3DFA6C.quest_subtitle: "领取猫猫汉堡"
+	quest.7CDAE97F4D3DFA6C.title: "终极奖励"
+	quest.7D67FDFF6E66E86F.quest_desc: ["超导体是高级的线缆，可以以近乎无限的效率传输能量。"]
+	quest.7D67FDFF6E66E86F.quest_subtitle: "获得超导体"
+	quest.7DE7D1FAF274D85D.quest_subtitle: "开启深巷杏花路径"
+	quest.7DE7D1FAF274D85D.title: "深巷杏花"
+	quest.7E25FF1B2ED7A5A8.quest_desc: ["制作寿司的配料，要注意搭配哦。"]
+	quest.7E25FF1B2ED7A5A8.quest_subtitle: "获得酱油"
+	quest.7E25FF1B2ED7A5A8.title: "添油加醋"
+	quest.7E4307E3E43DF296.quest_desc: ["样板可以用来存储合成表，你可以将其理解成自动化脚本。"]
+	quest.7E4307E3E43DF296.quest_subtitle: "获得样板"
+	quest.7E95A77C6AE7EBE2.quest_desc: [
+		"如果你并非科技玩家，或许精妙存储的箱子是更好的选择。"
+		"升级后的箱子有着巨大的空间，可以满足正常需求。"
+		""
+		"不过，随着科技不断发展，更高级的磁盘存储可能是更好的选择！"
+		""
+		"按R键可以整理背包（IPN）"
+	]
+	quest.7E95A77C6AE7EBE2.title: "精妙存储"
+	quest.7EF9D2A59524B69D.quest_desc: [
+		"钓鱼的第一步是有一根结实的鱼竿，我看看...你这根还欠点火候，用我这个。"
+		""
+		""
+		"&o*钓鱼的机制大大变化了，要适应一下哦！&r"
+	]
+	quest.7EF9D2A59524B69D.quest_subtitle: "获得钓鱼竿"
+	quest.7EF9D2A59524B69D.title: "我有鱼竿，你有鱼吗"
+	quest.7F1DCD80685A5BA7.quest_desc: [
+		"自然状态下，锅底的汤会逐渐减少直至烧空。进入烧空状态后，火锅所冒的白雾会变为黑烟；若烧空，在补充汤底后，在一定时间内，涮熟的食物不会附带火锅的自身效果"
+		""
+		"火锅的烹饪速度与火锅内剩余的汤相关，汤越少，烹饪速度越慢。一般而言，火锅的烹饪时长都会比原配方更长。"
+	]
+	quest.7F1DCD80685A5BA7.quest_subtitle: "学习空烧与烹饪机制"
+	quest.7FA4FC8107F4D408.quest_desc: ["氧气罐可以储存氧气，将其放置在水电解分离器的氧气槽位下方，就可以填充氧气了。"]
+	quest.7FA4FC8107F4D408.quest_subtitle: "获得氧气罐"
+	quest.7FBA7DEC01D58F39.quest_desc: [
+		"火锅是模组的核心物品，可通过铜锭、炼药锅和营火合成。"
+		"相邻的火锅若锅底相同或无锅底，会合并为更大的火锅，共享水位；若锅底不同，则中间有隔板隔开。"
+		"每个火锅最多容纳8个物品，物品在锅内绕中心逆时针旋转。"
+		""
+		"&o*此外，火锅可作为头盔装备使用。&r"
+	]
+	quest.7FBA7DEC01D58F39.quest_subtitle: "获得火锅"
+	quest.7FBA7DEC01D58F39.title: "首先，要有口锅"
+	quest.7FD313E1E4FEC53D.quest_desc: ["接下来，我们要将甜油转化为燃料：制作燃油精炼机，获得柴油和燃油！"]
+	quest.7FD313E1E4FEC53D.quest_subtitle: "获得燃油精炼机"
+	quest.7FE09494F225A36B.quest_subtitle: "登上火星"
+	quest.7FE09494F225A36B.title: "赤色荒原"
+	task.00DE6429A4340587.title: "原材料"
+	task.0424FC47C6CE3F8C.title: "百鱼全书"
+	task.103B540E962A4043.title: "查看教程"
+	task.46F7D4FA97E8A597.title: "开启捕鱼达人"
+	task.57CD8010C9A3CCCC.title: "空烧与烹饪机制"
+	task.6437039CD79A6C85.title: "多样锅底"
+}

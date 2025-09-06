@@ -1,0 +1,190 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "6E78AA4F4DE00332"
+	group: "5A5E37E7F2EBCC02"
+	icon: {
+		id: "libraryferret:gold_coins_jtl"
+	}
+	id: "6E78AA4F4DE00332"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "vanillacookbook:berry_juice"
+			}
+			id: "51D9513BF6975704"
+			rewards: [{
+				command: "/tellraw @s {\"text\":\"\",\"extra\":[{\"text\":\"[Harvista] MCZWLT Page\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.mczwlt.net/resource/z1zu1cn1\"}}]}"
+				icon: {
+					id: "kubejs:harvista"
+				}
+				id: "58FB9B0893B672CE"
+				permission_level: 4
+				type: "command"
+			}]
+			tasks: [{
+				id: "6CD8287BB868710A"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "vanillacookbook:melon_juice"
+			}
+			id: "7C25553E4D731A93"
+			rewards: [{
+				command: "/tellraw @s {\"text\":\"\",\"extra\":[{\"text\":\"[Harvista] CurseForge Page\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.curseforge.com/minecraft/modpacks/harvista\"}}]}"
+				icon: {
+					id: "kubejs:harvista"
+				}
+				id: "47CEA89C8A6EDCBB"
+				permission_level: 4
+				type: "command"
+			}]
+			tasks: [{
+				id: "2A0BC759B48A3BCF"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "vanillacookbook:sea_pickle_juice"
+			}
+			id: "4D4A56103FB3CD85"
+			rewards: [{
+				command: "/tellraw @s {\"text\":\"\",\"extra\":[{\"text\":\"[Harvista] MCMOD Page\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.mcmod.cn/modpack/780.html\"}}]}"
+				icon: {
+					id: "kubejs:harvista"
+				}
+				id: "77E11DF0B83685D2"
+				permission_level: 4
+				type: "command"
+			}]
+			tasks: [{
+				id: "14130321345D36D9"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "vanillacookbook:cactus_soda"
+			}
+			id: "7A84DE6BB440DD6E"
+			rewards: [{
+				command: "/tellraw @s {\"text\":\"\",\"extra\":[{\"text\":\"[Harvista] Modrinth Page\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://modrinth.com/modpack/harvista\"}}]}"
+				icon: {
+					id: "kubejs:harvista"
+				}
+				id: "6B212A9E51A8E0EB"
+				permission_level: 4
+				type: "command"
+			}]
+			tasks: [{
+				id: "6225AFE161CFD447"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "vanillacookbook:creepe"
+			}
+			id: "3B6C5361310C207D"
+			rewards: [{
+				command: "/tellraw @s {\"text\":\"\",\"extra\":[{\"text\":\"[Harvista] Discord Server\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://discord.gg/gRhttNKnpf\"}}]}"
+				icon: {
+					id: "kubejs:harvista"
+				}
+				id: "6AF89FA4345F684A"
+				permission_level: 4
+				type: "command"
+			}]
+			tasks: [{
+				id: "4E83BD62AA0AEA18"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			icon: {
+				components: {
+					"minecraft:block_entity_data": {
+						id: "natures_spirit:pizza_block_entity"
+					}
+					"minecraft:block_state": {
+						pizza_bites: "0"
+					}
+				}
+				id: "natures_spirit:whole_pizza"
+			}
+			id: "77C61071CD71DCB4"
+			rewards: [{
+				command: "/tellraw @s {\"text\":\"\",\"extra\":[{\"text\":\"[Harvista] QQ Group: 691127473\"}]}"
+				icon: {
+					id: "kubejs:harvista"
+				}
+				id: "18FA031AC9077BA1"
+				permission_level: 4
+				type: "command"
+			}]
+			tasks: [{
+				id: "62C795BF1CCB888E"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			icon: {
+				id: "natures_spirit:black_paper_lantern"
+			}
+			id: "0439CFFE66683C97"
+			rewards: [{
+				command: "/tellraw @s {\"text\":\"\",\"extra\":[{\"text\":\"[Harvista] Github Repositories\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://github.com/HaooooZhang/Harvista\"}}]}"
+				icon: {
+					id: "kubejs:harvista"
+				}
+				id: "5CC851BD059B5E0A"
+				permission_level: 4
+				type: "command"
+			}]
+			tasks: [{
+				id: "1A9CF588FFFE4488"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			icon: {
+				id: "natures_spirit:paper_lantern"
+			}
+			id: "2B97CA0EDD3BB8AF"
+			rewards: [{
+				command: "/tellraw @s {\"text\":\"\",\"extra\":[{\"text\":\"[Harvista] MCZWLT Issue\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.mczwlt.net/resource/z1zu1cn1\"}}]}"
+				icon: {
+					id: "kubejs:harvista"
+				}
+				id: "29001CFE410AB3C6"
+				permission_level: 4
+				type: "command"
+			}]
+			tasks: [{
+				id: "3FA7C1320C65C7EA"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+	]
+}

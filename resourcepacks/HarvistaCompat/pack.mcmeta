@@ -1,0 +1,7 @@
+{
+    "pack":{
+        "description": "Fix the compatibility issue between Complementary shaderpack and Stellaris mod. If you are not using this shaderpack, DO NOT use this resourcepack!!!!/n 修复了Complementary光影包与Stellaris模组的兼容性问题，若未使用该光影，则不要使用此资源包！！！！",
+        "pack_format": 34,
+        "supported_formats": { "min_inclusive": 34, "max_inclusive": 55 }
+    }
+}

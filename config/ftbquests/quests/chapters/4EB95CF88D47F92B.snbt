@@ -1,0 +1,642 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "4EB95CF88D47F92B"
+	group: "40E8C816D595BB20"
+	icon: {
+		id: "everyxhotpot:hotpot"
+	}
+	id: "4EB95CF88D47F92B"
+	images: [{
+		height: 5.0d
+		image: "everyxhotpot:textures/mob_effect/warm.png"
+		rotation: 0.0d
+		width: 5.0d
+		x: 9.0d
+		y: -5.0d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:writable_book"
+			}
+			id: "50BEE58C343A97E4"
+			rewards: [
+				{
+					command: "/tellraw @s {\"text\":\"\",\"extra\":[{\"text\":\"[Harvista] EveryXHotpot Wiki\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://evanescent-foxtrot-c57.notion.site/EveryXHotpot-19021f779c29806ab9dec7d2f6ca03ec\"}}]}"
+					icon: {
+						id: "kubejs:harvista"
+					}
+					id: "659E2A2767813923"
+					permission_level: 4
+					type: "command"
+				}
+				{
+					id: "3E463A5DC229A706"
+					type: "xp"
+					xp: 10
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				id: "103B540E962A4043"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			icon: {
+				id: "everyxhotpot:hotpot"
+			}
+			id: "7FBA7DEC01D58F39"
+			rewards: [{
+				id: "4F435160854C483B"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				consume_items: false
+				id: "2380EFE0F2666846"
+				item: { count: 1, id: "everyxhotpot:hotpot" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7FBA7DEC01D58F39"]
+			icon: {
+				id: "everyxhotpot:hotpot_soup_spoon"
+			}
+			id: "0BAA957E48288CD6"
+			rewards: [{
+				count: 2
+				id: "122A04E358C54BA6"
+				item: {
+					count: 1
+					id: "everyxhotpot:hotpot_small_plate"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2260FB7F27A97C9C"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7FBA7DEC01D58F39"]
+			id: "23A85FD24C61BBFF"
+			rewards: [{
+				id: "4620C0F17DB0D1E5"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "09DA6DEDC62443F8"
+				item: { count: 1, id: "everyxhotpot:hotpot_chopstick" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0BAA957E48288CD6"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			hide_lock_icon: true
+			id: "5992446A9D9A6118"
+			rewards: [{
+				id: "053487E3F8C39BAD"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "233B33FF19DDDE6B"
+				item: { count: 1, id: "minecraft:water_bucket" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["0BAA957E48288CD6"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "0C2D7AF6F95C6AE5"
+			rewards: [{
+				id: "2787D40D90A114C8"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "02064A5E967D029B"
+					item: { count: 3, id: "minecraft:redstone" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "031B1E81277E5D69"
+					item: { count: 2, id: "minecraft:gunpowder" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "57549AC2011FEF1C"
+					item: { count: 3, id: "minecraft:blaze_powder" }
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["0BAA957E48288CD6"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			hide_details_until_startable: false
+			hide_lock_icon: true
+			id: "09951D8B6443DBD5"
+			rewards: [{
+				id: "40E39544CAB734FC"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "5E79C94EEE331F86"
+					item: { count: 1, id: "minecraft:cod" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "6F52068BDD78A8F5"
+					item: { count: 2, id: "minecraft:salmon" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "15DF387D7EE430D4"
+					item: { count: 2, id: "minecraft:tropical_fish" }
+					type: "item"
+				}
+				{
+					id: "7A0F6A6CB9420C1E"
+					item: { count: 1, id: "minecraft:nautilus_shell" }
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["0BAA957E48288CD6"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "386463CBA019B5E2"
+			rewards: [{
+				id: "7EFDC4ACD1FF4DEF"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "585E509B070FC769"
+					item: { count: 2, id: "minecraft:brown_mushroom" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "446095BF4A5951B8"
+					item: { count: 2, id: "minecraft:red_mushroom" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "70409673A309130A"
+					item: { count: 2, id: "minecraft:crimson_fungus" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "4551B7B8DE8366AE"
+					item: { count: 2, id: "minecraft:warped_fungus" }
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["0BAA957E48288CD6"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "5D44E920FE2238D2"
+			rewards: [{
+				id: "12BDE1BF738C4859"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				count: 4L
+				id: "73F8100ADEC97348"
+				item: { count: 1, id: "minecraft:bone" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["0BAA957E48288CD6"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "5FDA90767E25B686"
+			rewards: [{
+				id: "6A995FC16074DE1C"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				count: 3L
+				id: "18E1B0EB2AF530F3"
+				item: { count: 1, id: "minecraft:rotten_flesh" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["0BAA957E48288CD6"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "5E8828877BBCF26B"
+			rewards: [{
+				id: "411F4DF3FBF05783"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "7603C32F4A25F6A3"
+				item: { count: 1, id: "minecraft:milk_bucket" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["0BAA957E48288CD6"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "17CAAF2C40046F2A"
+			rewards: [{
+				id: "132751A7C80B97A9"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "6CF5CBCF5AF15AF5"
+				item: { count: 1, id: "minecraft:pitcher_pod" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["0BAA957E48288CD6"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "5314DF365FB84DD7"
+			rewards: [{
+				id: "2123EF4E6E2A1BD5"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "023A9B003724255A"
+				item: { count: 1, id: "minecraft:lava_bucket" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0BAA957E48288CD6"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "2576078AA9F9417E"
+			rewards: [{
+				count: 8
+				id: "0A8DED3EA8EECF99"
+				item: {
+					count: 1
+					id: "minecraft:gold_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "50344B894451C32C"
+					item: { count: 1, id: "minecraft:obsidian" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "0F7DD56EB5D47311"
+					item: { count: 4, id: "minecraft:gold_ingot" }
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["0BAA957E48288CD6"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "54333B6C83E6492B"
+			invisible: true
+			rewards: [{
+				id: "6E61226254550BBE"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				count: 8L
+				id: "032260AECF4CD2E6"
+				item: { count: 1, id: "minecraft:amethyst_shard" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["0BAA957E48288CD6"]
+			icon: {
+				id: "minecraft:bamboo_sign"
+			}
+			id: "7F1DCD80685A5BA7"
+			rewards: [{
+				id: "40AA794C8C57ECDF"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "57CD8010C9A3CCCC"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["23A85FD24C61BBFF"]
+			dependency_requirement: "one_completed"
+			id: "46070CB7ABA28A3B"
+			rewards: [
+				{
+					id: "1B799BDA06FB1B50"
+					item: {
+						count: 1
+						id: "everyxhotpot:hotpot_large_round_plate"
+					}
+					type: "item"
+				}
+				{
+					id: "60C6F830C16436AA"
+					item: {
+						count: 1
+						id: "everyxhotpot:hotpot_long_plate"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "642955D80527840D"
+					item: { count: 1, id: "everyxhotpot:hotpot_long_plate" }
+					type: "item"
+				}
+				{
+					id: "234D2E192F4E2DD1"
+					item: { count: 1, id: "everyxhotpot:hotpot_large_round_plate" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["46070CB7ABA28A3B"]
+			id: "32F81EEA114D7943"
+			rewards: [{
+				count: 32
+				id: "612D38C2451EA432"
+				item: {
+					components: {
+						"minecraft:custom_name": "\"tissue\""
+					}
+					count: 1
+					id: "minecraft:paper"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "51D6A690488C52DE"
+				item: { count: 1, id: "everyxhotpot:hotpot_placement_rack" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["32F81EEA114D7943"]
+			hide_dependency_lines: true
+			id: "22BB9C1973BCDB66"
+			rewards: [
+				{
+					count: 32
+					id: "405C27281093A63C"
+					item: {
+						components: {
+							"minecraft:custom_name": "\"tissue\""
+						}
+						count: 1
+						id: "minecraft:paper"
+					}
+					type: "item"
+				}
+				{
+					id: "07C47836C335D03B"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				id: "2EB87D7568C51B0E"
+				item: { count: 1, id: "everyxhotpot:hotpot_elegant_placement_rack" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["23A85FD24C61BBFF"]
+			id: "418D34D65C71AB6A"
+			rewards: [{
+				count: 4
+				id: "15F02F960944EFE4"
+				item: {
+					count: 1
+					id: "everyxhotpot:hotpot_skewer"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3BA7BBB36CD5FF42"
+				item: { count: 1, id: "everyxhotpot:hotpot_skewer" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["32F81EEA114D7943"]
+			id: "39176CC9FA146D52"
+			rewards: [
+				{
+					id: "45AEFB9F79870064"
+					item: {
+						count: 1
+						id: "minecraft:blue_orchid"
+					}
+					type: "item"
+				}
+				{
+					id: "786E12C15052B3AA"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "3F0D17ADC6F09762"
+				item: { count: 1, id: "everyxhotpot:hotpot_spice_pack" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["32F81EEA114D7943"]
+			icon: {
+				id: "everyxhotpot:hotpot_paper_bowl"
+			}
+			id: "74043996BBB1F0A1"
+			rewards: [
+				{
+					id: "64D9674FDDC8CA83"
+					item: {
+						count: 1
+						id: "everyxhotpot:hotpot_paper_bowl"
+					}
+					type: "item"
+				}
+				{
+					id: "4D3394CF2668E1F8"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "6BE059BAA8D4C586"
+					item: { count: 1, id: "everyxhotpot:hotpot_slotted_spoon" }
+					type: "item"
+				}
+				{
+					id: "12853E01ED5327DF"
+					item: { count: 1, id: "everyxhotpot:hotpot_soup_spoon" }
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["32F81EEA114D7943"]
+			id: "3FC36C088D58D98A"
+			rewards: [
+				{
+					count: 2
+					id: "7F3202F93F838D06"
+					item: {
+						count: 1
+						id: "minecraft:beef"
+					}
+					type: "item"
+				}
+				{
+					id: "35DF09361891528D"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "060D628075906224"
+				item: { count: 1, id: "everyxhotpot:hotpot_strainer_basket" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["22BB9C1973BCDB66"]
+			hide_dependency_lines: true
+			id: "1BD4E6B48D653F1D"
+			rewards: [
+				{
+					count: 32
+					id: "52787098C4E2AED2"
+					item: {
+						components: {
+							"minecraft:custom_name": "\"tissue\""
+						}
+						count: 1
+						id: "minecraft:paper"
+					}
+					type: "item"
+				}
+				{
+					id: "30033BBD606A8082"
+					item: {
+						components: {
+							"minecraft:dyed_color": {
+								rgb: 16701501
+							}
+						}
+						count: 1
+						id: "everyxhotpot:hotpot_napkin_holder"
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				id: "517B8025F03E4673"
+				item: { count: 1, id: "everyxhotpot:hotpot_napkin_holder" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+	]
+}

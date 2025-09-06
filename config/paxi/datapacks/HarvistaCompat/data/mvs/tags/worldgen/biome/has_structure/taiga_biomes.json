@@ -1,0 +1,29 @@
+{
+  "replace": false,
+
+  "_comment": " This biome tag can specify the biome directly. Or specify another biome tag by starting with # ",
+  "values": [
+    "#minecraft:is_taiga",
+    "natures_spirit:boreal_taiga",
+		"natures_spirit:fir_forest",
+		"natures_spirit:snowy_fir_forest",
+		"natures_spirit:snowy_redwood_forest",
+		"natures_spirit:redwood_forest",
+    {
+      "id": "#c:is_taiga",
+      "required": false
+    },
+    {
+      "id": "byg:canadian_shield",
+      "required": false
+    },
+    {
+      "id": "byg:snowy_deciduous_forest",
+      "required": false
+    },
+    {
+      "id": "byg:snowy_evergreen_taiga",
+      "required": false
+    }
+  ]
+}

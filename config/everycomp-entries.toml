@@ -1,0 +1,81 @@
+#Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
+[types]
+
+		[types.wood_type.natures_spirit]
+			redwood = true
+			sugi = true
+			wisteria = true
+			fir = true
+			willow = true
+			aspen = true
+			maple = true
+			cypress = true
+			olive = true
+			joshua = true
+			ghaf = true
+			palo_verde = true
+			coconut = true
+			cedar = true
+			larch = true
+			mahogany = true
+			saxaul = true
+
+		[types.wood_type.caupona]
+			walnut = true
+
+		[types.leaves_type.natures_spirit]
+			frosty_redwood = true
+			redwood = true
+			sugi = true
+			wisteria = true
+			white_wisteria = true
+			part_white_wisteria = true
+			blue_wisteria = true
+			part_blue_wisteria = true
+			pink_wisteria = true
+			part_pink_wisteria = true
+			purple_wisteria = true
+			part_purple_wisteria = true
+			frosty_fir = true
+			fir = true
+			willow = true
+			aspen = true
+			yellow_aspen = true
+			red_maple = true
+			orange_maple = true
+			yellow_maple = true
+			cypress = true
+			olive = true
+			joshua = true
+			ghaf = true
+			palo_verde = true
+			coconut = true
+			cedar = true
+			larch = true
+			mahogany = true
+			saxaul = true
+
+		[types.leaves_type.caupona]
+			walnut = true
+			fig = true
+			wolfberry = true
+
+#Disables specific entries
+[entries]
+
+		[entries.wood_type.handcrafted]
+			counter = true
+			corner_trim = true
+			fancy_bed = true
+			desk = true
+			couch = true
+			shelf = true
+			nightstand = true
+			table = true
+			chair = true
+			drawer = true
+			cupboard = true
+			pillar_trim = true
+			dining_bench = true
+			side_table = true
+			bench = true
