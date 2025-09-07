@@ -1,12 +1,12 @@
 name = "Harvista"
 author = "Nixieboluo, HaooooZhang"
-version = "3.1.2-ourmoe+r2"
+version = "3.1.2-ourmoe+r3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4a5d432b71e8069f2edba8ec5e3e957421cb223f92efe15445b9faf081ad857a"
+hash = "d9f88c48884bf08740d4f3fbae75e8a6a6418a97dcceae5b22e68a9d53267b72"
 
 [versions]
 minecraft = "1.21.1"

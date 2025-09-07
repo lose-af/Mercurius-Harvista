@@ -8,6 +8,12 @@ Licensed under MPL-2.0.
 
 ## Changes
 
+### 3.1.2-ourmoe+r3
+
+-   Added some tweaks to `BetterCombat`.
+-   Added `Clumps`
+-   Added `Easy Villagers`
+
 ### 3.1.2-ourmoe+r2
 
 -   Added `FTB Ranks` and related configs.

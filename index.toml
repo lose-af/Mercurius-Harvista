@@ -74,7 +74,7 @@ hash = "754feb4474a3f4d9fe6bd08f38c248fd5a796ed51f38d7d5704680250f3a34ca"
 
 [[files]]
 file = "config/bettercombat/server.json5"
-hash = "b4d8fd935d23f528a177e95c8a45be52fa5f3e4cd2671802be1f44c80aef724a"
+hash = "d1480c5e35067e2cd9bfeed3d35f93484a8df1ee46217769e514b0be3d2a1913"
 
 [[files]]
 file = "config/bettervillage_1.properties"
@@ -2136,6 +2136,11 @@ hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
+metafile = true
+
+[[files]]
 file = "mods/commandstructures.pw.toml"
 hash = "58c9aab93f2256229b132626889fb85ad9663fcf8ce0683ca27dfbc70dcb570d"
 metafile = true
@@ -2198,6 +2203,11 @@ metafile = true
 [[files]]
 file = "mods/earthmobs.pw.toml"
 hash = "683c8b90b56c6ba08163f53bd045a4a50a97cc49eb3d7488961824265d5362c2"
+metafile = true
+
+[[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "2b8f11366bcb4553b869e05bb8da4dd835502b06f5e1cef8a4f1c12d3641a8ec"
 metafile = true
 
 [[files]]
