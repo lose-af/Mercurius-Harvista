@@ -81,6 +81,10 @@ file = "config/bettervillage_1.properties"
 hash = "155b0389cc79bc74e7645a59549727812dd6d34c55cfd79ee67583d0d14b65f0"
 
 [[files]]
+file = "config/buildinggadgets2-common.toml"
+hash = "15fafb7fc5c19f7c59c7a3d56d70091195a10053454b3c7f54271df97b7e16d9"
+
+[[files]]
 file = "config/catburger-client.toml"
 hash = "2cf43b01a1b05f6e04fdb8c71721b2d53dc832a4d0415ba395a879356effe0f4"
 
@@ -99,6 +103,10 @@ hash = "7e5155daf7abc9754449e89ce2217b3b772b27ba43f72db3fd582d9fafc9ec9e"
 [[files]]
 file = "config/chat_heads.json5"
 hash = "744e6977b53f264ff47a1925451f7bd7083eb6bd7bff2505980cc3e9ca4ca0e2"
+
+[[files]]
+file = "config/colorfulhearts.toml"
+hash = "c9df03715f825eeb7eec31c483af7f7da808b06c829cb63d00c4660c5ac969b2"
 
 [[files]]
 file = "config/configuration-options.json"
@@ -235,6 +243,10 @@ hash = "f437a2bff2337eecc996f8d0d17d348403eae070045dfbd37065c6fcb79ce6ce"
 [[files]]
 file = "config/exposure-server.toml"
 hash = "43c4f95e10754a3968a68bc432bfcbf975495a2a74ddbefe41dfa7707fb033d8"
+
+[[files]]
+file = "config/extrastorage-server.toml"
+hash = "c6d75050609ef0c0cdc47fa365fe331a2f679109787c7fd642272ce93a689c29"
 
 [[files]]
 file = "config/fancymenu/assets/16x16.png"
@@ -1653,6 +1665,18 @@ file = "config/rsinfinitybooster-server.toml"
 hash = "a27c336a1fa93b0178fd2b3d8fe27d9d0f31186702a78f55f9e7e25da75e7b1c"
 
 [[files]]
+file = "config/sfm-client-program-editor.toml"
+hash = "63168292239ee31fcf62717baedb3768385b29dfdbe73280c66c365b26d92228"
+
+[[files]]
+file = "config/sfm-client.toml"
+hash = "a4188329838f7e91d061358864a1e8d5b400638c2344210dcaf7be30db2f337f"
+
+[[files]]
+file = "config/sfm-server.toml"
+hash = "80af12b1930e999ffd56545b86f1d9b6b9a4195d6ff2ff730b87381a8d1f19fb"
+
+[[files]]
 file = "config/simplebbq-common.toml"
 hash = "7969af1282ff81f1e0228b558e9a72f341673297f0cf12d52a8143465d576cf1"
 
@@ -1691,6 +1715,14 @@ hash = "a2ec6eed6eabba1b5ddddeb274e4788b8fafe04751eafea7749e76d9fcf757de"
 [[files]]
 file = "config/sodiumextras-client.toml"
 hash = "eaa1dd286378c78d4e62bdb127ce50a6668a73f79161fd3aa95e40c787e29c8a"
+
+[[files]]
+file = "config/solonion-client.json"
+hash = "3b25083488df1b392b417e202ade95037aee601ff4a564067c2b1d67fff60aa0"
+
+[[files]]
+file = "config/solonion.json"
+hash = "ad15000f576d807d57a52b0b99f6bdbd02faeca4b9c4ad01a9e1d4137ce845d3"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
@@ -2106,6 +2138,11 @@ hash = "0bcbbcbf939f82f90be11d6d647478f93d43d60d289d6b8ba8484ffb0f8a0f59"
 metafile = true
 
 [[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "88908286eebea979713b5626891f634317fcc4c5a5bd4ec0c9444a33863a4518"
+metafile = true
+
+[[files]]
 file = "mods/calypsos-candy-workshop.pw.toml"
 hash = "3e40a988fa285672707c409ae6868445a69cd75133cf9d77fee7e33f3f7b19ed"
 metafile = true
@@ -2138,6 +2175,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
+metafile = true
+
+[[files]]
+file = "mods/colorful-hearts.pw.toml"
+hash = "3f6e74711a0c2677548ec3a5ef36a3fbf79b5a9f2b406aab73b1ca678fc518f9"
 metafile = true
 
 [[files]]
@@ -2211,6 +2253,11 @@ hash = "2b8f11366bcb4553b869e05bb8da4dd835502b06f5e1cef8a4f1c12d3641a8ec"
 metafile = true
 
 [[files]]
+file = "mods/edivadlib.pw.toml"
+hash = "e2ee2481b63a012bdfb8c9f588788dd2f116ff48298014bb3e00d08a224fe14f"
+metafile = true
+
+[[files]]
 file = "mods/elainasbroom.pw.toml"
 hash = "2e5e84645efee8335f4dad54ee036655ca0f35189996cfb8a2f65106507b752e"
 metafile = true
@@ -2273,6 +2320,11 @@ metafile = true
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "1c516c3cdedc1a2b6bdd4d7ab12469142d5ee9dadc03e815be3f2a04b95f7135"
+metafile = true
+
+[[files]]
+file = "mods/extrastorage.pw.toml"
+hash = "79c0a66179f26b41c64c0febbe845ab352a61e65351b2884c9f001c24c991b8e"
 metafile = true
 
 [[files]]
@@ -2711,8 +2763,18 @@ hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
+file = "mods/spice-of-life-onion.pw.toml"
+hash = "3b36aff397c550acf34d042f7f33fa5a007b281a6240c80c5cbebfc1d3b8af7e"
+metafile = true
+
+[[files]]
 file = "mods/stellaris.pw.toml"
 hash = "3f138efe18e553ea81bd09ab24dc4ddf8128dd6f6bd70f2b9494ebb5c39b9352"
+metafile = true
+
+[[files]]
+file = "mods/super-factory-manager.pw.toml"
+hash = "6ab9135d79d3912f8eca6bd59da43b4dad8b1361d2de3782d40c79b284e80674"
 metafile = true
 
 [[files]]

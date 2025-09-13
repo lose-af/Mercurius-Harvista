@@ -8,6 +8,15 @@ Licensed under MPL-2.0.
 
 ## Changes
 
+### 3.1.2-ourmoe+r4
+
+-   Added `Building Gadgets"`
+-   Added `Colorful Hearts"`
+-   Added `EdivadLib"`
+-   Added `ExtraStorage"`
+-   Added `Spice of Life Onion"`
+-   Added `Super Factory Manager"`
+
 ### 3.1.2-ourmoe+r3
 
 -   Added some tweaks to `BetterCombat`.
